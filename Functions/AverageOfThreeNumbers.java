@@ -2,7 +2,7 @@ package Functions;
 import java.util.Scanner;
 public class AverageOfThreeNumbers {
     public static int printAverage(int a,int b,int c){
-        int avg=(a+b+c)/2;
+        int avg=(a+b+c)/3;
         return avg;
     }
 
