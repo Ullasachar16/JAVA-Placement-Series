@@ -1,4 +1,4 @@
-package OperatorsAndBinaryNumberSystem;
+package OperatorsAndBitManipulation;
 
 public class RelationalOperator {
     public static void main(String[] args) {

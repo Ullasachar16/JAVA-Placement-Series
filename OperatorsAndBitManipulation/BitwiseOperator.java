@@ -1,4 +1,4 @@
-package OperatorsAndBinaryNumberSystem;
+package OperatorsAndBitManipulation;
 
 public class BitwiseOperator {
     public static void main(String[] args) {
@@ -18,10 +18,10 @@ public class BitwiseOperator {
         //binary left shift
         a=0110;
         b=0101;
-        System.out.println(a<<b);
+        System.out.println(2<<1);
 
         //binary right shift
-        System.out.println(a>>b);
+        System.out.println(2>>1);
 
     }
 }
