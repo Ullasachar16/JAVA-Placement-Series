@@ -7,6 +7,19 @@ public class ClassChallengeBackground {
     private String email;
     private int phNo;
 
+    public ClassChallengeBackground() {
+        System.out.println("Empty Constructor called");
+    }
+
+    public ClassChallengeBackground(String acNo, double balance, String customerName, String email, int phNo) {
+        System.out.println("Account constructor with parameters called");
+        this.acNo = acNo;
+        this.balance = balance;
+        this.customerName = customerName;
+        this.email = email;
+        this.phNo = phNo;
+    }
+
     public void deposit(double depositAmount){
         this.balance+=depositAmount;
         System.out.println(" Deposit of "+depositAmount+" made.New balance is "+this.balance );
