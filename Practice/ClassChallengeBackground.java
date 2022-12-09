@@ -8,6 +8,7 @@ public class ClassChallengeBackground {
     private int phNo;
 
     public ClassChallengeBackground() {
+        this("56789",2.50,"default name","default address",123);
         System.out.println("Empty Constructor called");
     }
 
