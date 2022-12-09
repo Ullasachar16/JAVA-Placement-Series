@@ -10,6 +10,8 @@ public class ClassChallengeMain {
         cbc.withdrawal(100.0);
         cbc.deposit(51.0);
         cbc.withdrawal(100.0);
+        ClassChallengeBackground cbc1=new ClassChallengeBackground("tim","tim@email.com",12345);
+        System.out.println(cbc.getAcNo()+" name "+cbc.getCustomerName());
 
 
     }

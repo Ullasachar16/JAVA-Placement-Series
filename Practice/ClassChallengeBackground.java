@@ -20,6 +20,12 @@ public class ClassChallengeBackground {
         this.email = email;
         this.phNo = phNo;
     }
+    public ClassChallengeBackground(String customerName, String email, int phNo) {
+        this("99999",100.55,customerName,email,phNo);
+        this.customerName = customerName;
+        this.email = email;
+        this.phNo = phNo;
+    }
 
     public void deposit(double depositAmount){
         this.balance+=depositAmount;
@@ -33,6 +39,8 @@ public class ClassChallengeBackground {
             System.out.println("Withdrawal of  "+withdrawalAmount+ " processed. Remaining balance= "+this.balance);
         }
     }
+
+
 
     public String getAcNo() {
         return acNo;
