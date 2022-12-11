@@ -16,7 +16,7 @@ public class PrintKeypadCombination {
         }
     }
     public static void main(String[] args) {
-        String str="4";
+        String str="23";
         printComb(str,0,"");
     }
 }
