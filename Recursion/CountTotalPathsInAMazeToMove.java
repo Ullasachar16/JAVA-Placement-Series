@@ -8,7 +8,7 @@ public class CountTotalPathsInAMazeToMove {
         if(i==n-1 && j==m-1){
             return 1;
         }
-        //move cownwards
+        //move downwards
         int downPaths=countPaths(i+1,j,n,m);
 
         //move right
