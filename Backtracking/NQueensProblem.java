@@ -78,5 +78,6 @@ public class NQueensProblem {
         List<List<String>> allBoards=new ArrayList<>();
         char[][] board = new char[n][n];
         helper(board,allBoards,0);
+        return allBoards;
     }
 }
