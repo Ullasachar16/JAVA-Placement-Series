@@ -1,6 +1,7 @@
 package Backtracking;
 
 public class SudokuSolver {
+    //Leet Code Problem
     public boolean isSafe(char[][] board,int row,int col,int number){
         for(int i=0;i<board.length;i++){
             if(board[i][col] == (char)(number+'0')){
