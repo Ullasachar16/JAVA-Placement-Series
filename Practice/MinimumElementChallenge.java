@@ -1,0 +1,29 @@
+package Practice;
+
+import java.util.Scanner;
+
+public class MinimumElementChallenge {
+    private static Scanner sc=new Scanner(System.in);
+    private static int[] readIntegers(int count){
+        int[] array=new int[count];
+        for(int i=0;i<array.length;i++){
+            System.out.println("Enter a number:");
+            int number=sc.nextInt();
+            sc.nextLine();
+            array[i]=number;
+        }
+        return array;
+    }
+    private static int[] findMin(int array){
+        int min=Integer.MAX_VALUE;
+
+    }
+    public static void main(String[] args) {
+        System.out.println("Enter count:");
+        int count=sc.nextInt();
+        sc.nextLine();
+
+        int[] returnedArray=readIntegers(count);
+
+    }
+}

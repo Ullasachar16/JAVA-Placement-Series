@@ -21,7 +21,7 @@ public class ArrayChallenge {
     }
     public static void printArray(int[] array){
         for(int i=0;i<array.length;i++){
-            System.out.println("Element "+i+" contents "+array[i]);
+            System.out.println("Element "+i+" contains "+array[i]);
         }
     }
     public static int[] sortArray(int[] array){
