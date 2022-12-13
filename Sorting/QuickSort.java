@@ -21,10 +21,10 @@ public class QuickSort {
     }
     public static void quickSort(int arr[],int low,int high){
         if(low<high){
-            int pidx=partition(arr,low,high);
+            int pindex=partition(arr,low,high);
 
-            quickSort(arr,low,pidx-1);
-            quickSort(arr,pidx+1,high);
+            quickSort(arr,low,pindex-1);
+            quickSort(arr,pindex+1,high);
         }
     }
     public static void main(String[] args) {
