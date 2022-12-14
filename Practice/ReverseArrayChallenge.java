@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ReverseArrayChallenge {
+    //Reversing Array
     private static void reverse(int[] array) {
         int maxIndex=array.length-1;
         int halfLength= array.length/2;

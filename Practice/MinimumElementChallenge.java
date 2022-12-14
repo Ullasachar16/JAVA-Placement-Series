@@ -3,6 +3,7 @@ package Practice;
 import java.util.Scanner;
 
 public class MinimumElementChallenge {
+    //to find minimum element in an array
     private static Scanner sc=new Scanner(System.in);
     private static int[] readIntegers(int count){
         int[] array=new int[count];
