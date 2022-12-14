@@ -29,7 +29,7 @@ public class ClassChallengeBackground {
 
     public void deposit(double depositAmount){
         this.balance+=depositAmount;
-        System.out.println(" Deposit of "+depositAmount+" made.New balance is "+this.balance );
+        System.out.println(" Deposit of " +depositAmount+ " made.New balance is "+this.balance );
     }
     public void withdrawal(double withdrawalAmount){
         if(this.balance-withdrawalAmount<0){
