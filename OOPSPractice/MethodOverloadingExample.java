@@ -1,6 +1,7 @@
 package OOPSPractice;
 
 public class MethodOverloadingExample {
+    //overloading main method
     public static void main(String[] args) throws Exception {
         System.out.println("start");
         main(10.5);
