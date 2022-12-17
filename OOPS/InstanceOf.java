@@ -11,6 +11,7 @@ public class InstanceOf {
         System.out.println(f instanceof Father3);
         System.out.println(f instanceof Daughter);
         System.out.println(f instanceof Son3);
+        System.out.println(d instanceof Daughter);
         System.out.println(new Son3()instanceof Father3);
         System.out.println(new Father3()instanceof Son3);
         System.out.println(new Father3()instanceof Daughter);
