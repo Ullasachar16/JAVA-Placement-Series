@@ -1,6 +1,6 @@
 package OOPS;
 
-public class AccessingPublicMembers {
+public class AccessingPublicMembersInSamePackage {
     //accessing public members in diff class
     public static void main(String[] args) {
         Student2 s1=new Student2();
