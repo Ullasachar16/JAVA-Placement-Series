@@ -1,9 +1,11 @@
 package Functions;
 import OOPS.Car4;
-public class MainClass {
+public class MainClass extends Car4 {
     public static void main(String[] args) {
-        //accessing public class in diff package
+        //accessing public and protected in diff package
         Car4 c=new Car4();
-        System.out.println("cost:"+c.cost);
+        MainClass mc=new MainClass();
+        System.out.println("car cost:"+c.cost);
+        System.out.println("car name:"+mc.name);
     }
 }
