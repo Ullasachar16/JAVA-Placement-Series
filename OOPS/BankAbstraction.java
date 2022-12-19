@@ -33,7 +33,7 @@ class AccountHolder1{
         System.out.println("Welcome to ATM");
         System.out.println("----------------------------");
         Scanner sc=new Scanner(System.in);
-        BankAbstraction b=new ATM();
+        BankAbstraction b=new ATM(); //Upcasting
         while(true){
             System.out.println("1.Deposit\t2.Withdraw\t3.Check Balance\t4.Exit");
             System.out.println("Enter Choice:");
