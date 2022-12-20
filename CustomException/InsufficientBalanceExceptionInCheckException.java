@@ -2,7 +2,7 @@ package CustomException;
 
 import java.util.Scanner;
 
-public class InsufficientBalanceException extends Exception {
+public class InsufficientBalanceExceptionInCheckException extends Exception {
 }
 class ATM{
     public static void main(String[] args) {
@@ -14,9 +14,9 @@ class ATM{
             System.out.println("Withdrawn successfully");
         }else{
             try {
-                throw new InsufficientBalanceException();
+                throw new InsufficientBalanceExceptionInCheckException();
             }
-            catch (InsufficientBalanceException e){
+            catch (InsufficientBalanceExceptionInCheckException e){
                 System.out.println("Not enough balance to withdraw");
             }
         }
