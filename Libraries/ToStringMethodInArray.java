@@ -1,4 +1,4 @@
-package Collections;
+package Libraries;
 
 public class ToStringMethodInArray {
     String name;
