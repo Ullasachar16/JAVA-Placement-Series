@@ -1,4 +1,4 @@
-package Collections;
+package Libraries;
 
 public class ReverseAStringWithoutUsingToCharArray {
     public static void main(String[] args) {
