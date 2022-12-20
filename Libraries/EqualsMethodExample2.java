@@ -1,4 +1,4 @@
-package Collections;
+package Libraries;
 
 public class EqualsMethodExample2 {
     int age;
