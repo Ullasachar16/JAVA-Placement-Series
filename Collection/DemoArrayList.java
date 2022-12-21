@@ -36,6 +36,8 @@ public class DemoArrayList {
         System.out.println(l);
         l.set(2,30);
         System.out.println(l);
+        l.clear();
+        System.out.println(l);
 
 
 
