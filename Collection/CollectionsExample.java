@@ -21,6 +21,12 @@ public class CollectionsExample {
         for(Object i:l){
             System.out.print(i+" ");
         }
+        System.out.println();
+        System.out.println("reverse");
+        Collections.reverse(l);
+        for (Object obj:l){
+            System.out.print(obj+" ");
+        }
 
     }
 }
