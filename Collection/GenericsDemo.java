@@ -22,11 +22,18 @@ public class GenericsDemo {
             System.out.println(i);
         }
         ArrayList<Integer> al=new ArrayList();
-        al.add(a);
-        al.add(a+30);
-        al.add(a-10);
+        al.add(a);  //l.add(new Integer(10));
+        al.add(a+30);  //l.add(new Integer(10+30));
+        al.add(a-10);   //l.add(new Integer(10-10));
         for(Integer i:al){
             System.out.println(i);
+        }
+        LinkedList li=new LinkedList();
+        li.add(10);
+        li.add(true);
+        li.add("java");
+        for(Object o:li){
+            System.out.println(o);
         }
     }
 }
