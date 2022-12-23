@@ -1,7 +1,6 @@
-package Collection;
+package CollectionInterface;
 
 import java.util.LinkedList;
-import java.util.Objects;
 
 public class CollectionProgramExample1 {
     public static void main(String[] args) {
