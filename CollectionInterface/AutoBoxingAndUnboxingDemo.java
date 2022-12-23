@@ -1,4 +1,4 @@
-package Collection;
+package CollectionInterface;
 
 public class AutoBoxingAndUnboxingDemo {
     public static void main(String[] args) {
