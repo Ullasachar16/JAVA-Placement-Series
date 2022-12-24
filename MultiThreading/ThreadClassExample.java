@@ -32,9 +32,11 @@ class Solution{
         Student2 s=new Student2();
         //s.setName("2nd Thread");
         System.out.println(s.getName());
+        System.out.println(s.getPriority());
         s.start();
         ThreadClassExample tce=new ThreadClassExample();
         tce.setName("1st thread");
+        tce.setPriority(4);
         System.out.println(tce.getName());
         tce.start();
 
