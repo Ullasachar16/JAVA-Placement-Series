@@ -1,4 +1,4 @@
-package MultiThreading;
+package Threads;
 
 public class ThreadClassExample extends Thread {
     @Override

@@ -1,4 +1,4 @@
-package MultiThreading;
+package Threads;
 
 public class RunnableInterfaceExample1 implements Runnable{
     @Override
