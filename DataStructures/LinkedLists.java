@@ -38,12 +38,10 @@ public class LinkedLists {
     }
     public void printList() {
         Node currNode = head;
-
         while(currNode != null) {
             System.out.print(currNode.data+" -> ");
             currNode = currNode.next;
         }
-
         System.out.println("null");
     }
     public void removeFirst() {
@@ -51,7 +49,6 @@ public class LinkedLists {
             System.out.println("Empty List, nothing to delete");
             return;
         }
-
         head = this.head.next;
         size--;
     }
@@ -60,20 +57,17 @@ public class LinkedLists {
             System.out.println("Empty List, nothing to delete");
             return;
         }
-
         size--;
         if(head.next == null) {
             head = null;
             return;
         }
-
         Node currNode = head;
         Node lastNode = head.next;
         while(lastNode.next != null) {
             currNode = currNode.next;
             lastNode = lastNode.next;
         }
-
         currNode.next = null;
     }
     public int getSize() {
@@ -82,18 +76,19 @@ public class LinkedLists {
 
     public static void main(String args[]) {
         LinkedLists list = new LinkedLists();
+        //add at last
         list.addLast("is");
         list.addLast("a");
         list.addLast("list");
         list.printList();
-
+        //add at first
         list.addFirst("this");
         list.printList();
         System.out.println(list.getSize());
-
+        //remove at first
         list.removeFirst();
         list.printList();
-
+        //remove at last
         list.removeLast();
         list.printList();
     }
