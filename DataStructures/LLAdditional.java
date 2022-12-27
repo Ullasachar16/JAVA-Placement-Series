@@ -1,29 +1,30 @@
 package DataStructures;
 
-class LinkedListsAdditional {
+class LLAdditional {
     //scratch implementation
     Node head;
     private int size;
 
-    LinkedListsAdditional () {
+    LLAdditional() {
         this.size = 0;
     }
     public class Node {
-        String data;
+        int data;
+        int val;
         Node next;
-        Node(String data) {
+        Node(int data) {
             this.data = data;
             this.next = null;
             size++;
         }
     }
-    public void addFirst(String data) {
+    public void addFirst(int data) {
         Node newNode = new Node(data);
         newNode.next = head;
         head = newNode;
     }
 
-    public void addLast(String data) {
+    public void addLast(int data) {
         Node newNode = new Node(data);
         if(head == null) {
             head = newNode;
@@ -72,14 +73,14 @@ class LinkedListsAdditional {
     public int getSize() {
         return size;
     }
-    public ListNode removeNthFromEnd(ListNode head, int n) {
+    public Node removeNthFromEnd(Node head, int n) {
         if(head.next == null) {
             return null;
         }
 
 
         int size = 0;
-        ListNode temp = head;
+        Node temp = head;
         while(temp != null) {
             temp = temp.next;
             size++;
@@ -92,7 +93,7 @@ class LinkedListsAdditional {
 
         //find previous node
         int ptf = size - n; // position to find
-        ListNode prev = head; // previous node
+        Node prev = head; // previous node
         int cp = 1; // current position
 
         while(cp != ptf) {
@@ -103,9 +104,9 @@ class LinkedListsAdditional {
         prev.next = prev.next.next;
         return head;
     }
-    public ListNode getMiddle(ListNode head) {
-        ListNode fast = head;
-        ListNode slow = head;
+    public Node getMiddle(Node head) {
+        Node fast = head;
+        Node slow = head;
         while (fast.next != null && fast.next.next != null) {
             fast = fast.next.next;
             slow = slow.next;
@@ -113,12 +114,12 @@ class LinkedListsAdditional {
         return slow;
     }
 
-    public ListNode reverse(ListNode head) {
-        ListNode prev = null;
-        ListNode curr = head;
+    public Node reverse(Node head) {
+        Node prev = null;
+        Node curr = head;
 
         while (curr != null) {
-            ListNode next = curr.next;
+            Node next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
@@ -126,14 +127,14 @@ class LinkedListsAdditional {
         return prev;
     }
 
-    public boolean isPalindrome(ListNode head) {
+    public boolean isPalindrome(Node head) {
         if(head == null || head.next == null) {
             return true;
         }
 
-        ListNode firstHalfEnd = getMiddle(head);
-        ListNode secondHalfStart = reverse(firstHalfEnd.next);
-        ListNode firstHalfStart = head;
+        Node firstHalfEnd = getMiddle(head);
+        Node secondHalfStart = reverse(firstHalfEnd.next);
+        Node firstHalfStart = head;
 
         while(secondHalfStart != null) {
             if(secondHalfStart.val != firstHalfStart.val) {
@@ -145,9 +146,9 @@ class LinkedListsAdditional {
 
         return true;
     }
-    public boolean hasCycle(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
+    public boolean hasCycle(Node head) {
+        Node slow = head;
+        Node fast = head;
 
         while(fast != null && fast.next != null) {
             slow = slow.next;
@@ -161,21 +162,12 @@ class LinkedListsAdditional {
         return false;
     }
     public static void main(String args[]) {
-        LinkedListsAdditional list = new LinkedListsAdditional();
+        LLAdditional list = new LLAdditional();
         //add at last
-        list.addLast("is");
-        list.addLast("a");
-        list.addLast("list");
-        list.printList();
-        //add at first
-        list.addFirst("this");
-        list.printList();
-        System.out.println(list.getSize());
-        //remove at first
-        list.removeFirst();
-        list.printList();
-        //remove at last
-        list.removeLast();
+        list.addFirst(1);
+        list.addLast(2);
+        list.addLast(4);
+        list.addLast(3);
         list.printList();
     }
 }
