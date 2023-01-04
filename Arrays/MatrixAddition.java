@@ -3,6 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class MatrixAddition {
+    //program to add 2 matrix
     Scanner scan;
     int matrix1[][],matrix2[][],sum[][];
     int row,column;
