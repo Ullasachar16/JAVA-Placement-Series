@@ -1,6 +1,7 @@
 package ExceptionHandling;
 
 public class RunnerUsingSuperClassException {
+    //Implementing Super Class Exception
     public static void main(String[] args) {
         try {
             System.out.println(10 / 0);
