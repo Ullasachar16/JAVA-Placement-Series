@@ -1,6 +1,7 @@
 package ExceptionHandling;
 
 public class ThrowsKeywordExampleInUncheckException {
+    //Implementing Throws Keyword In Uncheck Exception
     static void div()throws ArithmeticException{
         System.out.println(10/0);
     }
