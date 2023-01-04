@@ -1,6 +1,7 @@
 package ExceptionHandling;
 
 public class ThrowableMethods {
+    //Implementing Throwable Methods
     public static void main(String[] args) {
         System.out.println("Start");
         try{
