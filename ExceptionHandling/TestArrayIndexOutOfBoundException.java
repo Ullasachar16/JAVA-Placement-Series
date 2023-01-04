@@ -1,6 +1,7 @@
 package ExceptionHandling;
 
 public class TestArrayIndexOutOfBoundException {
+    //Testing ArrayIndexOutOfBoundException Example
     public static void main(String[] args) {
         int a[]={10,20,30};
         try {
