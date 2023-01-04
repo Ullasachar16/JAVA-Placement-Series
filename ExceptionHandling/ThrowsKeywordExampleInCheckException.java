@@ -3,7 +3,7 @@ package ExceptionHandling;
 import java.io.FileReader;
 
 public class ThrowsKeywordExampleInCheckException {
-    //Implementing Throws Keyword Example
+    //Implementing Throws Keyword Example In Check Exception
     static void display()throws Exception{
         for(int i=1;i<=5;i++){
             System.out.println(i);
