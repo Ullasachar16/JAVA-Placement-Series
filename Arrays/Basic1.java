@@ -3,6 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class Basic1 {
+    //getting array input from the users
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter array size:");
