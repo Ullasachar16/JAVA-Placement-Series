@@ -3,6 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class PrintArrayNames {
+    //program to print array names given by the user
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter array size:");
