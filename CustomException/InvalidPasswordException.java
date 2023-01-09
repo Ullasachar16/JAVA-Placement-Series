@@ -6,6 +6,7 @@ public class InvalidPasswordException extends RuntimeException{
 
 }
 class LoginForm{
+    //program to implement runtime exception in custom exception
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter user id:");
