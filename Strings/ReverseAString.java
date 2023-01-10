@@ -1,6 +1,7 @@
 package Strings;
 
 public class ReverseAString {
+    //program to reverse a string
     public static void main(String[] args) {
         String s="Aman";
         String s1="";
