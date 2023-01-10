@@ -1,6 +1,7 @@
 package Threads;
 
 public class ThreadClassExample extends Thread {
+    //program to show thread class example
     @Override
     public void run() {
         for (int i = 1; i <= 5; i++) {
