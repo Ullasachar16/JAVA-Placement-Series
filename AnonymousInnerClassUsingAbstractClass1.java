@@ -1,4 +1,5 @@
 public class AnonymousInnerClassUsingAbstractClass1 {
+    //anonymous inner class example 2
     public static void main(String[] args) {
         Car c=new Car(){
             @Override
