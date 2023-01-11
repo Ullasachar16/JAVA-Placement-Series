@@ -27,7 +27,7 @@ class SortHotelByRatings implements Comparator<Hotel>{
         return y.ratings.compareTo(x.ratings);
     }
 }
-public class CompartorInterfaceExample1 {
+public class ComparatorInterfaceExample1 {
     public static void main(String[] args) {
         Hotel h1=new Hotel("Taj",4.8);
         TreeSet<Hotel>t=new TreeSet<>(new SortHotelByRatings());
