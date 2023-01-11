@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class CollectionsExample {
+    //program to implement collections class in collection framework
     public static void main(String[] args) {
         ArrayList l=new ArrayList();
         l.add(10);
