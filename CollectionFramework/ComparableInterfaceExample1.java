@@ -21,6 +21,7 @@ class Employee implements Comparable<Employee>{
 }
 
 public class ComparableInterfaceExample1 {
+    //one more example program to show comparable interface working
     public static void main(String[] args) {
         Employee e1=new Employee("Tom",45.5);
         TreeSet<Employee>t=new TreeSet<>();
