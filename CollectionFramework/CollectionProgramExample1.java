@@ -3,6 +3,7 @@ package CollectionFramework;
 import java.util.LinkedList;
 
 public class CollectionProgramExample1 {
+    //program to implement collection framework
     public static void main(String[] args) {
         Mobile m1=new Mobile("Samsung",25000);
         LinkedList<Mobile>l=new LinkedList<Mobile>();
