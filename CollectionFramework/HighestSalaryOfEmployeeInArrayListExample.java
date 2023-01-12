@@ -3,6 +3,7 @@ package CollectionFramework;
 import java.util.ArrayList;
 
 class Emp{
+    //program to get highest salary of emp using Arraylist
     String name;
     double salary;
     public Emp(String name, double salary) {
