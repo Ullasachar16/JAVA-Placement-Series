@@ -1,6 +1,7 @@
 package DataStructures;
 
 public class StackUsingLinkedList {
+    //program to show stack implementation using linked list
     private static class Node {
         int data;
         Node next;
