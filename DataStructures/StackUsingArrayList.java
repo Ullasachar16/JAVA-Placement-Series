@@ -3,6 +3,7 @@ package DataStructures;
 import java.util.ArrayList;
 
 public class StackUsingArrayList {
+    //example program of stack using arraylist
     static class Stack {
         ArrayList<Integer> list = new ArrayList<>();
 
