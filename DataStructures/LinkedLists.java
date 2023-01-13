@@ -2,7 +2,9 @@ package DataStructures;
 import java.util.*;
 
 public class LinkedLists {
+    //linked list example
     //scratch implementation
+
     Node head;
     private int size;
 
