@@ -2,6 +2,7 @@ package DataStructures;
 
 import java.util.Stack;
 public class StackProblem2 {
+    //example 2 of stack implementation
     public static void pushAtBottom(Stack<Integer> s, int data) {
         if(s.isEmpty()) {
             s.push(data);
