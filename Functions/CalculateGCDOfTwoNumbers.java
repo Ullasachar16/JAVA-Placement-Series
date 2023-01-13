@@ -3,6 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class CalculateGCDOfTwoNumbers {
+    //program to calculate gcd of 2 numbers
     public static void printGCD(int n1,int n2){
         while(n1 != n2) {
             if(n1>n2) {
