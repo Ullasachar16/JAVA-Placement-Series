@@ -1,6 +1,7 @@
 package Functions;
 import java.util.Scanner;
 public class AverageOfThreeNumbers {
+    //program to find average of 3 numbers
     public static int printAverage(int a,int b,int c){
         int avg=(a+b+c)/3;
         return avg;
