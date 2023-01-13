@@ -3,6 +3,7 @@ package DataStructures;
 import java.util.LinkedList;
 
 public class LinkedListsExample {
+    //linked list example
     public static void main(String[] args) {
         LinkedList<Integer>l=new LinkedList<>();
         l.add(5);
