@@ -3,6 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class PrintMyName {
+    //program to print the string
     public static void printMyName(String name){
         System.out.println(name);
         return;
