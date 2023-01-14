@@ -3,6 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class CalculateSum {
+    //program to calculate sum
     public static int calculateSum(int a,int b){
         int sum=a+b;
         return sum;
