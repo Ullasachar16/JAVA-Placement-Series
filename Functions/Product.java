@@ -1,6 +1,7 @@
 package Functions;
 
 public class Product {
+    //program to find the product
     public static int pro(int a,int b){
         int c=a*b;
         return c;
