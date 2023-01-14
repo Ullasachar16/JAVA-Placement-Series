@@ -3,6 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class PowerOperation {
+    //program to show the power operation
     public static void printPowerOperation(int x,int n){
         int result=1;
         for(int i=1; i<=n; i++) {
