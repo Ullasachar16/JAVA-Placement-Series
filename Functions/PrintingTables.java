@@ -3,6 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class PrintingTables {
+    //program to print tables
     public static void printTables(int table){
         for(int i=1;i<=10;i++){
             System.out.println(table+" X "+i+" = "+(table*i));
