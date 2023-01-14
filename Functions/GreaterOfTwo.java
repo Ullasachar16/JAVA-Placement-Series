@@ -3,6 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class GreaterOfTwo {
+    //program to find greater among two numbers
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter value 1:");
