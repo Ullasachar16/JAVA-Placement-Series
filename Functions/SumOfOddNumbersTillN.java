@@ -3,6 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class SumOfOddNumbersTillN {
+    //program to find sum of odd numbers till n
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println(" Please Enter any Number : ");
