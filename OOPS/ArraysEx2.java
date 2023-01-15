@@ -1,6 +1,7 @@
 package OOPS;
 
 public class ArraysEx2 {
+    //example of arrays
     String name;
     double ratings;
 
