@@ -1,6 +1,7 @@
 package OOPS;
 
 public class ArraysExamples {
+    //accessing array class using different class
     public static void main(String[] args) {
         //even numbers in an array
         int[] a={10,25,13,44,51,65,7,8,9,10,11,13,15,16,18,20,21};
