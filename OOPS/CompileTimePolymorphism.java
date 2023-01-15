@@ -1,6 +1,7 @@
 package OOPS;
 
 public class CompileTimePolymorphism {
+    //program to show compile time polymorphism
     public static void main(String[] args) {
         Flipkart f=new Flipkart();
         f.purchase("mobile",40000);
