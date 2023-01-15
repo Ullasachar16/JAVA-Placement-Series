@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ConstructorChaining {
-
+ //program to show constructor chaining
 }
 class Student{
     Student(int age){
