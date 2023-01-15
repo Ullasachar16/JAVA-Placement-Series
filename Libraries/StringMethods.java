@@ -1,6 +1,7 @@
 package Libraries;
 
 public class StringMethods {
+    //program to show all string method operations
     public static void main(String[] args) {
         String s="Software Developer";
         System.out.println(s.length());
