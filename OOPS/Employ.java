@@ -1,6 +1,7 @@
 package OOPS;
 
 public class Employ {
+    //example of inheritance
     String Company="Amazon";
 }
 class Tester1 extends Employ{
