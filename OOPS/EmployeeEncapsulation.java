@@ -1,6 +1,7 @@
 package OOPS;
 
 public class EmployeeEncapsulation {
+    //program to implement the encapsulation
     private int id;
     private String name;
 
