@@ -1,6 +1,7 @@
 package OOPS;
 
 public class Constructors1 {
+    //another example of constructor
     String brand;
     int cost;
     int ramSize;
