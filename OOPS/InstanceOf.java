@@ -1,6 +1,7 @@
 package OOPS;
 
 public class InstanceOf {
+    //program to implement instanceof
     public static void main(String[] args) {
         Father3 f=new Father3();
         Son3 s=new Son3();
