@@ -1,5 +1,6 @@
 package OOPS;
 public abstract class PersonAbstraction{
+    //program to impelement abstraction
     abstract void work();
 }
 class Employe2 extends PersonAbstraction{
