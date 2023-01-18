@@ -1,6 +1,7 @@
 package OOPS;
 
 public class NonPrimitiveCasting {
+    //program to implement non primitive casting
     public static void main(String[] args) {
         //UPCASTING
         Vehicle2 v=new Car2();
