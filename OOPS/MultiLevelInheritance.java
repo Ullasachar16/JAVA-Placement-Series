@@ -2,6 +2,7 @@ package OOPS;
 
 public class MultiLevelInheritance {
     public static void main(String[] args) {
+        //program to implement multilevel inheritance
         Department d=new Department();
         System.out.println(d.universityName);
 
