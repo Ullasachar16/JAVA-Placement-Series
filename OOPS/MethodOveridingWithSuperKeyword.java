@@ -1,6 +1,7 @@
 package OOPS;
 
 public class MethodOveridingWithSuperKeyword {
+    //program to show method overriding using super keyword
     public static void main(String[] args) {
         Developer d=new Developer();
         d.work();
