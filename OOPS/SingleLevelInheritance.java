@@ -1,6 +1,7 @@
 package OOPS;
 
 public class SingleLevelInheritance {}
+//program to implement singlelevel inheritance
     class Father{
         int age=45;
     }
