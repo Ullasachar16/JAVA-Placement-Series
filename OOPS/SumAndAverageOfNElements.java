@@ -1,6 +1,7 @@
 package OOPS;
 
 public class SumAndAverageOfNElements {
+    //program for finding sum and avg of n elements
     public static void main(String[] args) {
         int sum=0;
         int[] a={10,20,30,40};
