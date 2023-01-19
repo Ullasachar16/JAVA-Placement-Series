@@ -3,6 +3,7 @@ package OOPS;
 import java.util.Scanner;
 
 class Beverage{
+    //program to implement inheritance
 }
 class Coffee extends Beverage{
 }
