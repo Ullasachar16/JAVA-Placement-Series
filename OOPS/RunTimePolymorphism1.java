@@ -1,6 +1,7 @@
 package OOPS;
 
 public class RunTimePolymorphism1 {
+    //another program of runtime polymorphism
     static void selectApp(FoodDeliveryApp app){
         app.order();
     }
