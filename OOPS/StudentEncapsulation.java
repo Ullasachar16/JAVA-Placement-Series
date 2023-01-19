@@ -3,6 +3,7 @@ package OOPS;
 import java.util.Scanner;
 
 public class StudentEncapsulation {
+    //program to implement encapsulation
     private int age;
     public void setAge(int age){
         if(age>0){
