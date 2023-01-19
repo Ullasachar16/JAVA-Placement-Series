@@ -1,6 +1,7 @@
 package OOPS;
 
 public class RunTimePolymorphism {
+    //program to implement runtime polymorphism
     Employe1 e=new Developer3();
     static void display(Employe1 e){ //superclass reference
         e.work();
