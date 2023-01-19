@@ -1,6 +1,7 @@
 package OOPS;
 
 abstract class StudentAbstractClass {
+    //program to implement abstract class
     StudentAbstractClass(String name){
         System.out.println("Hi "+name);
     }
