@@ -1,6 +1,7 @@
 package OOPS;
 
 public class PrimitiveCasting {
+    //program to get to know about primitive casting
     public static void main(String[] args) {
         //Widening
         int a=45;
