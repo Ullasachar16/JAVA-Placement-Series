@@ -1,6 +1,7 @@
 package OOPS;
 
 public class SingleTonDesignPattern2 {
+    //another example program for single ton design pattern
     public static void main(String[] args) {
         AadhaarCard ac=AadhaarCard.getInstance();
         System.out.println("Name:"+ac.name);
