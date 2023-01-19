@@ -1,6 +1,7 @@
 package OOPS;
 
 public class SingleTonDesignPattern1 {
+    //another program of single ton design pattern
     public static void main(String[] args) {
         PrimeMinister pm = PrimeMinister.getInstance();
         System.out.println("Name:"+pm.name);
