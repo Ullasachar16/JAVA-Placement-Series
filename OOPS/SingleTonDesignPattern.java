@@ -1,6 +1,7 @@
 package OOPS;
 
 public class SingleTonDesignPattern {
+    //program to implement single ton design pattern
     public static void main(String[] args) {
         Account.createObject();
         Account.createObject();
