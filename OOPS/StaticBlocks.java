@@ -1,6 +1,7 @@
 package OOPS;
 
 public class StaticBlocks {
+    //program to implement static-blocks
     //static blocks
     static int age;
     static {
