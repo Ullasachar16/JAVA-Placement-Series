@@ -1,6 +1,7 @@
 package OOPS;
 
 public class Solution1{
+    //support class for another program
     static void display(Father3 obj){
         if(obj instanceof Son3){
             Son3 s=(Son3) obj;
