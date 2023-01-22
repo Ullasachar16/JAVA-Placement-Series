@@ -3,6 +3,7 @@ package TwoDimensionalArrays;
 import java.util.Scanner;
 
 public class InputtingAndOutputtingArrayElements {
+    //program to inputting and output array elements
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter row size:");
