@@ -3,6 +3,7 @@ package BasicFundamentals;
 import java.util.*;
 
 public class ToCheckPrimeOrNot1 {
+    //program to check prime or not another example
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number");
