@@ -1,6 +1,7 @@
 package BasicFundamentals;
 
 public class NestedIf {
+    //program to implement nested-if
     public static void main(String[] args) {
         String name="john";
         String password="john404";
