@@ -1,6 +1,7 @@
 package BasicFundamentals;
 
 public class Practice1 {
+    //another practice program of patterns
     public static void main(String[] args) {
         int n=4;
         //upper half
