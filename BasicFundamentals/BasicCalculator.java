@@ -3,6 +3,7 @@ package BasicFundamentals;
 import java.util.Scanner;
 
 public class BasicCalculator {
+    //program to implement basic calculator
     public static void main(String[] args) {
              /*   //BasicCalculator Assignment
                 Scanner sc=new Scanner(System.in);
