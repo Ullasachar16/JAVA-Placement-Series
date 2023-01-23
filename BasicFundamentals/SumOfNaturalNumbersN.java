@@ -3,6 +3,7 @@ package BasicFundamentals;
 import java.util.Scanner;
 
 public class SumOfNaturalNumbersN {
+    //program to print sum of n natural numbers
     public static void main(String[] args) {
         //print sum of natural number n
         Scanner sc=new Scanner(System.in);
