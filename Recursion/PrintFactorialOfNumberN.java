@@ -1,6 +1,7 @@
 package Recursion;
 
 public class PrintFactorialOfNumberN {
+    //program to print factorial of a number
     public static int printFactorial(int n){
         if(n==1||n==0)
             return 1;
