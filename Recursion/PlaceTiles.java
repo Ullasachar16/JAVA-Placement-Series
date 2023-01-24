@@ -1,6 +1,7 @@
 package Recursion;
 
 public class PlaceTiles {
+    //place tiles problem using recursion
     public static int placeTiles(int n,int m){
         if(n==m){
             return 2;
