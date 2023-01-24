@@ -1,6 +1,7 @@
 package Recursion;
 
 public class PrintAllPermutationsOfAString {
+    //program to print all permutations of a string
     public static void printPerm(String str,String permutation){
         if(str.length()==0){
             System.out.println(permutation);
