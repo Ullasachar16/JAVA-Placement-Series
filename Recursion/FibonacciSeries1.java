@@ -3,6 +3,7 @@ package Recursion;
 import java.util.Scanner;
 
 public class FibonacciSeries1 {
+    //program to find fibonacci series
     public static int fibo(int n){
         if(n==0)
             return 1;
