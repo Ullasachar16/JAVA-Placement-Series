@@ -2,7 +2,7 @@ package Recursion;
 
 public class CheckIfAnArrayIsSorted {
 
-    //check if an array is sorted(Strictly Increasing)
+    //Program to check if an array is sorted(Strictly Increasing)
     public static boolean isSorted(int arr[],int index){
         if(index== arr.length-1){
             return true;
