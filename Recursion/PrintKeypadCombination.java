@@ -1,6 +1,7 @@
 package Recursion;
 
 public class PrintKeypadCombination {
+    //program to print keypad combination
     public static String[] keypad={".","abc","def","ghi","jkl","mno",
             "pqrs","tu","vwx","yz"};
 
