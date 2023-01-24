@@ -1,6 +1,7 @@
 package Recursion;
 
 public class GuestsPairing {
+    //Guests Pairing Problem
     public static int callGuests(int n){
         if(n<=1){
             return 1;
