@@ -1,6 +1,7 @@
 package StringBuilder;
 
 public class Example {
+    //example program of string builder
     public static void main(String[] args) {
         StringBuilder sb=new StringBuilder("java");
         //how original string is changed
