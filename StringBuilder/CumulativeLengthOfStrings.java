@@ -3,6 +3,7 @@ package StringBuilder;
 import java.util.Scanner;
 
 public class CumulativeLengthOfStrings {
+    //program to print cumulative length of strings
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("");
         Scanner sc = new Scanner(System.in);
