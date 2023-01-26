@@ -1,6 +1,7 @@
 package Patterns;
 
 public class InvertedHalfPyramid {
+    //program to print inverted half pyramid using numbers
     public static void main(String[] args) {
 //        Print Inverted Half Pyramid.
 //        11111
