@@ -1,6 +1,7 @@
 package Patterns;
 
 public class HalfPyramidUsingNumbers {
+    //program to print half pyramid pattern using numbers
     public static void main(String[] args) {
         /* print half pyramid pattern using numbers
                     1
