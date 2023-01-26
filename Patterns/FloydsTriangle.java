@@ -1,6 +1,7 @@
 package Patterns;
 
 public class FloydsTriangle {
+    //program to print floyds triangle
     public static void main(String[] args) {
         //print floyd's triangle pattern
         int n=5;
