@@ -3,6 +3,7 @@ package Practice;
 import java.util.Scanner;
 
 public class BasicArrays {
+    //program to implement basic arrays
     private static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
         //main function
