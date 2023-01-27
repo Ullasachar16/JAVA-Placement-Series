@@ -1,6 +1,7 @@
 package Practice;
 
 public class StudentPractice {
+    //program to implement constructor chaining
     int age;
     String name;
     public void setAge(int age) {
@@ -17,6 +18,7 @@ public class StudentPractice {
     }
 }
 class Soluto{
+    //main class for constructor overloading
     public static void main(String[] args) {
         StudentPractice s1=new StudentPractice();
         s1.setAge(35);
