@@ -1,6 +1,7 @@
 package Practice;
 
 public class LeastOfThree {
+    //program to find least of three using ternary operator
     public static void least(int a,int b,int c){
         int least=(a<b)?(a<c? a:c):(b<c?b:c);
         System.out.println("Least among "+a+ " ,"+b+" and "+c+ " is:"+least);
