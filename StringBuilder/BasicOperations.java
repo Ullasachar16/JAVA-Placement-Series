@@ -3,7 +3,7 @@ package StringBuilder;
 public class BasicOperations {
     //program to implement basic operations of string builder class
     public static void main(String[] args) {
-        StringBuilder sb=new StringBuilder("Tonk");
+        StringBuilder sb=new StringBuilder("Tony");
         System.out.println(sb);
 
         //char at index 0
