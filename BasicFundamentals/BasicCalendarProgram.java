@@ -3,7 +3,7 @@ package BasicFundamentals;
 import java.util.Scanner;
 
 public class BasicCalendarProgram {
-    //program to implement basic calendar
+    //Program to implement basic calendar using switch statement
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter number of month:");
