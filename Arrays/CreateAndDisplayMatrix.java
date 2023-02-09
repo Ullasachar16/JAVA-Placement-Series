@@ -3,7 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 class Matrix_Create{
-    //program to create matrix using arrays
+    //Program to create matrix using arrays and print it
     Scanner scan;
     int matrix[][];
     int row,column;
