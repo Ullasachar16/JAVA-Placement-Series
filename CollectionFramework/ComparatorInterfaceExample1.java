@@ -4,6 +4,7 @@ import java.util.Comparator;
 import java.util.TreeSet;
 
 class Hotel{
+    //Program to implement Comparator Interface
     String name;
     Double ratings;
     public Hotel(String name, Double ratings) {
