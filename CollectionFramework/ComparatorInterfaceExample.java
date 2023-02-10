@@ -28,7 +28,7 @@ class SortByName implements Comparator<Student1>{
     }
 }
 public class ComparatorInterfaceExample {
-    //example 1 of comparator interface
+    //Example 1 of comparator interface
     public static void main(String[] args) {
         Student1 s1=new Student1(23,"Scott");
         Student1 s2=new Student1(24,"King");
