@@ -4,8 +4,8 @@ import java.util.ArrayList;
 
 public class DemoArrayList {
     public static void main(String[] args) {
-        //demo program of arraylist
-        //pre defined methods of list interface and arraylist class
+        //Demo program of arraylist
+        //pre-defined methods of list interface and arraylist class
         ArrayList l=new ArrayList();
         l.add(10);
         l.add(20);
