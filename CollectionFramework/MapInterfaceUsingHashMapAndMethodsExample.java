@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.HashMap;
 
 public class MapInterfaceUsingHashMapAndMethodsExample {
-    //map interface example using hashmap
+    //Map interface example program using hashmap
     public static void main(String[] args) {
         HashMap h=new HashMap();
         //put() is used to add key and value inside map
