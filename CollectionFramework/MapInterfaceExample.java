@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.*;
 
 class Student2{
-    //example of map interface
+    //Example program of map interface
     String name;
     String subject;
     public Student2(String name, String subject) {
