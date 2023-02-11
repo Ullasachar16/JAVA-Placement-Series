@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.ArrayList;
 
 public class LargestElementInsideArrayListExample {
-    //program to get largest element inside arraylist
+    //Program to get largest element inside arraylist
     public static void main(String[] args) {
         ArrayList<Integer> a=new ArrayList<>();
         a.add(10);
