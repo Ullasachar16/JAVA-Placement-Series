@@ -1,7 +1,7 @@
 package StringBuilder;
 
 public class Example {
-    //example program of string builder
+    //Example program of string builder to allocate delete reverse and other factors
     public static void main(String[] args) {
         StringBuilder sb=new StringBuilder("java");
         //how original string is changed
