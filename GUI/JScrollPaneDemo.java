@@ -3,6 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 
 class JScrollPaneDemo extends JApplet {
+    //Program to implement JScrollPane using an example
     Container c;
     JPanel panel;
     public void init(){
