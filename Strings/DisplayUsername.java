@@ -3,7 +3,7 @@ package Strings;
 import java.util.Scanner;
 
 public class DisplayUsername {
-    //program to print username
+    //Program to print username inputted by the user
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter String:");
