@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class CanvasExample extends Canvas {
+    //Program to implement gui canvas example
     public void paint(Graphics g){
         Toolkit t = Toolkit.getDefaultToolkit();
         Image i = t.getImage("C:\\Users\\ullas\\Web Dev\\CSS-My Site\\images\\java.png");
