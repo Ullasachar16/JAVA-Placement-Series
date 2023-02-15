@@ -1,7 +1,7 @@
 package StringBuilder;
 
 public class ReversingString {
-    //program to print string reverse using string builder
+    //Program to print string reverse using string builder
     public static void main(String[] args) {
         StringBuilder sb=new StringBuilder("lawde");
         for(int i=0;i<sb.length()/2;i++){
