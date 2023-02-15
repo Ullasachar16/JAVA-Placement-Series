@@ -1,6 +1,7 @@
 package Miscellaneous;
 
 public class BikeRentSystemExample {
+    //Program to implement Bike Rental System
     String name;
     int cc,model,days,r;
 
