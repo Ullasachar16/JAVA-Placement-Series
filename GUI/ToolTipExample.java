@@ -3,6 +3,7 @@ package GUI;
 import javax.swing.*;
 
 public class ToolTipExample extends JFrame {
+    //Program to implement ToolTip Using JFrame and GUI
     public ToolTipExample(){
         initUI();
     }
