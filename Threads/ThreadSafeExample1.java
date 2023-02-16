@@ -1,6 +1,7 @@
 package Threads;
 
 public class ThreadSafeExample1 {
+    //Another example program for threads
     public static void main(String[] args) {
         Netlfix netlfix=new Netlfix();
         Person p1=new Person("Tom",netlfix);
