@@ -1,7 +1,7 @@
 package Strings;
 
 public class SubstringOperation {
-    //Program to perform substring operation
+    //Program to perform substring operation using string methods
     public static void main(String[] args) {
         //Substring
         String sentence="TonyStark";
