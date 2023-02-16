@@ -1,7 +1,7 @@
 package Threads;
 
 public class GarbageCollectionExample {
-    //example program to show garbage collection
+    //Example program to show garbage collection implementation
     protected void finalize(){
         System.out.println("finalize method executing before garbage collecting");
     }
