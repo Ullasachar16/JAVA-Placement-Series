@@ -2,7 +2,7 @@ package Strings;
 
 public class StringOperations {
     public static void main(String[] args) {
-        //program to execute string operations
+        //Program to execute string operations
         //Concatenation
         String firstName="tony";
         String lastName="stark";
