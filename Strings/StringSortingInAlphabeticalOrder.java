@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 
 public class StringSortingInAlphabeticalOrder {
-    //Program to sort string in alphabetical order
+    //Program to sort string in Alphabetical order
     public static void main(String[] args) throws IOException {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 
