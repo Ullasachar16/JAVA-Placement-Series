@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class CountOfPosNegZerosEntered {
-    //program to count positive negative and zeroes entered
+    //Program to count positive negative and zeroes entered by the user
     public static void printCount(int input){
         int positive=0,negative=0,zeros=0;
         Scanner sc = new Scanner(System.in);
