@@ -3,7 +3,7 @@ package TwoDimensionalArrays;
 import java.util.Scanner;
 
 public class TransposeMatrix {
-    //program to implement transpose matrix
+    //Program to implement transpose matrix using 2-D arrays
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter row elements:");
