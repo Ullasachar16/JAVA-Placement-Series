@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class EvenOrNot {
-    //program to check even or not
+    //Program to check the entered number is even or not
     public static void isEven(int n){
         if(n%2==0){
             System.out.println("Even");
