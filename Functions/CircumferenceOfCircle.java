@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class CircumferenceOfCircle {
-    //program to calculate circumference of a circle
+    //Program to calculate circumference of a circle
     public static void main(String[] args) {
 
         Scanner sc=new Scanner(System.in);
