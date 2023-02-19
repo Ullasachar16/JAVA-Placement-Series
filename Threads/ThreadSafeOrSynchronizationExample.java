@@ -3,6 +3,7 @@ package Threads;
 import java.util.concurrent.ThreadLocalRandom;
 
 public class ThreadSafeOrSynchronizationExample {
+    //Program to implement thread safe or synchronization
     public static void main(String[] args) {
         Trainer trainer=new Trainer();
         Student s1=new Student("Tom",trainer);
