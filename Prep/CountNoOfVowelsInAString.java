@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 public class CountNoOfVowelsInAString {
-    //program to count no of vowels in a string
+    //Program to count no of vowels in a string
     public static void main(String[] args) {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Enter String:");
