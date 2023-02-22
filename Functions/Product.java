@@ -1,7 +1,7 @@
 package Functions;
 
 public class Product {
-    //program to find the product
+    //Program to find the product of two numbers
     public static int pro(int a,int b){
         int c=a*b;
         return c;
