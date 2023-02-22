@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class VoteEligibility {
-    //program to check vote eligibility
+    //Program to check vote eligibility of a person by age
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter age:");
