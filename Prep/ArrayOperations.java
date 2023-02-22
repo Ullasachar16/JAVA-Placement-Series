@@ -1,7 +1,7 @@
 package Prep;
 
 public class ArrayOperations {
-    //program to implement array operations
+    //Program to implement array operations
     public static void main(String[] args) {
         double[] myList={1.9,2.9,3.4,3.5};
         double total=0;
