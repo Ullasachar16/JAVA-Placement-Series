@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class PowerOperation {
-    //program to show the power operation
+    //Program to show the power operation of a number entered by the user
     public static void printPowerOperation(int x,int n){
         int result=1;
         for(int i=1; i<=n; i++) {
