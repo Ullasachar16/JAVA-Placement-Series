@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class FibonacciSeries {
-    //program to find fibonacci series
+    //Program to find fibonacci series until a number entered by the user
     public static void printFibonacci(int n){
         int a=0,b=1;
         System.out.print(a+" ");
