@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class Factorial {
-    //program to find the factorial of a number
+    //Program to find the factorial of a number entered by the user
     public static void printfactorial(int n){
         if(n<0){
             System.out.println("Invalid number");
