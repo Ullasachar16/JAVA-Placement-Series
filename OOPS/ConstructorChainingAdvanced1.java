@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ConstructorChainingAdvanced1 {
-    //another example of constructor chaining
+    //Another example program of constructor chaining
     public static void main(String[] args) {
         Bike1 b=new Bike1("Bajaj",375000,"green");
         b.display();
