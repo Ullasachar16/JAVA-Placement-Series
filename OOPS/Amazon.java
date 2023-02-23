@@ -1,7 +1,7 @@
 package OOPS;
 
 public class Amazon {
-    //program to implement interface operation
+    //Program to implement interface operation
     void work(){
         System.out.println("Working at Amazon");
     }
