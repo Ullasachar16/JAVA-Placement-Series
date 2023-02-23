@@ -1,7 +1,7 @@
 package OOPS;
 
 public class AccessingPublicMembersInSamePackage {
-    //accessing public members in diff class
+    //Accessing public members in diff class example
     public static void main(String[] args) {
         Student2 s1=new Student2();
         System.out.println(s1.age);
