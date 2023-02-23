@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ArrayEx1 {
-    //super class
+    //Super class
     int age;
     String name;
 
@@ -11,7 +11,7 @@ public class ArrayEx1 {
     }
 }
 class solut{
-    //program to show array operation
+    //Program to show array operation
     public static void main(String[] args) {
         ArrayEx1 ax=new ArrayEx1(45,"tom");
         ArrayEx1 ax1=new ArrayEx1(54,"jack");
