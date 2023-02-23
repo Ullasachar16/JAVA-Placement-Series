@@ -1,7 +1,7 @@
 package Sorting;
 
 public class InsertionSort {
-    //program to implement insertion sort
+    //Program to implement Insertion Sort Technique
     public static void printArray(int arr[]){
         for(int i=0;i< arr.length;i++){
             System.out.print(arr[i]+" ");
