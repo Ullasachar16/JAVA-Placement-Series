@@ -3,7 +3,7 @@ package OOPS;
 import java.util.Scanner;
 
 public interface BankAbstraction {
-    //program to show the implementation and usage of interface
+    //Program to show the implementation and usage of interface
     void deposit(int amount);
     void withdraw(int amount);
     void checkBalance();
