@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ArraysEx2 {
-    //example of arrays
+    //Example of arrays
     String name;
     double ratings;
 
@@ -14,6 +14,7 @@ public class ArraysEx2 {
     }
 }
 class Soluti{
+    //Program to implement arrays
     public static void main(String[] args) {
         ArraysEx2 ax=new ArraysEx2("ITC",4.5);
         ArraysEx2 ax1=new ArraysEx2("Taj",4.4);
