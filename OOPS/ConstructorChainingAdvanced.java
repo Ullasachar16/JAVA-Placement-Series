@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ConstructorChainingAdvanced {
-    //program to show the usage of constructor chaining
+    //Program to show the usage of constructor chaining example
     public static void main(String[] args) {
         B b=new B(5.7);
     }
