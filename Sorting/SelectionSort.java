@@ -1,7 +1,7 @@
 package Sorting;
 
 public class SelectionSort {
-    //program to implement selection sort
+    //Program to implement Selection Sort Technique
     public static void printArray(int arr[]){
         for(int i=0;i< arr.length;i++){
             System.out.print(arr[i]+" ");
