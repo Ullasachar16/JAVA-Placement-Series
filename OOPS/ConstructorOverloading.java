@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ConstructorOverloading {
-    //program to show constructor overloading
+    //Program to implement constructor overloading concept
     ConstructorOverloading(int id){
         System.out.println(id);
     }
