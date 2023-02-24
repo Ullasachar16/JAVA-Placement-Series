@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ConstructorChainingWithSuperCallingStatement {
-    //constructor chaining with super calling statement
+    //Constructor chaining with super calling statement example program
 }
 //explicit super calling statement
 class Father2{
