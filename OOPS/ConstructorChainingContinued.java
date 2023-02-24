@@ -1,7 +1,7 @@
 package OOPS;
 
 public class ConstructorChainingContinued {
-    //another one constructor chaining
+    //Another one constructor chaining example
     public static void main(String[] args) {
         Student1 s=new Student1(10,"Jack",95);
         System.out.println("Student Details");
