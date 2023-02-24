@@ -1,7 +1,7 @@
 package OOPS;
 
 public class HasARelationshipExample {
-    //program to show and implement has a relationship
+    //Program to show and implement HAS-A relationship with classes
     public static void main(String[] args) {
         Person3 p=new Person3();
         System.out.println("Name:"+p.name);
