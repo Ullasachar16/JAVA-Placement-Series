@@ -1,7 +1,7 @@
 package OOPS;
 
 public class Country {
-    //example of constructor
+    //Example program for constructor
     String name;
     int population;
 
