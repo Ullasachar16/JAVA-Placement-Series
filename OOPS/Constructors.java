@@ -3,7 +3,7 @@ package OOPS;
 import java.util.Scanner;
 
 public class Constructors {
-    //program for use of constructor
+    //Program for use of constructor
    int id;
    String name;
    double marks;
