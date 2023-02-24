@@ -1,7 +1,7 @@
 package OOPS;
 
 public class Employee {
-    //example of constructor with method
+    //Example of constructor with method
     int id;
     String name;
     double salary;
