@@ -1,7 +1,7 @@
 package OOPS;
 
-public class MethodOveriding {
-    //program to implement method overriding
+public class MethodOverriding {
+    //Program to implement method overriding
 }
 class Father1{
     void bike(){
