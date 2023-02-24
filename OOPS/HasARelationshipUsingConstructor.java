@@ -1,7 +1,7 @@
 package OOPS;
 
 public class HasARelationshipUsingConstructor {
-    //example pgm of has a relationship using constructor
+    //Example program of HAS-A relationship using constructor
     public static void main(String[] args) {
         College1 clg=new College1("Jspiders",new Student3("Jack"));
         System.out.println("College name:"+clg.name);
