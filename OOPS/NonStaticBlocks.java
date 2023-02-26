@@ -1,7 +1,7 @@
 package OOPS;
 
 public class NonStaticBlocks {
-    //program to implement non static blocks
+    //Program to implement non-static blocks
     static int age;
     String name;
     static {
