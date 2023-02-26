@@ -1,7 +1,7 @@
 package OOPS;
 
 public interface RBIInterface {
-    //another example of interface program
+    //Another example of interface program
     void deposit();
 }
 interface HDFC extends RBIInterface{
