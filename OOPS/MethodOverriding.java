@@ -1,7 +1,7 @@
 package OOPS;
 
 public class MethodOverriding {
-    //Program to implement method overriding
+    //Program to implement method overriding using inheritance
 }
 class Father1{
     void bike(){
