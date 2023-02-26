@@ -1,7 +1,7 @@
 package OOPS;
 
 public class MethodOverloading {
-    //program to implement method overloading
+    //Program to implement method overloading
     //for both non-static and static methods overloading can be done
     //for static we need to use static keyword
     void display(int id){
