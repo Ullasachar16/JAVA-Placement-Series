@@ -1,7 +1,7 @@
 package OOPS;
 
-public class MethodOveriding2 {
-    //example of another method overriding program
+public class MethodOverriding2 {
+    //Example program for another method overriding program
     public static void main(String[] args) {
         Whatsapp3 wa=new Whatsapp3();
         wa.sendMessage();
