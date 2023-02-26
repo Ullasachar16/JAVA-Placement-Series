@@ -1,7 +1,7 @@
 package OOPS;
 
 interface PersonInterface {
-    //program to implement interface
+    //Program to implement interface example
     int id=101;
     void work();
 }
