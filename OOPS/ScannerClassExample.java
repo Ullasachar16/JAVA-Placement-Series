@@ -3,7 +3,7 @@ package OOPS;
 import java.util.Scanner;
 
 public class ScannerClassExample {
-    //program to show implementation of scanner class
+    //Program to show implementation of scanner class
     void checkPosOrNeg(int x) {
         if (x > 0) {
             System.out.println("positive");
