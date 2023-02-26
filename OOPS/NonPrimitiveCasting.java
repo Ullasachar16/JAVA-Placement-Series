@@ -1,13 +1,13 @@
 package OOPS;
 
 public class NonPrimitiveCasting {
-    //program to implement non primitive casting
+    //Program to implement non-primitive casting using inheritance
     public static void main(String[] args) {
         //UPCASTING
         Vehicle2 v=new Car2();
         System.out.println(v.brand);
         v.start();
-        //DOWNCASTING
+        //DOWN-CASTING
         Car2 c=(Car2) v;
         System.out.println(c.brand+" "+c.cost);
         v.start();
