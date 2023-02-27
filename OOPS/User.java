@@ -3,7 +3,7 @@ package OOPS;
 import java.util.Scanner;
 
 class Beverage{
-    //program to implement inheritance
+    //Program to implement inheritance (Hierarchical inheritance)
 }
 class Coffee extends Beverage{
 }
