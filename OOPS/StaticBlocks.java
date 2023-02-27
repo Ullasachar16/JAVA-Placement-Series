@@ -1,8 +1,8 @@
 package OOPS;
 
 public class StaticBlocks {
-    //program to implement static-blocks
-    //static blocks
+    //Program to implement Static-blocks
+    //Static blocks
     static int age;
     static {
         System.out.println("1");
