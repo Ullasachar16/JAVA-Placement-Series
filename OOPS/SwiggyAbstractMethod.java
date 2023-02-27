@@ -1,7 +1,7 @@
 package OOPS;
 
 abstract class SwiggyAbstractMethod {
-    //program to implement abstract method
+    //Program to implement abstract method
     abstract void orderFood();
 }
 abstract class Phonepe extends SwiggyAbstractMethod{
