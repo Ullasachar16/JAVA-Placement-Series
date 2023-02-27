@@ -2,7 +2,7 @@ package Patterns;
 
 public class Diamond {
     public static void main(String[] args) {
-        //program to print pattern of diamond
+        //Program to print pattern of Diamond
         //print diamond pattern using stars
         int n=4;
         //upper half
