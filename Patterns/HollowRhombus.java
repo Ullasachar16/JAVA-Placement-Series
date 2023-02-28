@@ -1,7 +1,7 @@
 package Patterns;
 
 public class HollowRhombus {
-    //program to print hollow rhombus pattern
+    //Program to print Hollow Rhombus pattern
     public static void main(String[] args) {
 //        Print a hollow Rhombus.
 //                ******
