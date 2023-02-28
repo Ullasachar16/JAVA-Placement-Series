@@ -1,7 +1,7 @@
 package Patterns;
 
 public class NumberPyramid {
-    //program to print number pyramid pattern
+    //Program to print Number Pyramid pattern
     public static void main(String[] args) {
         //print number pyramid triangle pattern
         int n=5;
