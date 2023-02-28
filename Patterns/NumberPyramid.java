@@ -10,7 +10,7 @@ public class NumberPyramid {
             for(int j=1;j<=n-i;j++){
                 System.out.print(" ");
             }
-            //numbers
+            //Numbers
             for(int j=1;j<=i;j++){
                 System.out.print(i+" ");
             }
