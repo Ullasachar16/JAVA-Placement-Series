@@ -3,7 +3,7 @@ package Patterns;
 public class InvertedHalfPyramidUsingStars {
     //Program to print Inverted Half Pyramid using stars
     public static void main(String[] args) {
-        //print inverted half pyramid
+        //Print Inverted Half Pyramid
         int n=4;
         for(int i=1;i<=n;i++){
             for(int j=i;j<=n;j++){
