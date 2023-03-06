@@ -1,7 +1,7 @@
 package Patterns;
 
 public class SolidRhombus {
-    //program to print solid rhombus pattern
+    //Program to print Solid Rhombus pattern
     public static void main(String[] args) {
         //print solid rhombus containing stars
         int n=5;
