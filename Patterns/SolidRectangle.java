@@ -11,9 +11,9 @@ public class SolidRectangle {
         int n=sc.nextInt();
         System.out.println("enter no of columns");
         int m=sc.nextInt();
-        //outer loop for rows
+        //Outer loop for Rows
         for(int i=1;i<=n;i++){
-            //inner loop for columns
+            //Inner loop for Columns
             for(int j=1;j<=m;j++){
                 System.out.print("* ");
             }
