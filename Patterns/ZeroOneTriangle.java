@@ -1,7 +1,7 @@
 package Patterns;
 
 public class ZeroOneTriangle {
-    //program to print zero-one triangle pattern
+    //Program to print Zero-One Triangle pattern
     public static void main(String[] args) {
         //print 0-1 triangle
         int n=5;
