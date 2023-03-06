@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayChallenge {
-    //program to implement array function
+    //Program to Implement Array function
     private static Scanner sc=new Scanner(System.in);
     public static void main(String[] args) {
         int[] myIntegers=getIntegers(5);
