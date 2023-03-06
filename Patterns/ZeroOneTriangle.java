@@ -3,7 +3,7 @@ package Patterns;
 public class ZeroOneTriangle {
     //Program to print Zero-One Triangle pattern
     public static void main(String[] args) {
-        //print 0-1 triangle
+        //Print 0-1 Triangle
         int n=5;
         for(int i=1;i<=n;i++){
             for(int j=1;j<=i;j++){
