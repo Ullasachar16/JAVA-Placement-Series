@@ -3,10 +3,10 @@ package Patterns;
 public class PalindromicNumbersPyramid {
     //Program to print Palindromic Numbers Pyramid pattern
     public static void main(String[] args) {
-        //print pyramid triangle in palindromic numbers pattern
+        //Print pyramid triangle in palindromic numbers pattern
         int n=5;
         for(int i=1;i<=n;i++){
-            //spaces
+            //Spaces
             for(int j=1;j<=n-i;j++){
                 System.out.print("  ");
             }
