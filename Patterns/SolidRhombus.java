@@ -3,7 +3,7 @@ package Patterns;
 public class SolidRhombus {
     //Program to print Solid Rhombus pattern
     public static void main(String[] args) {
-        //print solid rhombus containing stars
+        //Print Solid Rhombus containing stars
         int n=5;
         for(int i=1;i<=n;i++){
             //spaces
