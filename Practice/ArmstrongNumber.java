@@ -3,7 +3,7 @@ package Practice;
 import java.util.Scanner;
 
 public class ArmstrongNumber {
-    //program to find armstrong number
+    //Program to check the number is Armstrong Number or not
     public static void main(String[] args) {
         int n,sum=0,temp,r;
         Scanner sc=new Scanner(System.in);
