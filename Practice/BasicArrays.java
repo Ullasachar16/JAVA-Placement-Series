@@ -14,7 +14,7 @@ public class BasicArrays {
         System.out.println("The average is "+getAverage(arr));
     }
     public static int[] getIntegers(int number){
-        //to get integers from array
+        //To get integers from array
         System.out.println("Enter "+number+ " integer value");
         int[] values=new int[number];
         for(int i=0;i<values.length;i++){
@@ -24,7 +24,7 @@ public class BasicArrays {
     }
 
     public static double getAverage(int[] array){
-        //to get average
+        //To get average of numbers
         int sum=0;
         for(int i=0;i<array.length;i++){
             sum+=array[i];
