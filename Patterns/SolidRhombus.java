@@ -6,11 +6,11 @@ public class SolidRhombus {
         //Print Solid Rhombus containing stars
         int n=5;
         for(int i=1;i<=n;i++){
-            //spaces
+            //Spaces
             for(int j=1;j<=n-i;j++){
                 System.out.print(" ");
             }
-            //stars
+            //Stars
             for(int j=1;j<=n;j++){
                 System.out.print("* ");
             }
