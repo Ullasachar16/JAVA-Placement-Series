@@ -1,7 +1,7 @@
 package Patterns;
 
 public class PalindromicNumbersPyramid {
-    //program to print palindromic numbers pyramid pattern
+    //Program to print Palindromic Numbers Pyramid pattern
     public static void main(String[] args) {
         //print pyramid triangle in palindromic numbers pattern
         int n=5;
