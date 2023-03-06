@@ -3,7 +3,7 @@ package Patterns;
 public class PascalTriangle {
     //Program to print Pascal Triangle pattern
     public static void main(String[] args) {
-        //print pascal triangle number pattern
+        //Print pascal triangle number pattern
             int n=5,space, num;
             for(int i=0; i<n; i++)
             {
