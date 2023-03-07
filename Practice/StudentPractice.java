@@ -1,7 +1,7 @@
 package Practice;
 
 public class StudentPractice {
-    //program to implement constructor chaining
+    //Program to implement Constructor Chaining
     int age;
     String name;
     public void setAge(int age) {
