@@ -13,7 +13,7 @@ public class BasicsUnaryOperator {
         int b=++a + ++a;
         System.out.println("a:"+a+" b:"+b);
 
-        //post decrement
+        //Post decrement
         int p=1;
         int q=p-- + p--;
         System.out.println("p:"+p+" q:"+q);
