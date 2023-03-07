@@ -8,7 +8,7 @@ public class BasicsUnaryOperator {
         int y=x++ + x++;
         System.out.println("x:"+x+" y:"+y);
 
-        //pre increment
+        //Pre increment
         int a=1;
         int b=++a + ++a;
         System.out.println("a:"+a+" b:"+b);
