@@ -1,7 +1,7 @@
 package Practice;
 
 public class ClassChallengeBackground {
-    //program to implement constructor chaining
+    //Program to implement Constructor Chaining
     private String acNo;
     private double balance;
     private String customerName;
