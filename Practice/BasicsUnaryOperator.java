@@ -18,7 +18,7 @@ public class BasicsUnaryOperator {
         int q=p-- + p--;
         System.out.println("p:"+p+" q:"+q);
 
-        //pre increment
+        //Pre increment
         int i=1;
         int j=--i + --i;
         System.out.println("i:"+i+" j:"+j);
