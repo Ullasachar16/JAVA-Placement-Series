@@ -1,7 +1,7 @@
 package Practice;
 
 public class ClassChallengeMain {
-    //additional program for constructor chaining
+    //Additional program for Constructor Chaining
     public static void main(String[] args) {
         ClassChallengeBackground cbc=new ClassChallengeBackground();
         //("12345",0.00,"bob","myemail@bob.com",12345678);
