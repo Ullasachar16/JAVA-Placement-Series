@@ -1,7 +1,7 @@
 package Practice;
 
 public class BasicTernaryOperator {
-    //program to show basic ternary operator
+    //Program to show Basic Ternary Operator
     public static void main(String[] args) {
         int a=80;
         int b=40;
