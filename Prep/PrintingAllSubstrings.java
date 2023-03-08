@@ -3,6 +3,7 @@ package Prep;
 import java.util.Scanner;
 
 public class PrintingAllSubstrings {
+    //Program to print all Substrings related to entered string
     public static void main(String[] args) {
         String str,sub;
         int i,c,length;
