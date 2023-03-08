@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 class Employee2 {
+    //Program to implement BufferedReader and Exception
         String name;
         int emp_id;
         int salary;
