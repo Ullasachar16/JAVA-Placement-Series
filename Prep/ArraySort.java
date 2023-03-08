@@ -3,7 +3,7 @@ package Prep;
 import java.util.Arrays;
 
 public class ArraySort {
-    //Program to sort the array
+    //Program to Sort the array
     public static void main(String[] args) {
         String arr[]={"java","sql","c","c++","dart","web","android","go","lang"};
         System.out.println("before sorting");
