@@ -3,7 +3,7 @@ package Prep;
 import java.util.Scanner;
 
 public class FindingClosestValueOfANumberInAnArray {
-    //program to find the closest value of a number in an array
+    //Program to find the closest value of a number in an array
     public static void main(String[] args) {
         int a[];
         int find;
