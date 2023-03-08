@@ -3,6 +3,7 @@ package Prep;
 import java.util.Scanner;
 
 public class SunnyNumber {
+    //Program to check the entered number is Sunny Number or not
     public static void main(String[] args) {
         int n,n1;
         double x;
