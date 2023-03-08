@@ -1,7 +1,7 @@
 package Practice;
 
 public class WithdrawMoneyExample {
-    //Program to implement banking operation example
+    //Program to implement Banking Operation Example
     public static void main(String[] args) {
         double act_bal=11999;
         double withdraw=2000;
