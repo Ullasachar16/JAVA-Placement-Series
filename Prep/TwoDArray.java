@@ -3,6 +3,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class TwoDArray {
+    //Program to implement 2D Array concepts
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter # of rows:");
