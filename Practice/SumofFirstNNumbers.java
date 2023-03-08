@@ -1,7 +1,7 @@
 package Practice;
 
 public class SumofFirstNNumbers {
-    //Program to find sum o first n numbers
+    //Program to find Sum of First N Numbers
     public static void main(String[] args) {
         int n=10;
         int sum=0;
