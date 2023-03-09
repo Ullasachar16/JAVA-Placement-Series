@@ -1,7 +1,7 @@
 package Recursion;
 
 public class FindingFirstAndLastOccurrenceOfElementInAString {
-    //program to find first and last occurence of a element in a string
+    //Program to find first and last occurence of a element in a string
     public static int first=-1;
     public static int last=-1;
 
