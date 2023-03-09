@@ -3,7 +3,7 @@ package Recursion;
 import java.util.Scanner;
 
 public class Factorial1 {
-    //Program to check factorial of a given number
+    //Program to check Factorial of a given number using recursion
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a number to know its factorial:");
