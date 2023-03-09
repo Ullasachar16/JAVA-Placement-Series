@@ -3,7 +3,7 @@ package Recursion;
 import java.util.Scanner;
 
 public class HCFAndLCM {
-    //Program to find hcf and lcm of numbers
+    //Program to Find HCF and Lcm of numbers
     public static void main(String[] args) {
         System.out.println("Enter 2 numbers:");
         Scanner sc=new Scanner(System.in);
