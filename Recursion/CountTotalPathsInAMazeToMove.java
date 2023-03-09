@@ -1,7 +1,7 @@
 package Recursion;
 
 public class CountTotalPathsInAMazeToMove {
-    //program to count total paths in a maze to move
+    //Program to count Total paths in a maze to move
     public static int countPaths(int i,int j,int n,int m){
         if(i==n || j==m){
             return 0;
