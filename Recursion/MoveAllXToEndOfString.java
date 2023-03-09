@@ -1,7 +1,7 @@
 package Recursion;
 
 public class MoveAllXToEndOfString {
-    //Program to move all x occurences to end of string
+    //Program to Move all X occurrences to end of string
     public static void moveAllX(String str,int index,int count,String newString){
         if(index==str.length()){
             for(int i=0;i<count;i++){
