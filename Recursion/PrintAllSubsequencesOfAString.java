@@ -1,7 +1,7 @@
 package Recursion;
 
 public class PrintAllSubsequencesOfAString {
-    //Program to print all subsequences of a string
+    //Program to Print all Subsequences of a string
     public static void subsequences(String str,int index,String newString){
         if(index==str.length()){
             System.out.println(newString);
