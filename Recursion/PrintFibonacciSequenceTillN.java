@@ -1,7 +1,7 @@
 package Recursion;
 
 public class PrintFibonacciSequenceTillN {
-    //Program to print fibonacci series till n
+    //Program to print Fibonacci Series till N
     public static void printFibonacci(int a,int b,int n){
         if(n==0) {
             return;
