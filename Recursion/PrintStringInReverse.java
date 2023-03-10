@@ -1,7 +1,7 @@
 package Recursion;
 
 public class PrintStringInReverse {
-    //Program to print string in reverse
+    //Program to Print String in Reverse
     public static void printReverse(String str,int index){
         if(index==0){
             System.out.println(str.charAt(index));
