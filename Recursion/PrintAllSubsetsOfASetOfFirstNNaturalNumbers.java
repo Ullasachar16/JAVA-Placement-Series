@@ -3,7 +3,7 @@ package Recursion;
 import java.util.ArrayList;
 
 public class PrintAllSubsetsOfASetOfFirstNNaturalNumbers {
-    //Program to print all Subsets of First N natural numbers
+    //Program to print all Subsets of First N Natural Numbers
     public static void printSubset(ArrayList<Integer> subset){
         for(int i=0;i<subset.size();i++){
             System.out.print(subset.get(i)+"");
