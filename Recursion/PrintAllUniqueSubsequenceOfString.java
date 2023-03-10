@@ -3,7 +3,7 @@ package Recursion;
 import java.util.HashSet;
 
 public class PrintAllUniqueSubsequenceOfString {
-    //Program to print All Unique Subsequence of string
+    //Program to print All Unique Subsequence of String
     public static void subsequences(String str,int index,String newString,HashSet<String> set){
         if(index==str.length()){
             if(set.contains(newString)){
