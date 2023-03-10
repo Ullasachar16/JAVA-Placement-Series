@@ -2,7 +2,7 @@ package Recursion;
 
 public class PrintNumbers {
     //Program to Print Numbers from 1 to 5
-    //print numbers from 5 to 1
+    //Print Numbers from 5 to 1
     public static void printNumber(int n){
         if(n==0)
             return;
