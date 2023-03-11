@@ -2,7 +2,7 @@ package Recursion;
 
 public class PrintXPowerN_1 {
     //Program to Print X power N example 1
-    //stack height = log n
+    //Stack Height = log n
     public static int calcPower(int x,int n){
         if(n==0){ //base case 1
             return 1;
