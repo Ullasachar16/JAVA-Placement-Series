@@ -4,10 +4,10 @@ public class PrintXPowerN_1 {
     //Program to Print X power N example 1
     //Stack Height = log n
     public static int calcPower(int x,int n){
-        if(n==0){ //base case 1
+        if(n==0){ //Base case 1
             return 1;
         }
-        if(x==0){ //base case 2
+        if(x==0){ //Base case 2
             return 0;
         }
         //if n is even
