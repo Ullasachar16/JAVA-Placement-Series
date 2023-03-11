@@ -1,7 +1,7 @@
 package Recursion;
 
 public class PrintSumOfFirstNNaturalNumbers {
-    //Program to print sum of first n natural numbers
+    //Program to Print sum of first n natural numbers
     public static void printSum(int i,int n,int sum){
         if(i==n){
             sum+=i;
