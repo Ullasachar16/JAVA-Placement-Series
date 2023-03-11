@@ -1,7 +1,7 @@
 package Recursion;
 
 public class RemoveDuplicatesInAString {
-    //program to remove duplicates in a string
+    //Program to remove duplicates in a string
     public static boolean[] map=new boolean[26];
     public static void removeDuplicates(String str,int index,String newString){
         if(index == str.length()){
