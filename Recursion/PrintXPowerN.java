@@ -1,7 +1,7 @@
 package Recursion;
 
 public class PrintXPowerN {
-    //Program to Print x power n
+    //Program to Print X power N
     //stack height = n
     public static int calcPower(int x,int n){
         if(n==0){ //base case 1
