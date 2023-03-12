@@ -11,7 +11,7 @@ public class InsertionSort {
     public static void main(String[] args) {
         int arr[]={7,8,3,1,2};
         //Time Complexity = O(n^2)
-         //Insertion sort
+         //Insertion Sort
         for(int i=1;i<arr.length;i++){
             int current=arr[i];
             int j=i-1;
