@@ -12,7 +12,7 @@ public class SelectionSort {
         int arr[]={7,8,3,1,2};
 
         //Time complexity = O(n^2)
-         //selection sort
+         //Selection Sort
         for(int i=0;i<arr.length-1;i++){
             int smallest=i;
             for(int j=i+1;j< arr.length;j++){
