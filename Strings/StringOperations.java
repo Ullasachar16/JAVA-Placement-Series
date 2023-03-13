@@ -16,7 +16,7 @@ public class StringOperations {
             System.out.print(fullName.charAt(i));
         }
         System.out.println();
-        //compare
+        //Compare
         String name1="tony";
         String name2="tony";
         if(name1.compareTo(name2)==0){
