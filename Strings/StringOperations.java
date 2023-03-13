@@ -9,7 +9,7 @@ public class StringOperations {
         String fullName=firstName+"@"+lastName;
         System.out.println(fullName);
         //tony@stark
-        //length
+        //Length
         System.out.println("length:"+fullName.length());
         //charAt
         for(int i=0;i<fullName.length();i++){
