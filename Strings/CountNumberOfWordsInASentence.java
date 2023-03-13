@@ -3,7 +3,7 @@ package Strings;
 import java.util.Scanner;
 
 public class CountNumberOfWordsInASentence {
-    //Program to count numbers of words in a sentence inputted by the user
+    //Program to Count numbers of words in a sentence inputted by the user
     public static int countWords(String sentence){
         String words[]=sentence.split("");
         int count = words.length;
