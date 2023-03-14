@@ -25,7 +25,7 @@ public class StringSortingInAlphabeticalOrder {
         Arrays.sort(names);
 
         System.out.println("Sorted names->");
-        //print the sorted results
+        //Print the Sorted Results
         for(String name:names){
             System.out.println("\t"+name);
         }
