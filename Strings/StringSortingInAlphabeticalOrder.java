@@ -21,7 +21,7 @@ public class StringSortingInAlphabeticalOrder {
             System.out.println("Enter "+(i+1)+ " name:");
             names[i]= br.readLine();
         }
-        //sort the array using the sort method of the arrays class
+        //Sort the array using the sort method of the arrays class
         Arrays.sort(names);
 
         System.out.println("Sorted names->");
