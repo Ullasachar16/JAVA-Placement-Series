@@ -10,7 +10,7 @@ public class StringSortingInAlphabeticalOrder {
     public static void main(String[] args) throws IOException {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
 
-        //Create a java String Array
+        //Create a Java String Array
         String[] names=null;
         System.out.println("how many names u want to sort:");
         int size=Integer.parseInt(br.readLine());
@@ -21,7 +21,7 @@ public class StringSortingInAlphabeticalOrder {
             System.out.println("Enter "+(i+1)+ " name:");
             names[i]= br.readLine();
         }
-        //Sort the array using the Sort Method of the Arrays Class
+        //Sort the Array using the Sort Method of the Arrays Class
         Arrays.sort(names);
 
         System.out.println("Sorted names->");
