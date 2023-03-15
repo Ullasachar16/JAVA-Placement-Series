@@ -1,7 +1,7 @@
 package Threads;
 
 public class ThreadSafeExample1 {
-    //Another Example Program for threads
+    //Another Example Program for Threads
     public static void main(String[] args) {
         Netflix netflix =new Netflix();
         Person p1=new Person("Tom", netflix);
