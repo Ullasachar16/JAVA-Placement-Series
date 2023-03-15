@@ -3,14 +3,14 @@ package Threads;
 public class ThreadSafeExample1 {
     //Another example program for threads
     public static void main(String[] args) {
-        Netlfix netlfix=new Netlfix();
-        Person p1=new Person("Tom",netlfix);
-        Person p2=new Person("Alex",netlfix);
+        Netflix netflix =new Netflix();
+        Person p1=new Person("Tom", netflix);
+        Person p2=new Person("Alex", netflix);
         p1.start();
         p2.start();
     }
 }
-class Netlfix{
+class Netflix {
     synchronized void watchMovie(String name){
         System.out.println(name+" is watching some movie");
         try{
@@ -23,13 +23,13 @@ class Netlfix{
 }
 class Person extends Thread{
     String name;
-    Netlfix netlfix;
-    Person(String name,Netlfix netlfix){
+    Netflix netflix;
+    Person(String name, Netflix netflix){
         this.name=name;
-        this.netlfix=netlfix;
+        this.netflix = netflix;
     }
     @Override
     public void run(){
-        netlfix.watchMovie(name);
+        netflix.watchMovie(name);
     }
 }
