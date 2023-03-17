@@ -17,13 +17,13 @@ public class InputtingAndOutputtingArrayElements {
         //Rows
         System.out.println("Enter elements:");
         for(int i=0;i<rows;i++){
-            //columns
+            //Columns
 
             for(int j=0;j<cols;j++){
                 numbers[i][j]=sc.nextInt();
             }
         }
-        //output
+        //Output
         System.out.println("Elements are:");
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
