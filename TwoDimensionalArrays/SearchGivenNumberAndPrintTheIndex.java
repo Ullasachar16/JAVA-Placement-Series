@@ -3,7 +3,7 @@ package TwoDimensionalArrays;
 import java.util.Scanner;
 
 public class SearchGivenNumberAndPrintTheIndex {
-    //Program to search given number inputted by the user and print the index of the element
+    //Program to Search given number Inputted by the user and print the index of the element
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter row elements:");
