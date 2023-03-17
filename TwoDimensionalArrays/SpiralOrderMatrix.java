@@ -3,7 +3,7 @@ package TwoDimensionalArrays;
 import java.util.Scanner;
 
 public class SpiralOrderMatrix {
-    //Program to implement spiral order matrix using arrays
+    //Program to Implement Spiral Order Matrix using arrays
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter row elements:");
