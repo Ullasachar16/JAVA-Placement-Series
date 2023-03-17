@@ -11,7 +11,7 @@ public class SpiralOrderMatrix {
         System.out.println("Enter col elements:");
         int cols=sc.nextInt();
         int numbers[][]=new int[rows][cols];
-        //input
+        //Input
         System.out.println("Enter array elements:");
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
@@ -23,7 +23,7 @@ public class SpiralOrderMatrix {
         int rowEnd=rows-1;
         int colStart=0;
         int colEnd=cols-1;
-        //To print spiral order matrix
+        //To Print Spiral Order Matrix
         while(rowStart <= rowEnd && colStart <= colEnd) {
             //1
             for(int col=colStart; col<=colEnd; col++) {
