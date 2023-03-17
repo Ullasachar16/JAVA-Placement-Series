@@ -18,7 +18,7 @@ public class TransposeMatrix {
             }
         }
         System.out.println("Transpose Matrix is:");
-        //to print transpose
+        //To print transpose
         for(int j=0;j<cols;j++){
             for(int i=0;i<rows;i++){
                 System.out.print(numbers[i][j]+" ");
