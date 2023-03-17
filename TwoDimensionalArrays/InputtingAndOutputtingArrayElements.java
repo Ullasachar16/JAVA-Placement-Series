@@ -13,7 +13,7 @@ public class InputtingAndOutputtingArrayElements {
 
         int[][] numbers=new int[rows][cols];
 
-        //input
+        //Input
         //rows
         System.out.println("Enter elements:");
         for(int i=0;i<rows;i++){
