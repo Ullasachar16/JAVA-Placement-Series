@@ -12,7 +12,7 @@ public class SearchGivenNumberAndPrintTheIndex {
         int cols=sc.nextInt();
         int numbers[][]=new int[rows][cols];
 
-        //input
+        //Input
         System.out.println("Enter array elements:");
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
