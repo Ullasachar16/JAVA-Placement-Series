@@ -1,7 +1,7 @@
 package GUI;
 import javax.swing.*;
 class JTableDemo {
-    //Program to implement JTable using an example
+    //Program to Implement JTable using an example
     JFrame f;
     JTableDemo(){
         f=new JFrame();
