@@ -4,7 +4,7 @@ import javax.swing.*;
 class LoginFormExample {
     public static void main(String[] args) {
         //Program to Implement LoginForm using GUI
-        JFrame frame = new JFrame("Demo Application");
+        JFrame frame = new JFrame("Application");
         frame.setSize(300,150);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
