@@ -8,7 +8,7 @@ public class EqualsMethodExample1 {
     }
     public boolean equals(Object obj){     //Object obj=new EqualsMethod();
         EqualsMethodExample1 e=(EqualsMethodExample1) obj;
-        return this.marks==e.marks; //e1.marks==e2.marks
+        return this.marks==e.marks;        //e1.marks==e2.marks
     }
     public static void main(String[] args) {
         EqualsMethodExample1 e1=new EqualsMethodExample1(96);
