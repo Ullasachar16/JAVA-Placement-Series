@@ -1,7 +1,7 @@
 package GUI;
 import javax.swing.JFrame;
 public class SimpleJFrameExample extends JFrame {
-    //Program to implement Simple JFrame using GUI
+    //Program to Implement Simple JFrame using GUI
     public SimpleJFrameExample(){
         setTitle("JFrame Example");
         setSize(300,200);
