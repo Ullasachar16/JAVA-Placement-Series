@@ -3,7 +3,7 @@ import javax.swing.JFrame;
 public class SimpleJFrameExample extends JFrame {
     //Program to Implement Simple JFrame using GUI
     public SimpleJFrameExample(){
-        setTitle("JFrame Example");
+        setTitle("Simple JFrame Example");
         setSize(300,200);
         setLocationRelativeTo(null);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
