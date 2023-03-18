@@ -3,7 +3,7 @@ import javax.swing.*;
 
 class LoginFormExample {
     public static void main(String[] args) {
-        //Program to implement LoginForm using GUI
+        //Program to Implement LoginForm using GUI
         JFrame frame = new JFrame("Demo Application");
         frame.setSize(300,150);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
