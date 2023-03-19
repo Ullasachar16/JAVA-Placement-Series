@@ -1,7 +1,7 @@
 package Libraries;
 
 public class EqualsMethodExample2 {
-    //Example program to implement equals method
+    //Example Program to implement equals method
     int age;
     String name;
     EqualsMethodExample2(int age,String name){
