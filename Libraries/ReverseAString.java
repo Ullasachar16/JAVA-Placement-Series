@@ -1,7 +1,7 @@
 package Libraries;
 
 public class ReverseAString {
-    //Program to reverse a string
+    //Program to Reverse a string
     public static void main(String[] args) {
         String s="J A V A";
         char[] c=s.toCharArray();
