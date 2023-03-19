@@ -1,7 +1,7 @@
 package Libraries;
 
 public class EqualsMethodExample1 {
-    //Program to show Equals Method
+    //Program to Show Equals Method
     int marks;
     public EqualsMethodExample1(int marks) {
         this.marks = marks;
