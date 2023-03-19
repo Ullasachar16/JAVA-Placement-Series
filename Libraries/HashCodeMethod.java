@@ -1,7 +1,7 @@
 package Libraries;
 
 public class HashCodeMethod {
-    //Example Snippet of Hash code method
+    //Example Snippet of Hash Code method
     public int hashCode(){
         return 1;
     }
