@@ -1,7 +1,7 @@
 package Libraries;
 
 public class PalindromeString {
-    //Program to Check for String palindrome
+    //Program to Check for String Palindrome
     public static void main(String[] args) {
         String s="madan";
         String s1="";
