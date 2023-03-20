@@ -1,7 +1,7 @@
 package Libraries;
 
 public class StringMethods {
-    //Program to Show All String Method operations
+    //Program to Show All String Method Operations
     public static void main(String[] args) {
         String s="Software Developer";
         System.out.println(s.length());
