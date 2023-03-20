@@ -1,7 +1,7 @@
 package Libraries;
 
 public class ToStringMethodInArray {
-    //program to show the use of string method in array
+    //Program to show the use of string method in array
     String name;
     double ratings;
     public ToStringMethodInArray(String name, double ratings) {
