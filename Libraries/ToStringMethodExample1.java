@@ -1,7 +1,7 @@
 package Libraries;
 
 public class ToStringMethodExample1 {
-    //Program of string method example
+    //Program of String Method Example
     int id;
     String name;
     ToStringMethodExample1(int id, String name) {
