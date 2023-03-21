@@ -1,7 +1,7 @@
 package Arrays;
 
 public class Basic {
-    //Basic Declaration and initialization of arrays
+    //Basic Declaration and Initialization of arrays
     public static void main(String[] args) {
         int marks[]={97,98,99};
 //        int[] marks = new int[3];
