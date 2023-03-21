@@ -3,7 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class CheckArraySortedOrNot {
-    //Program to Check the array is sorted or not
+    //Program to Check the Array is sorted or not
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter array size:");
