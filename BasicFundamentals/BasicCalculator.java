@@ -85,12 +85,7 @@ public class BasicCalculator {
                 System.out.println("Invalid operator!");
                 break;
         }
-
         input.close();
-
-
-
-
         }
     }
 
