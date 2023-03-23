@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BasicCalculator {
     //Program to Implement basic calculator using operators
     public static void main(String[] args) {
-             /*   //BasicCalculator Assignment
+             /*   //Basic Calculator Assignment
                 Scanner sc=new Scanner(System.in);
                 System.out.println("enter value for a:");
                 int a=sc.nextInt();
