@@ -6,6 +6,7 @@ public class BasicCalculator {
     //Program to Implement Basic Calculator Using Operators
     public static void main(String[] args) {
              /*   //Basic Calculator Assignment
+
                 Scanner sc=new Scanner(System.in);
                 System.out.println("enter value for a:");
                 int a=sc.nextInt();
