@@ -37,7 +37,7 @@ public class BasicCalculator {
         char operator;
         double number1, number2, result;
 
-        // create an object of Scanner class
+        // Create an object of Scanner Class
         Scanner input = new Scanner(System.in);
 
         // ask users to enter operator
