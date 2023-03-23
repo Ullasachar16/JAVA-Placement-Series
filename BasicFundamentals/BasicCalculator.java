@@ -31,7 +31,6 @@ public class BasicCalculator {
                         break;
                     default:
                         System.out.println("Invalid");
-
                 } */
 
         char operator;
