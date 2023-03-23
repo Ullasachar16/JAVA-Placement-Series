@@ -40,7 +40,7 @@ public class BasicCalculator {
         // Create an object of Scanner Class
         Scanner input = new Scanner(System.in);
 
-        // ask users to enter operator
+        // Ask users to enter operator
         System.out.println("Choose an operator: +, -, *, /, or %");
         operator = input.next().charAt(0);
 
