@@ -9,11 +9,11 @@ public class BasicCalculator {
 
                 Scanner sc=new Scanner(System.in);
                 System.out.println("enter value for a:");
-                int a=sc.nextInt();
+                int a = sc.nextInt();
                 System.out.println("enter value for b:");
-                int b=sc.nextInt();
+                int b = sc.nextInt();
                 System.out.println("enter choice:");
-                int choice=sc.nextInt();
+                int choice = sc.nextInt();
                 switch (choice){
                     case 1:int add=(a+b);
                         System.out.println("addition:"+add);
