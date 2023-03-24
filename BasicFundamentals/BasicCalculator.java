@@ -7,7 +7,7 @@ public class BasicCalculator {
     public static void main(String[] args) {
              /*   //Basic Calculator Assignment
 
-                Scanner sc=new Scanner(System.in);
+                Scanner sc = new Scanner(System.in);
                 System.out.println("enter value for a:");
                 int a = sc.nextInt();
                 System.out.println("enter value for b:");
@@ -15,19 +15,19 @@ public class BasicCalculator {
                 System.out.println("enter choice:");
                 int choice = sc.nextInt();
                 switch (choice){
-                    case 1:int add=(a+b);
+                    case 1:int add = (a+b);
                         System.out.println("addition:"+add);
                         break;
-                    case 2:int sub=(a-b);
+                    case 2:int sub = (a-b);
                         System.out.println("subtraction:"+sub);
                         break;
-                    case 3:int mul=(a*b);
+                    case 3:int mul = (a*b);
                         System.out.println("multiplication:"+mul);
                         break;
-                    case 4:int div=(a/b);
+                    case 4:int div = (a/b);
                         System.out.println("division:"+div);
                         break;
-                    case 5:int mod=(a%b);
+                    case 5:int mod = (a%b);
                         System.out.println("modulo:"+mod);
                         break;
                     default:
