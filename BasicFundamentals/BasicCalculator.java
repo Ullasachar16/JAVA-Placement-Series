@@ -65,7 +65,7 @@ public class BasicCalculator {
                 System.out.println(number1 + " - " + number2 + " = " + result);
                 break;
 
-            // Performs Multiplication between numbers
+            // Performs Multiplication Between numbers
             case '*':
                 result = number1 * number2;
                 System.out.println(number1 + " * " + number2 + " = " + result);
