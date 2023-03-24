@@ -44,7 +44,7 @@ public class BasicCalculator {
         System.out.println("Choose an operator: +, -, *, /, or %");
         operator = input.next().charAt(0);
 
-        // Ask users to enter numbers
+        // Ask Users to enter numbers
         System.out.println("Enter first number");
         number1 = input.nextDouble();
 
