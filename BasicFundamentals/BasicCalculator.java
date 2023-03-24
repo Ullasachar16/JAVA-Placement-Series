@@ -53,7 +53,7 @@ public class BasicCalculator {
 
         switch (operator) {
 
-            // Performs Addition between numbers
+            // Performs Addition Between Numbers
             case '+':
                 result = number1 + number2;
                 System.out.println(number1 + " + " + number2 + " = " + result);
