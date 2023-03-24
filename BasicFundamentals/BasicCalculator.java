@@ -59,7 +59,7 @@ public class BasicCalculator {
                 System.out.println(number1 + " + " + number2 + " = " + result);
                 break;
 
-            // Performs Subtraction between numbers
+            // Performs Subtraction Between Numbers
             case '-':
                 result = number1 - number2;
                 System.out.println(number1 + " - " + number2 + " = " + result);
