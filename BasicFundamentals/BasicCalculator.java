@@ -71,7 +71,7 @@ public class BasicCalculator {
                 System.out.println(number1 + " * " + number2 + " = " + result);
                 break;
 
-            // Performs Division Between numbers
+            // Performs Division Between Numbers
             case '/':
                 result = number1 / number2;
                 System.out.println(number1 + " / " + number2 + " = " + result);
