@@ -28,7 +28,7 @@ public class BasicCalculator {
                         System.out.println("Division:"+div);
                         break;
                     case 5:int mod = (a%b);
-                        System.out.println("modulo:"+mod);
+                        System.out.println("Modulo:"+mod);
                         break;
                     default:
                         System.out.println("Invalid");
