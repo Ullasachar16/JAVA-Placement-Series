@@ -8,7 +8,7 @@ public class BasicCalculator {
              /*   //Basic Calculator Assignment
 
                 Scanner sc = new Scanner(System.in);
-                System.out.println("enter value for a:");
+                System.out.println("Enter value for a:");
                 int a = sc.nextInt();
                 System.out.println("enter value for b:");
                 int b = sc.nextInt();
