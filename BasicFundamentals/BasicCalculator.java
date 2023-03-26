@@ -16,7 +16,7 @@ public class BasicCalculator {
                 int choice = sc.nextInt();
                 switch (choice){
                     case 1:int add = (a+b);
-                        System.out.println("addition:"+add);
+                        System.out.println("Addition:"+add);
                         break;
                     case 2:int sub = (a-b);
                         System.out.println("subtraction:"+sub);
