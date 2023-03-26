@@ -22,7 +22,7 @@ public class BasicCalculator {
                         System.out.println("Subtraction:"+sub);
                         break;
                     case 3:int mul = (a*b);
-                        System.out.println("multiplication:"+mul);
+                        System.out.println("Multiplication:"+mul);
                         break;
                     case 4:int div = (a/b);
                         System.out.println("division:"+div);
