@@ -12,7 +12,7 @@ public class BasicCalculator {
                 int a = sc.nextInt();
                 System.out.println("Enter Value for b:");
                 int b = sc.nextInt();
-                System.out.println("Enter choice:");
+                System.out.println("Enter Choice:");
                 int choice = sc.nextInt();
                 switch (choice){
                     case 1:int add = (a+b);
