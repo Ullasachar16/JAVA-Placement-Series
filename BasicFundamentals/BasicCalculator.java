@@ -25,7 +25,7 @@ public class BasicCalculator {
                         System.out.println("Multiplication:"+mul);
                         break;
                     case 4:int div = (a/b);
-                        System.out.println("division:"+div);
+                        System.out.println("Division:"+div);
                         break;
                     case 5:int mod = (a%b);
                         System.out.println("modulo:"+mod);
