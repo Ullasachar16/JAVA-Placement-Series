@@ -19,7 +19,7 @@ public class BasicCalculator {
                         System.out.println("Addition:"+add);
                         break;
                     case 2:int sub = (a-b);
-                        System.out.println("subtraction:"+sub);
+                        System.out.println("Subtraction:"+sub);
                         break;
                     case 3:int mul = (a*b);
                         System.out.println("multiplication:"+mul);
