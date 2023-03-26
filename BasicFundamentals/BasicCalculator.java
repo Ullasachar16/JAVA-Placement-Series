@@ -31,7 +31,7 @@ public class BasicCalculator {
                         System.out.println("Modulo:"+mod);
                         break;
                     default:
-                        System.out.println("Invalid");
+                        System.out.println("invalid");
                 } */
 
         char operator;
