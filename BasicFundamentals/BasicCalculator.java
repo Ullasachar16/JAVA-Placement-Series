@@ -10,7 +10,7 @@ public class BasicCalculator {
                 Scanner sc = new Scanner(System.in);
                 System.out.println("Enter Value for a:");
                 int a = sc.nextInt();
-                System.out.println("Enter value for b:");
+                System.out.println("Enter Value for b:");
                 int b = sc.nextInt();
                 System.out.println("enter choice:");
                 int choice = sc.nextInt();
