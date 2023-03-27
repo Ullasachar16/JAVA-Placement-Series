@@ -34,7 +34,7 @@ public class MenuDrivenProgram {
         }while(input==1);
 
        /* // ->>>>>Using While Loop
-        System.out.println("Enter 1 to Enter Marks or 0 to exit:");
+        System.out.println("Enter 1 to Enter Marks or 0 to Exit:");
         int n = sc.nextInt();
         int marks;
     while(n==1) {
