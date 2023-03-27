@@ -18,7 +18,7 @@ public class MenuDrivenProgram {
        Scanner sc=new Scanner(System.in);
        int input;
         do{
-            System.out.println("Enter marks out of 100:");
+            System.out.println("Enter Marks out of 100:");
             int marks=sc.nextInt();
             if(marks>=90 && marks<=100){
                 System.out.println("Good");
