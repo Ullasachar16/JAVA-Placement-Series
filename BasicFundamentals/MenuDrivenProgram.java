@@ -38,7 +38,7 @@ public class MenuDrivenProgram {
         int n = sc.nextInt();
         int marks;
     while(n==1) {
-        System.out.println("enter marks:");
+        System.out.println("Enter marks:");
         marks=sc.nextInt();
         if(marks>=90 && marks<=100){
             System.out.println("Good");
