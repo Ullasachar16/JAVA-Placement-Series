@@ -12,7 +12,7 @@ public class MenuDrivenProgram {
         //Marks >=90 -> print “This is Good”
         //89 >= Marks >= 60 -> print “This is also Good”
         //59 >= Marks >= 0 -> print “This is Good as well”
-        //	Because marks don’t matter but our effort does.
+        //	Because Marks don’t matter but our effort does.
         //(Hint : use do-while loop but think & understand why)
         // ->>>>Using DoWhile Loop
        Scanner sc=new Scanner(System.in);
