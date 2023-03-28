@@ -6,7 +6,7 @@ public class MenuDrivenProgram {
     //Program to Implement Menu Driven Concept of Student Grade
     public static void main(String[] args) {
         // Make a menu-driven program. The User can Enter 2 numbers, Either 1 or 0.
-        //If the User Enters 1 then keep taking input from the user for a student’s marks(out of 100).
+        //If the User Enters 1 then keep taking input from the User for a student’s marks(out of 100).
         //If they Enter 0 then Stop.
         //If He/ She Scores :
         //Marks >=90 -> print “This is Good”
