@@ -1,6 +1,6 @@
 package BasicFundamentals;
 
-//import java.util.Scanner;
+import java.util.Scanner;
 
 public class NestedIf {
     //Program to Implement Nested-If
