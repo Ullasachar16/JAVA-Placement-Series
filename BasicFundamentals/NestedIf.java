@@ -5,7 +5,7 @@ public class NestedIf {
     public static void main(String[] args) {
         String name="John";
         String password="John404";
-        if(name=="john"){
+        if(name=="John"){
             if(password=="john404"){
                 System.out.println("login successful");
             }else {
