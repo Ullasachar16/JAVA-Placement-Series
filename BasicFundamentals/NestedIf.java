@@ -8,6 +8,7 @@ public class NestedIf {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter name:");
         String name=sc.nextLine();
+        System.out.println("Enter password:");
         String password="John404";
         if(name=="John"){
             if(password=="John404"){
