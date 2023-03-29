@@ -9,7 +9,7 @@ public class NestedIf {
         System.out.println("Enter name:");
         String name=sc.nextLine();
         System.out.println("Enter password:");
-        String password="John404";
+        String password=sc.nextLine();
         if(name=="John"){
             if(password=="John404"){
                 System.out.println("Login Successful");
