@@ -12,7 +12,7 @@ public class NestedIf {
                 System.out.println("Invalid Password");
             }
         }else{
-            System.out.println("invalid credentials");
+            System.out.println("Invalid credentials");
         }
     }
 }
