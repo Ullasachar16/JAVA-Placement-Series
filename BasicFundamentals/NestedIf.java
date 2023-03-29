@@ -9,7 +9,7 @@ public class NestedIf {
             if(password=="John404"){
                 System.out.println("Login Successful");
             }else {
-                System.out.println("invalid password");
+                System.out.println("Invalid password");
             }
         }else{
             System.out.println("invalid credentials");
