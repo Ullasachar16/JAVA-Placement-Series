@@ -3,7 +3,7 @@ package BasicFundamentals;
 public class NestedIf {
     //Program to Implement Nested-If
     public static void main(String[] args) {
-        String name="john";
+        String name="John";
         String password="john404";
         if(name=="john"){
             if(password=="john404"){
