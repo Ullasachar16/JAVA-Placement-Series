@@ -21,7 +21,7 @@ public class Practice1 {
         n=5;
         for(int i=n;i>=1;i--) {
             //1st Part
-            //stars
+            //Stars
             for (int j = 1; j <= i; j++) {
                 System.out.print("* ");
             }
