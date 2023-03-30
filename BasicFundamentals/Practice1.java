@@ -4,7 +4,7 @@ public class Practice1 {
     //Another Practice Program of Patterns
     public static void main(String[] args) {
         int n=4;
-        //upper half
+        //Upper half
         for(int i=1;i<=n;i++) {
             //1st part
             //stars
