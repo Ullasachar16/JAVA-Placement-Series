@@ -1,7 +1,7 @@
 package BasicFundamentals;
 
 public class Practice1 {
-    //Another Practice program of patterns
+    //Another Practice Program of patterns
     public static void main(String[] args) {
         int n=4;
         //upper half
