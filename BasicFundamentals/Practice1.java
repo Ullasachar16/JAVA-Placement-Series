@@ -7,7 +7,7 @@ public class Practice1 {
         //Upper Half
         for(int i=1;i<=n;i++) {
             //1st Part
-            //stars
+            //Stars
             for (int j = 1; j <= i; j++) {
                 System.out.print("* ");
             }
