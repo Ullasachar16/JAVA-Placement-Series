@@ -17,7 +17,7 @@ public class Practice1 {
             }
             System.out.println();
         }
-        //lower half
+        //Lower half
         n=5;
         for(int i=n;i>=1;i--) {
             //1st part
