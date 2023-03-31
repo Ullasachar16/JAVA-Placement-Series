@@ -3,7 +3,7 @@ package BasicFundamentals;
 import java.util.Scanner;
 
 public class Prerequisites2 {
-    //Basic Program to Show the Usage of Data-types
+    //Basic Program to Show the Usage of Data-Types
     public static void main(String[] args) {
         //datatypes
        /* int age=20;
