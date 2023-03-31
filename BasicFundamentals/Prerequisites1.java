@@ -3,7 +3,7 @@ package BasicFundamentals;
 import java.util.Scanner;
 
 public class Prerequisites1 {
-    //Program to Start with Pre-requisites
+    //Program to Start with Pre-Requisites
     public static void main(String[] args) {
         //output
         System.out.print("Hello World with Java\n with apna college\n");
