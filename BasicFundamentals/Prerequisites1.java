@@ -6,7 +6,7 @@ public class Prerequisites1 {
     //Program to Start with Pre-Requisites
     public static void main(String[] args) {
         //Output
-        System.out.print("Hello World with Java\n with apna college\n");
+        System.out.print("Hello World with Java\n with Apna college\n");
         System.out.print("Hello World with Java\n");
         //Variables
         int a=10;
