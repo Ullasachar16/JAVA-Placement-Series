@@ -27,6 +27,6 @@ public class Prerequisites1 {
         Scanner s1=new Scanner(System.in);
         System.out.println("Enter a name:");
         String name=s1.nextLine();
-        System.out.println("name is:"+name);
+        System.out.println("Name is:"+name);
     }
 }
