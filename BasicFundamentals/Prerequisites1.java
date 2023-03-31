@@ -8,7 +8,7 @@ public class Prerequisites1 {
         //output
         System.out.print("Hello World with Java\n with apna college\n");
         System.out.print("Hello World with Java\n");
-        //variables
+        //Variables
         int a=10;
         int b=5;
         int res=2*(a+b);
