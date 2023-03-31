@@ -23,7 +23,7 @@ public class Prerequisites1 {
         int b1=sc.nextInt();
         int sum=a1+b1;
         System.out.println("sum:"+sum);
-        //input
+        //Input
         Scanner s1=new Scanner(System.in);
         System.out.println("enter a name:");
         String name=s1.nextLine();
