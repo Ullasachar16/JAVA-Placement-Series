@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Prerequisites1 {
     //Program to Start with Pre-Requisites
     public static void main(String[] args) {
-        //output
+        //Output
         System.out.print("Hello World with Java\n with apna college\n");
         System.out.print("Hello World with Java\n");
         //Variables
