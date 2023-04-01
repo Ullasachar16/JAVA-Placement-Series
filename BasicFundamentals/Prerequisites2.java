@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Prerequisites2 {
     //Basic Program to Show the Usage of Data-Types
     public static void main(String[] args) {
-        //Datatypes
+        //Data-types
        /* int age=20;
         double height = 4.5;
         byte a=2;
