@@ -16,7 +16,7 @@ public class Prerequisites2 {
         boolean f=true; */
         //Program to Calculate Area of Circle
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter radius of the circle");
+        System.out.println("Enter Radius of the circle");
         double radius=sc.nextDouble();
         double pi=3.141592653589793238;
         double area=pi*(radius*radius);
