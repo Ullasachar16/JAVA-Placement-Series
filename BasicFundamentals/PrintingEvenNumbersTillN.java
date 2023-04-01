@@ -3,7 +3,7 @@ package BasicFundamentals;
 import java.util.Scanner;
 
 public class PrintingEvenNumbersTillN {
-    //Program to Print Even Numbers Till N using scanner class
+    //Program to Print Even Numbers Till N using Scanner class
     public static void main(String[] args) {
         //print all even numbers till n
         Scanner sc=new Scanner(System.in);
