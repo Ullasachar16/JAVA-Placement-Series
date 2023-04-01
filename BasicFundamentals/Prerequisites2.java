@@ -14,7 +14,7 @@ public class Prerequisites2 {
         long d=10;
         char e='a';
         boolean f=true; */
-        //Program to Calculate Area of circle
+        //Program to Calculate Area of Circle
         Scanner sc=new Scanner(System.in);
         System.out.println("enter radius of the circle");
         double radius=sc.nextDouble();
