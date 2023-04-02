@@ -7,7 +7,7 @@ public class PrintingEvenNumbersTillN {
     public static void main(String[] args) {
         //Print All Even Numbers Till N
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter N value:");
+        System.out.println("Enter N Value:");
         int n=sc.nextInt();
         for(int i=1;i<=n;i++){
             if(i%2==0){
