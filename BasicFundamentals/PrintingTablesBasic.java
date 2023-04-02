@@ -7,7 +7,7 @@ public class PrintingTablesBasic {
     public static void main(String[] args) {
         //print tables According to User's Input
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Which table to print:");
+        System.out.println("Enter Which Table to print:");
         int table=sc.nextInt();
         for(int i=1;i<=10;i++){
             System.out.println(table+" X "+i+" = "+(table*i));
