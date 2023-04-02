@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PrintingEvenNumbersTillN {
     //Program to Print Even Numbers Till N using Scanner Class
     public static void main(String[] args) {
-        //Print all even numbers till n
+        //Print All even numbers till n
         Scanner sc=new Scanner(System.in);
         System.out.println("enter n value:");
         int n=sc.nextInt();
