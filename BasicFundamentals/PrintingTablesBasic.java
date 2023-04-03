@@ -3,7 +3,7 @@ package BasicFundamentals;
 import java.util.Scanner;
 
 public class PrintingTablesBasic {
-    //Program to Print Tables According to Users Input
+    //Program to Print Tables According to User's Input
     public static void main(String[] args) {
         //Print Tables According to User's Input
         Scanner sc=new Scanner(System.in);
