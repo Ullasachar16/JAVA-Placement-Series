@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SumOfNaturalNumbersN {
     //Program to Print Sum of N Natural Numbers
     public static void main(String[] args) {
-        //Print Sum of Natural Number n
+        //Print Sum of Natural Number N
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter n value:");
         int n=sc.nextInt();
