@@ -7,7 +7,7 @@ public class SumOfNaturalNumbersN {
     public static void main(String[] args) {
         //Print Sum of Natural Number N
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter n value:");
+        System.out.println("Enter N value:");
         int n=sc.nextInt();
         int sum=0;
       for(int i=1;i<=n;i++){
