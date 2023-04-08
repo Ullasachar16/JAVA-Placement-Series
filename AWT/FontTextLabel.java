@@ -2,7 +2,7 @@ package AWT;
 import java.awt.*;
 public class FontTextLabel extends Frame{
     //Program to Implement Font Text Label Using AWT
-    //Declare component label
+    //Declare Component label
     Label lb1,lb2;
     public FontTextLabel(){
         setLayout(new FlowLayout());
