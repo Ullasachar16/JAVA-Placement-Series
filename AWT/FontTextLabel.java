@@ -23,7 +23,7 @@ public class FontTextLabel extends Frame{
     }
 
     public static void main(String[] args) {
-        //Allocating an instance
+        //Allocating an Instance
         FontTextLabel ftl=new FontTextLabel();
     }
 }
