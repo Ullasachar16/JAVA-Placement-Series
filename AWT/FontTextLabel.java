@@ -6,7 +6,7 @@ public class FontTextLabel extends Frame{
     Label lb1,lb2;
     public FontTextLabel(){
         setLayout(new FlowLayout());
-        //constructor label
+        //Constructor label
         lb1=new Label("Text Font Label");
         lb2=new Label("Normal Text Label");
 
