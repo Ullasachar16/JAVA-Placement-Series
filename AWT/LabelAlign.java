@@ -3,7 +3,7 @@ package AWT;
 import java.awt.*;
 
 public class LabelAlign extends Frame {
-    //Program to Implement AWT component
+    //Program to Implement AWT Component
     //Declare component label
     Label lb1,lb2,lb3,lb4;
     public LabelAlign(){
