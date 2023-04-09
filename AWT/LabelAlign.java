@@ -31,7 +31,7 @@ public class LabelAlign extends Frame {
     }
 
     public static void main(String[] args) {
-        //allocating an instance
+        //Alocating an instance
         LabelAlign lba=new LabelAlign();
     }
 }
