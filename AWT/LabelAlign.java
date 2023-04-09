@@ -9,7 +9,7 @@ public class LabelAlign extends Frame {
     public LabelAlign(){
         setLayout(new FlowLayout());
 
-        /* The possible alignment values are
+        /* The Possible alignment values are
         Label.LEFT,Label.RIGHT,and Label.CENTER */
 
         lb1 = new Label("Left Label",Label.LEFT);
