@@ -4,7 +4,7 @@ import java.awt.*;
 
 public class LabelAlign extends Frame {
     //Program to Implement AWT Component
-    //Declare Component label
+    //Declare Component Label
     Label lb1,lb2,lb3,lb4;
     public LabelAlign(){
         setLayout(new FlowLayout());
