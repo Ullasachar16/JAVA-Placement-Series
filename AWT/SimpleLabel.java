@@ -7,7 +7,7 @@ public class SimpleLabel extends Frame {
     public SimpleLabel(){
         setLayout(new FlowLayout());
 
-        //Constructor label
+        //Constructor Label
         lblCount = new Label("Simple Label Example");
 
         //"super" Frame adds label
