@@ -19,7 +19,7 @@ public class SimpleLabel extends Frame {
     }
 
     public static void main(String[] args) {
-        //Allocating an instance
+        //Allocating an Instance
         SimpleLabel sl=new SimpleLabel();
     }
 }
