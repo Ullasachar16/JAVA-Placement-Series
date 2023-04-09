@@ -1,7 +1,7 @@
 package AWT;
 import java.awt.*;
 public class SimpleLabel extends Frame {
-    //Program to Implement AWT components
+    //Program to Implement AWT Components
     //Declare component label
     Label lblCount;
     public SimpleLabel(){
