@@ -12,7 +12,7 @@ public class NQueensProblem {
                 return false;
             }
         }
-        //vertical
+        //Vertical
         for(int i=0;i<board.length;i++){
             if(board[i][col]=='Q'){
                 return false;
