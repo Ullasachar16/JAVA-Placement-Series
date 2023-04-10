@@ -25,7 +25,7 @@ public class NQueensProblem {
                 return false;
             }
         }
-        //upper right
+        //Upper right
         r=row;
         for(int c=col;c<board.length && r>=0;r--,c++){
             if(board[r][c]=='Q'){
