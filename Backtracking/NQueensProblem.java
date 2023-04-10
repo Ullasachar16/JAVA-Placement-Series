@@ -6,7 +6,7 @@ import java.util.List;
 public class NQueensProblem {
     //N Queens Problem using Backtracking
     public static boolean isSafe(int row,int col,char[][]board){
-        //horizontal
+        //Horizontal
         for(int j=0;j<board.length;j++){
             if(board[row][j]=='Q'){
                 return false;
