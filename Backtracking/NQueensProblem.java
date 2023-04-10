@@ -32,7 +32,7 @@ public class NQueensProblem {
                 return false;
             }
         }
-        //lower left
+        //Lower left
         r=row;
         for(int c=col;c>=0 && r<board.length;r++,c--){
             if(board[r][c]=='Q'){
