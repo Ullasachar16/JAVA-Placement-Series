@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class NQueensProblem {
-    //n Queens Problem using backtracking
+    //N Queens Problem using backtracking
     public static boolean isSafe(int row,int col,char[][]board){
         //horizontal
         for(int j=0;j<board.length;j++){
