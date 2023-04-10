@@ -1,7 +1,7 @@
 package Backtracking;
 
 public class PermutationProblem {
-    //permutation problem
+    //Permutation problem
     public static void printPermutation(String str,String perm,int index){
         if(str.length() == 0){
             System.out.println(perm);
