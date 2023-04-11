@@ -8,7 +8,7 @@ public class InputtingAndOutputtingArrayElements {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter Row Size:");
         int rows=sc.nextInt();
-        System.out.println("Enter col size:");
+        System.out.println("Enter Col Size:");
         int cols=sc.nextInt();
 
         int[][] numbers=new int[rows][cols];
