@@ -12,7 +12,7 @@ public class SudokuSolver {
                 return false;
             }
         }
-        //grid
+        //Grid
         int sr=(row/3)*3;
         int sc=(col/3)*3;
         for(int i=sr;i<sr+3;i++){
