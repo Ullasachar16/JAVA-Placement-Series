@@ -1,4 +1,5 @@
 package Backtracking;
+import java.lang.*;
 
 public class PermutationProblem {
     //Permutation Problem
