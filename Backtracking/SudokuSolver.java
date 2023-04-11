@@ -2,7 +2,7 @@ package Backtracking;
 
 public class SudokuSolver {
     //Leet-Code Problem
-    //Sudoku Solver problem in leet code
+    //Sudoku Solver Problem in leet code
     public boolean isSafe(char[][] board,int row,int col,int number){
         for(int i=0;i<board.length;i++){
             if(board[i][col] == (char)(number+'0')){
