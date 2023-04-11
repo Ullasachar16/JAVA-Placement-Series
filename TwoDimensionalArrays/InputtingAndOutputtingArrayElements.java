@@ -6,7 +6,7 @@ public class InputtingAndOutputtingArrayElements {
     //Program to Input and Output Array Elements
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Row size:");
+        System.out.println("Enter Row Size:");
         int rows=sc.nextInt();
         System.out.println("Enter col size:");
         int cols=sc.nextInt();
