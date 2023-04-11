@@ -15,7 +15,7 @@ public class InputtingAndOutputtingArrayElements {
 
         //Input
         //Rows
-        System.out.println("Enter elements:");
+        System.out.println("Enter Elements:");
         for(int i=0;i<rows;i++){
             //Columns
 
