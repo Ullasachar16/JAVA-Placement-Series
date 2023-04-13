@@ -24,7 +24,7 @@ public class ToCheckPrimeOrNot1 {
                 System.out.println("This is a Prime Number");
             }
         } else {
-            System.out.println("This is Not a Prime number");
+            System.out.println("This is Not a Prime Number");
         }
     }
 }
