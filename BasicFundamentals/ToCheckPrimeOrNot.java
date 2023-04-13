@@ -7,7 +7,7 @@ public class ToCheckPrimeOrNot {
     public static void main(String[] args) {
         //Program to Check Whether a Number is Prime or Not
         Scanner s = new Scanner(System.in);
-        System.out.print("Enter a number : ");
+        System.out.print("Enter a Number : ");
         int n = s.nextInt();
         if (isPrime(n)) {
             System.out.println(n + " is a Prime Number");
