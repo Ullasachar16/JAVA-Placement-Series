@@ -21,7 +21,7 @@ public class ToCheckPrimeOrNot1 {
             if(n == 1) {
                 System.out.println("This is Neither Prime not Composite");
             } else {
-                System.out.println("This is a Prime number");
+                System.out.println("This is a Prime Number");
             }
         } else {
             System.out.println("This is Not a prime number");
