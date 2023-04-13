@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ToCheckPrimeOrNot {
     //Program to Check The Number is Prime or Not
     public static void main(String[] args) {
-        //Program to check whether a number is prime or not
+        //Program to Check whether a number is prime or not
         Scanner s = new Scanner(System.in);
         System.out.print("Enter a number : ");
         int n = s.nextInt();
