@@ -6,7 +6,7 @@ public class ToCheckPrimeOrNot1 {
     //Program to Check Prime or Not Another Example
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("enter a number");
+        System.out.println("Enter a number");
         int n = sc.nextInt();
 
         boolean isPrime = true;
