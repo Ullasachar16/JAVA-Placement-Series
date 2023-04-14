@@ -1,7 +1,7 @@
 package CollectionFramework;
 
 public class AutoBoxingAndUnboxingDemo {
-    //Program to Implement Auto Boxing and auto unboxing demo example
+    //Program to Implement Auto Boxing and Auto unboxing demo example
     public static void main(String[] args) {
         //primitive way of representing 10
         int a=10;
