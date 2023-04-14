@@ -9,7 +9,7 @@ public class AutoBoxingAndUnboxingDemo {
         Integer b=20;
         //Primitive way of representing 'z'
         char c='z';
-        //non-primitive way of representing 'z'
+        //Non-primitive way of representing 'z'
         Character x=new Character('z');
         //auto boxing
         Integer i=new Integer(a); //converting primitive datatype to non primitive
