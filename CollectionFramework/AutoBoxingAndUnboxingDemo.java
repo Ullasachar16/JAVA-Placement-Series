@@ -7,7 +7,7 @@ public class AutoBoxingAndUnboxingDemo {
         int a=10;
         //Non-primitive way of representing 10
         Integer b=20;
-        //primitive way of representing 'z'
+        //Primitive way of representing 'z'
         char c='z';
         //non-primitive way of representing 'z'
         Character x=new Character('z');
