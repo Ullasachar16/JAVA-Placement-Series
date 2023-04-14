@@ -5,7 +5,7 @@ public class AutoBoxingAndUnboxingDemo {
     public static void main(String[] args) {
         //Primitive way of representing 10
         int a=10;
-        //non-primitive way of representing 10
+        //Non-primitive way of representing 10
         Integer b=20;
         //primitive way of representing 'z'
         char c='z';
