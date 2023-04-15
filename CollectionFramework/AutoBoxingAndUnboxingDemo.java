@@ -3,7 +3,7 @@ package CollectionFramework;
 public class AutoBoxingAndUnboxingDemo {
     //Program to Implement Auto Boxing and Auto Unboxing Demo Example
     public static void main(String[] args) {
-        //Primitive way of representing 10
+        //Primitive Way of representing 10
         int a=10;
         //Non-primitive way of representing 10
         Integer b=20;
