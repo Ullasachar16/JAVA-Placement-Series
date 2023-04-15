@@ -14,7 +14,7 @@ public class AutoBoxingAndUnboxingDemo {
         //Auto Boxing
         Integer i=new Integer(a); //converting primitive datatype to non primitive
         System.out.println(b);
-        //Auto unboxing
+        //Auto Unboxing
         char ch=x; //converting non primitive to primitive datatype
         System.out.println(c);
     }
