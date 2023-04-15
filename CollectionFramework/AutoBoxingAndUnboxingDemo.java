@@ -11,7 +11,7 @@ public class AutoBoxingAndUnboxingDemo {
         char c='z';
         //Non-Primitive Way of Representing 'z'
         Character x=new Character('z');
-        //Auto boxing
+        //Auto Boxing
         Integer i=new Integer(a); //converting primitive datatype to non primitive
         System.out.println(b);
         //Auto unboxing
