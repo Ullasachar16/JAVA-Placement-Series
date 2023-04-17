@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.ArrayList;
 
 public class CollectionProgramExample {
-    //Program to implement collection example using arraylist collection example
+    //Program to Implement collection example using arraylist collection example
     public static void main(String[] args) {
         Student s1=new Student(34,"Tom");
         Student s2=new Student(43,"King");
