@@ -10,7 +10,7 @@ public class CollectionProgramExample1 {
         l.add(m1);
         l.add(new Mobile("Xiomi",18000));
         l.add(new Mobile("Realme",15000));
-        l.add(new Mobile("Iphone",125000));
+        l.add(new Mobile("iphone",125000));
         for(Mobile m:l){
             if(m.cost>=10000&&m.cost<=25000){
                 System.out.println(m);
