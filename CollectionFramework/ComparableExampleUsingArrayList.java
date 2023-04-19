@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 class Mobile1 implements Comparable<Mobile1>{
-    //Program to Show Comparable interface working
+    //Program to Show Comparable Interface working
     int cost;
     Mobile1(int cost){
         this.cost=cost;
