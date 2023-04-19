@@ -23,7 +23,7 @@ public class CollectionsExample {
             System.out.print(i+" ");
         }
         System.out.println();
-        System.out.println("reverse");
+        System.out.println("Reverse");
         Collections.reverse(l);
         for (Object obj:l){
             System.out.print(obj+" ");
