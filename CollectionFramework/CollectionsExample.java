@@ -17,7 +17,7 @@ public class CollectionsExample {
             System.out.print(i+" ");
         }
         System.out.println();
-        System.out.println("after sorting");
+        System.out.println("After sorting");
         Collections.sort(l);
         for(Object i:l){
             System.out.print(i+" ");
