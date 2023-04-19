@@ -12,7 +12,7 @@ public class CollectionsExample {
         l.add(15);
         l.add(35);
         l.add(21);
-        System.out.println("before sorting");
+        System.out.println("Before sorting");
         for(Object i:l){
             System.out.print(i+" ");
         }
