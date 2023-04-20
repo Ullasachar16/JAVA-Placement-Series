@@ -14,7 +14,7 @@ class Car implements Comparable<Car> {
     }
     @Override
     public int compareTo(Car c){
-        return this.cost-c.cost; //Ascending order
+        return this.cost-c.cost; //Ascending Order
         // return c.cost-this.cost //descending order
     }
 }
