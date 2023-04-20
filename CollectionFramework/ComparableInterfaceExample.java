@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.TreeSet;
 
 class Car implements Comparable<Car> {
-    //Example Program for Comparable interface
+    //Example Program for Comparable Interface
     int cost;
     Car(int cost){
         this.cost=cost;
