@@ -34,7 +34,7 @@ public class ComparatorInterfaceExample1 {
         TreeSet<Hotel>t=new TreeSet<>(new SortHotelByRatings());
         t.add(h1);
         t.add(new Hotel("Empire",3.8));
-        t.add(new Hotel("Brahmins Cafe",4.1));
+        t.add(new Hotel("Brahmin's Cafe",4.1));
         t.add(new Hotel("ITC",4.7));
         for(Hotel h:t){
             System.out.println(h);
