@@ -29,7 +29,7 @@ class SortBeerByCost implements Comparator<Beer>{
     }
 }
 public class ComparatorExampleUsingArrayList {
-    //Program to Show the Example of Comparator interface
+    //Program to Show the Example of Comparator Interface
     public static void main(String[] args) {
         Beer b1=new Beer("Tuborg",190);
         ArrayList<Beer> l=new ArrayList<>();
