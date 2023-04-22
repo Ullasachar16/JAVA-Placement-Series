@@ -13,7 +13,7 @@ class Hotel{
     }
     @Override
     public String toString(){
-        return "Ratings of "+name+" hotel is "+ratings;
+        return "Ratings of "+name+" Hotel is "+ratings;
     }
 }
 class SortHotelByName implements Comparator<Hotel>{
