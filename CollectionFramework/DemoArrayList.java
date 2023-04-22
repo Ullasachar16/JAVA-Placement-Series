@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class DemoArrayList {
     public static void main(String[] args) {
         //Demo Program of ArrayList
-        //Pre-Defined Methods of List Interface and Arraylist class
+        //Pre-Defined Methods of List Interface and ArrayList class
         ArrayList l=new ArrayList();
         l.add(10);
         l.add(20);
