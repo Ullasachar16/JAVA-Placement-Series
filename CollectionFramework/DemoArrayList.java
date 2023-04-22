@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class DemoArrayList {
     public static void main(String[] args) {
-        //Demo program of arraylist
+        //Demo Program of arraylist
         //pre-defined methods of list interface and arraylist class
         ArrayList l=new ArrayList();
         l.add(10);
