@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.LinkedList;
 
 public class DemoLinkedList{
-    //Demo program for linked-list
+    //Demo Program for linked-list
     public static void main(String[] args) {
         LinkedList l=new LinkedList();
         l.add(10);
