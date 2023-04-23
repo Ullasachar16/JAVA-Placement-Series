@@ -1,7 +1,7 @@
 package CollectionFramework;
 
 public class ForEachLoopExample {
-    //Program to Show How For Each Loop works
+    //Program to Show How For Each Loop Works
     public static void main(String[] args) {
         int[] a={10,20,30,40};
         for(int i=0;i<a.length;i++){
