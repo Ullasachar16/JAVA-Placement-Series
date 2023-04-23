@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.ArrayList;
 
 public class DemoArrayList1 {
-    //Demo Program of Arraylist
+    //Demo Program of ArrayList
     public static void main(String[] args) {
         ArrayList x=new ArrayList();
         x.add(10);
