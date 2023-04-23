@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class DemoLinkedList1 {
-    //Another Demo program for linked-list
+    //Another Demo Program for linked-list
     public static void main(String[] args) {
         ArrayList al=new ArrayList();
         al.add(10);
