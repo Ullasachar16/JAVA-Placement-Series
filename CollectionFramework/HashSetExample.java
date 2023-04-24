@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.HashSet;
 
 public class HashSetExample {
-    //Example Program of hashset
+    //Example Program of Hashset
     public static void main(String[] args) {
         HashSet h=new HashSet();
         h.add(20);
