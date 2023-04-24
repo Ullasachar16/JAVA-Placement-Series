@@ -10,7 +10,7 @@ public class HashSetExample {
         h.add(null);
         h.add(20);
         h.add(true);
-        h.add("java");
+        h.add("Java");
         System.out.println(h.size());
         System.out.println(h);
         for(Object obj:h){
