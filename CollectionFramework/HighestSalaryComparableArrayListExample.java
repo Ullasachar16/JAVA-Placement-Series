@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 class Employ implements Comparable<Employ>{
-    //Program to Sort Employee Details with Highest and Lowest Salary using comparable interface
+    //Program to Sort Employee Details with Highest and Lowest Salary using Comparable interface
     String name;
     int salary;
     public Employ(String name, int salary) {
