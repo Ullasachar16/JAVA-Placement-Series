@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 public class GenericsDemo {
-    //Demo of generics used in collection framework
+    //Demo of Generics used in collection framework
 
     public static void main(String[] args) {
         int a=20;
