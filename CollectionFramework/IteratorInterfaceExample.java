@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class IteratorInterfaceExample {
-    //Program to Show the Implementation of Iterator interface
+    //Program to Show the Implementation of Iterator Interface
     public static void main(String[] args) {
         ArrayList l=new ArrayList<>();
         l.add(10);
