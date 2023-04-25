@@ -24,6 +24,6 @@ public class LargestElementInsideArrayListExample {
                 large=i;
             }
         }
-        System.out.println("large:"+large);
+        System.out.println("Large:"+large);
     }
 }
