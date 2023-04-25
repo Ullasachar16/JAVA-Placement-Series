@@ -17,7 +17,7 @@ public class LargestElementInsideArrayListExample {
                 max=a.get(i);
             }
         }
-        System.out.println("max:"+max);
+        System.out.println("Max:"+max);
         int large=a.get(0);
         for(int i:a){
             if(i>large){
