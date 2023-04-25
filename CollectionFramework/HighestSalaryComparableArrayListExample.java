@@ -29,7 +29,7 @@ public class HighestSalaryComparableArrayListExample {
         l.add(new Employ("Allen",12000));
         l.add(new Employ("Ward",30000));
         Collections.sort(l);
-        System.out.println("Highest salary->"+l.get(l.size()-1));
+        System.out.println("Highest Salary->"+l.get(l.size()-1));
         System.out.println("Lowest salary->"+l.get(0));
     }
 }
