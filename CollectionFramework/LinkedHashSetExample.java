@@ -7,7 +7,7 @@ public class LinkedHashSetExample {
     public static void main(String[] args) {
         LinkedHashSet lhs=new LinkedHashSet();
         lhs.add("Java");
-        lhs.add("sql");
+        lhs.add("Sql");
         lhs.add("web");
         lhs.add("javascript");
         System.out.println(lhs);
