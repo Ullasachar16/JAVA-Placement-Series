@@ -9,7 +9,7 @@ public class LinkedHashSetExample {
         lhs.add("Java");
         lhs.add("Sql");
         lhs.add("Web");
-        lhs.add("javascript");
+        lhs.add("Javascript");
         System.out.println(lhs);
     }
 }
