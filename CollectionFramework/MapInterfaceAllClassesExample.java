@@ -12,7 +12,7 @@ public class MapInterfaceAllClassesExample {
         h.put("Tom",22);
         h.put("Jerry",21);
         h.put("Doggy",25);
-        h.put("bheem",23);
+        h.put("Bheem",23);
         Set<String>s1=h.keySet();
         for(String key:s1){
             System.out.println(key+" is "+h.get(key)+" years old");
