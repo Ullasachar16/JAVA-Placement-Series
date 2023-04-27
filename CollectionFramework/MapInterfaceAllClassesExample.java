@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.TreeMap;
 
 public class MapInterfaceAllClassesExample {
-    //Program to Show the Execution and Implementation of Map-interface
+    //Program to Show the Execution and Implementation of Map-Interface
     public static void main(String[] args) {
         HashMap<String,Integer> h=new HashMap();
         h.put("Tom",22);
