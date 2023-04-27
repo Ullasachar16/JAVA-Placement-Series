@@ -19,7 +19,7 @@ public class MapInterfaceAllClassesExample {
         }
         System.out.println("-------------");
         LinkedHashMap<Integer,String> lhm=new LinkedHashMap<Integer,String>();
-        lhm.put(10,"java");
+        lhm.put(10,"Java");
         lhm.put(20,"sql");
         lhm.put(30,"web");
         Set<Integer> s=lhm.keySet();
