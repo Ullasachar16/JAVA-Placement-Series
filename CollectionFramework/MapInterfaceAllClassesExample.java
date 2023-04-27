@@ -20,7 +20,7 @@ public class MapInterfaceAllClassesExample {
         System.out.println("-------------");
         LinkedHashMap<Integer,String> lhm=new LinkedHashMap<Integer,String>();
         lhm.put(10,"Java");
-        lhm.put(20,"sql");
+        lhm.put(20,"Sql");
         lhm.put(30,"Web");
         Set<Integer> s=lhm.keySet();
         for(int key:s){
