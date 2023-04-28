@@ -15,7 +15,7 @@ public class MapInterfaceUsingHashMapAndMethodsExample {
         System.out.println("------------------");
         //get() is used to get an value based on the key specified
         System.out.println(h.get(10));
-        System.out.println(h.get("guldu"));
+        System.out.println(h.get("Guldu"));
         System.out.println("---------------------");
         System.out.println(h.containsKey("guldu"));
         System.out.println(h.containsKey(1.2));
