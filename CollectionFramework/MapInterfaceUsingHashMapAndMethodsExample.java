@@ -17,7 +17,7 @@ public class MapInterfaceUsingHashMapAndMethodsExample {
         System.out.println(h.get(10));
         System.out.println(h.get("Guldu"));
         System.out.println("---------------------");
-        System.out.println(h.containsKey("guldu"));
+        System.out.println(h.containsKey("Guldu"));
         System.out.println(h.containsKey(1.2));
         System.out.println(h.containsValue("guldu"));
         System.out.println(h.containsValue(100));
