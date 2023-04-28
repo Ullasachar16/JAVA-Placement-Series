@@ -8,7 +8,7 @@ public class MapInterfaceUsingHashMapAndMethodsExample {
         HashMap h=new HashMap();
         //put() is used to add key and value inside map
         h.put(10,"Dinga");
-        h.put("guldu",10.45);
+        h.put("Guldu",10.45);
         h.put(1.2,100);
         System.out.println(h);
 
