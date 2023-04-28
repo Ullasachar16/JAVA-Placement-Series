@@ -19,7 +19,7 @@ public class MapInterfaceUsingHashMapAndMethodsExample {
         System.out.println("---------------------");
         System.out.println(h.containsKey("Guldu"));
         System.out.println(h.containsKey(1.2));
-        System.out.println(h.containsValue("guldu"));
+        System.out.println(h.containsValue("Guldu"));
         System.out.println(h.containsValue(100));
         System.out.println("--------------------");
         System.out.println(h);
