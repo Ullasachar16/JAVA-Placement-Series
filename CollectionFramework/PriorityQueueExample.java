@@ -4,7 +4,7 @@ import java.util.PriorityQueue;
 import java.util.Queue;
 
 public class PriorityQueueExample {
-    //Priority Queue Example Program using collection interface
+    //Priority Queue Example Program using Collection interface
     public static void main(String[] args) {
         Queue q=new PriorityQueue();
         q.add(10);
