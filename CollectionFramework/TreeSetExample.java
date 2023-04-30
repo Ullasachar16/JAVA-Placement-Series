@@ -3,7 +3,7 @@ package CollectionFramework;
 import java.util.TreeSet;
 
 public class TreeSetExample {
-    //Tree set example program using collections
+    //Tree Set example program using collections
     public static void main(String[] args) {
         TreeSet t=new TreeSet();
         t.add(40);
