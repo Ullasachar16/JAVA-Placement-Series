@@ -6,7 +6,7 @@ import java.util.Stack;
 import java.util.Vector;
 
 public class VectorAndStackExample {
-    //Vector and Stack example program using collections
+    //Vector and Stack Example program using collections
     public static void main(String[] args) {
         ArrayList al=new ArrayList();
         al.add(10);
