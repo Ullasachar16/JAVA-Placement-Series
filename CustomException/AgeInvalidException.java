@@ -22,7 +22,7 @@ class Vote{
             System.out.println("Eligible to Vote");
         }else{
             try {
-                throw new AgeInvalidException("Hey kiddo, wait for ur time");
+                throw new AgeInvalidException("Hey Kiddo, wait for ur time");
             }
             catch (Exception e){
                 System.out.println(e.getMessage());
