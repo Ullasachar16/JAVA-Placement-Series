@@ -19,7 +19,7 @@ class Vote{
         System.out.println("Enter Age:");
         int age=sc.nextInt();
         if(age>=18){
-            System.out.println("Eligible to vote");
+            System.out.println("Eligible to Vote");
         }else{
             try {
                 throw new AgeInvalidException("Hey kiddo, wait for ur time");
