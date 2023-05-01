@@ -3,7 +3,7 @@ package CustomException;
 import java.util.Scanner;
 
 public class AgeInvalidException extends Exception{
-    //Program to Implement Custom Exception Using custom age-invalid-excception
+    //Program to Implement Custom Exception Using Custom age-invalid-excception
     private String message;
     AgeInvalidException(String message){
         this.message=message;
