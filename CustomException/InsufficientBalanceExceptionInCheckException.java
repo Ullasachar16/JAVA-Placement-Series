@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class InsufficientBalanceExceptionInCheckException extends Exception {
 }
 class ATM{
-    //Program to Implement Insufficient-Balance-Exception using Check exception
+    //Program to Implement Insufficient-Balance-Exception using Check Exception
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         double balance=10000;
