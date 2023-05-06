@@ -18,7 +18,7 @@ class ATM{
                 throw new InsufficientBalanceExceptionInCheckException();
             }
             catch (InsufficientBalanceExceptionInCheckException e){
-                System.out.println("Not Enough Balance to withdraw");
+                System.out.println("Not Enough Balance to Withdraw");
             }
         }
     }
