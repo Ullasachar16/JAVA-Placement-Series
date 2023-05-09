@@ -13,7 +13,7 @@ public class InsufficientBalanceExceptionInUncheckException extends RuntimeExcep
     }
 }
 class ATM1{
-    //Program to Implement Insufficient-Balance-exception using uncheck exception
+    //Program to Implement Insufficient-Balance-Exception using uncheck exception
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         double balance=10000;
