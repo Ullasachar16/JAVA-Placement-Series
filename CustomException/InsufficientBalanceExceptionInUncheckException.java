@@ -17,7 +17,7 @@ class ATM1{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         double balance=10000;
-        System.out.println("Enter amount to be withdrawn:");
+        System.out.println("Enter Amount to be Withdrawn:");
         double amount= sc.nextDouble();
         if(amount<=balance){
             System.out.println("Withdrawn successfully");
