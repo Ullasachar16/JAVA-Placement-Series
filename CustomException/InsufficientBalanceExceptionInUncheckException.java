@@ -20,7 +20,7 @@ class ATM1{
         System.out.println("Enter Amount to be Withdrawn:");
         double amount= sc.nextDouble();
         if(amount<=balance){
-            System.out.println("Withdrawn successfully");
+            System.out.println("Withdrawn Successfully");
         }else {
             try {
                 throw new InsufficientBalanceExceptionInUncheckException("Insufficient Funds!!!");
