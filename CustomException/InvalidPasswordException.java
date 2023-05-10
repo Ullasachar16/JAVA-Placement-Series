@@ -9,7 +9,7 @@ class LoginForm{
     //Program to Implement Runtime Exception in Custom Exception(Invalid-Password-Exception)
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter user id:");
+        System.out.println("Enter User id:");
         String id= sc.next();
         System.out.println("Enter password:");
         int password= sc.nextInt();
