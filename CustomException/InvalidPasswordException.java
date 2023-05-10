@@ -13,7 +13,7 @@ class LoginForm{
         String id= sc.next();
         System.out.println("Enter Password:");
         int password= sc.nextInt();
-        if(id.equals("admin")){
+        if(id.equals("Admin")){
             if(password==123){
                 System.out.println("Login Successful");
             }else {
