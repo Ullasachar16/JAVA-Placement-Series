@@ -11,7 +11,7 @@ class LoginForm{
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter User ID:");
         String id= sc.next();
-        System.out.println("Enter password:");
+        System.out.println("Enter Password:");
         int password= sc.nextInt();
         if(id.equals("admin")){
             if(password==123){
