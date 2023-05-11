@@ -24,7 +24,7 @@ public class ArrayLists {
         list.add(1,2); // 1 is the index and 2 is the element to be added
         System.out.println(list);
 
-        //set element
+        //Set element
         list.set(0,0);
         System.out.println(list);
 
