@@ -36,7 +36,7 @@ public class ArrayLists {
         int size = list.size();
         System.out.println(size);
 
-        //Loops on lists
+        //Loops on Lists
         for(int i=0; i<list.size(); i++) {
             System.out.print(list.get(i) + " ");
         }
