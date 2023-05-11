@@ -32,7 +32,7 @@ public class ArrayLists {
         list.remove(0); // 0 is the index
         System.out.println(list);
 
-        //Size of list
+        //Size of List
         int size = list.size();
         System.out.println(size);
 
