@@ -9,7 +9,7 @@ public class ArrayLists {
 //        ArrayList<String> list2 = new ArrayList<String>();
 //        ArrayList<Boolean> list3 = new ArrayList<Boolean>();
 
-        //Add elements
+        //Add Elements
         list.add(1);
         list.add(3);
         list.add(4);
