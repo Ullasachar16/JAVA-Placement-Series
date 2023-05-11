@@ -16,7 +16,7 @@ public class ArrayLists {
         list.add(5);
         System.out.println(list);
 
-        //to get an element
+        //To Get an element
         int element = list.get(0); // 0 is the index
         System.out.println(element);
 
