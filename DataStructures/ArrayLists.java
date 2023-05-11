@@ -28,7 +28,7 @@ public class ArrayLists {
         list.set(0,0);
         System.out.println(list);
 
-        //delete elements
+        //Delete Elements
         list.remove(0); // 0 is the index
         System.out.println(list);
 
