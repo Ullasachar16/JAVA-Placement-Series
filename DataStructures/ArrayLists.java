@@ -20,7 +20,7 @@ public class ArrayLists {
         int element = list.get(0); // 0 is the index
         System.out.println(element);
 
-        //add element in between
+        //Add Element in Between
         list.add(1,2); // 1 is the index and 2 is the element to be added
         System.out.println(list);
 
