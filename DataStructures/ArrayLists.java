@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class ArrayLists {
-    //Arraylist example
+    //ArrayList example
     public static void main(String args[]) {
         ArrayList<Integer> list = new ArrayList<Integer>();
 //        ArrayList<String> list2 = new ArrayList<String>();
