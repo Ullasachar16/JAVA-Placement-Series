@@ -42,7 +42,7 @@ public class ArrayLists {
         }
         System.out.println();
 
-        //Sorting the list
+        //Sorting the List
         list.add(0,0);
         Collections.sort(list);
         System.out.println(list);
