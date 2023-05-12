@@ -29,7 +29,7 @@ public class ArrayLists {
         System.out.println(list);
 
         //Delete Elements
-        list.remove(0); // 0 is the index
+        list.remove(0); // 0 is the Index
         System.out.println(list);
 
         //Size of List
