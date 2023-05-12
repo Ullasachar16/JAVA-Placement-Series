@@ -17,7 +17,7 @@ public class ArrayLists {
         System.out.println(list);
 
         //To Get an Element
-        int element = list.get(0); // 0 is the index
+        int element = list.get(0); // 0 is the Index
         System.out.println(element);
 
         //Add Element in Between
