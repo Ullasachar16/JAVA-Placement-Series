@@ -4,7 +4,7 @@ import java.util.Collections;
 
 public class ArrayLists {
     //ArrayList Example
-    //Program to Implement the arraylist properties
+    //Program to Implement the Arraylist properties
     public static void main(String args[]) {
         ArrayList<Integer> list = new ArrayList<Integer>();
 //        ArrayList<String> list2 = new ArrayList<String>();
