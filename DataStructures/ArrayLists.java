@@ -21,7 +21,7 @@ public class ArrayLists {
         System.out.println(element);
 
         //Add Element in Between
-        list.add(1,2); // 1 is the Index and 2 is the Element to be added
+        list.add(1,2); // 1 is the Index and 2 is the Element to be Added
         System.out.println(list);
 
         //Set Element
