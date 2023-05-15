@@ -2,7 +2,7 @@ package DataStructures;
 import java.util.*;
 
 public class LinkedLists {
-    //linked list example
+    //Linked list example
     //scratch implementation
 
     Node head;
