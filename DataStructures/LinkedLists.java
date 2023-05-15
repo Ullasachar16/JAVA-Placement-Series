@@ -43,7 +43,7 @@ public class LinkedLists {
             System.out.print(currNode.data+" -> ");
             currNode = currNode.next;
         }
-        System.out.println("null");
+        System.out.println("Null");
     }
     public void removeFirst() {
         if(head == null) {
