@@ -3,7 +3,7 @@ import java.util.*;
 
 public class LinkedLists {
     //Linked List Example
-    //Scratch implementation
+    //Scratch Implementation
 
     Node head;
     private int size;
