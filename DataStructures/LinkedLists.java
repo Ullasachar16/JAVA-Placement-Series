@@ -1,5 +1,4 @@
 package DataStructures;
-import java.util.*;
 
 public class LinkedLists {
     //Linked List Example
