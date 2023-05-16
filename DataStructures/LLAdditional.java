@@ -1,7 +1,7 @@
 package DataStructures;
 
 class LLAdditional {
-    //ll additional example
+    //Linked additional example
     //scratch implementation
     Node head;
     private int size;
