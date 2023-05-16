@@ -18,6 +18,6 @@ public class LinkedListsExample {
         for(int i=0;i<l.size();i++){
             index=l.indexOf(7);
         }
-        System.out.println("index:"+index);
+        System.out.println("Index:"+index);
     }
 }
