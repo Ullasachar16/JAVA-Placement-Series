@@ -47,7 +47,7 @@ class LLAdditional {
     }
     public void removeFirst() {
         if(head == null) {
-            System.out.println("Empty List, nothing to delete");
+            System.out.println("Empty List, Nothing to Delete");
             return;
         }
         head = this.head.next;
