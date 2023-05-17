@@ -87,7 +87,7 @@ class LLAdditional {
             size++;
         }
 
-        //removing SIZEth node from last i.e. head
+        //Removing SIZEth node from last i.e. head
         if(n == size) {
             return head.next;
         }
