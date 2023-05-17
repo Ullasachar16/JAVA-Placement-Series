@@ -164,7 +164,7 @@ class LLAdditional {
     }
     public static void main(String args[]) {
         LLAdditional list = new LLAdditional();
-        //Add at last
+        //Add at Last
         list.addFirst(1);
         list.addLast(2);
         list.addLast(4);
