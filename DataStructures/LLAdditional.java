@@ -55,7 +55,7 @@ class LLAdditional {
     }
     public void removeLast() {
         if(head == null) {
-            System.out.println("Empty List, nothing to delete");
+            System.out.println("Empty List, Nothing to Delete");
             return;
         }
         size--;
