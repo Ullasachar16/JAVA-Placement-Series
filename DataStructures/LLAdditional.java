@@ -94,7 +94,7 @@ class LLAdditional {
 
         //Find Previous Node
         int ptf = size - n; // Position to find
-        Node prev = head; // previous node
+        Node prev = head; // Previous node
         int cp = 1; // current position
 
         while(cp != ptf) {
