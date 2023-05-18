@@ -93,7 +93,7 @@ class LLAdditional {
         }
 
         //Find Previous Node
-        int ptf = size - n; // position to find
+        int ptf = size - n; // Position to find
         Node prev = head; // previous node
         int cp = 1; // current position
 
