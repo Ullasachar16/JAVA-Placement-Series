@@ -57,7 +57,7 @@ class ReverseLL {
 
     public void removeFirst() {
         if(head == null) {
-            System.out.println("Empty List, Nothing to delete");
+            System.out.println("Empty List, Nothing to Delete");
             return;
         }
 
