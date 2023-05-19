@@ -1,7 +1,7 @@
 package DataStructures;
 
 class ReverseLL {
-    //reverse linked list example
+    //Reverse linked list example
     //Using Iterative Method
 
     Node head;
