@@ -52,7 +52,7 @@ class ReverseLL {
             currNode = currNode.next;
         }
 
-        System.out.println("null");
+        System.out.println("Null");
     }
 
     public void removeFirst() {
