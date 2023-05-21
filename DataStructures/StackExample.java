@@ -3,7 +3,7 @@ package DataStructures;
 import java.util.Stack;
 
 public class StackExample {
-    //stack collection framework example
+    //Stack collection framework example
     public static void main(String args[]) {
         Stack<Integer> stack = new Stack<>();
         stack.push(1);
