@@ -14,7 +14,7 @@ public class StackProblem1 {
         s.push(top);
     }
     public static void main(String args[]) {
-        //Using Stack Data structures
+        //Using Stack Data Structures
         Stack<Integer> s = new Stack<>();
         s.push(1);
         s.push(2);
