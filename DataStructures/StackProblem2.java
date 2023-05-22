@@ -21,7 +21,7 @@ public class StackProblem2 {
         pushAtBottom(s, top);
     }
     public static void main(String args[]) {
-        //Using Stack Data structure
+        //Using Stack Data Structure
         Stack<Integer> stack = new Stack<>();
         stack.push(1);
         stack.push(2);
