@@ -29,7 +29,7 @@ public class StackProblem2 {
         stack.push(4);
         reverse(stack);
         while(!stack.isEmpty()) {
-            System.out.println(stack.pop()); //pop the elements
+            System.out.println(stack.pop()); //Pop the elements
         }
     }
 }
