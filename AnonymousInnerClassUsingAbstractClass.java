@@ -1,5 +1,5 @@
 public class AnonymousInnerClassUsingAbstractClass {
-    //Program to Show How anonymous inner class using abstraction is done
+    //Program to Show How Anonymous inner class using abstraction is done
     public static void main(String[] args) {
         Employ e=new Employ() {
             @Override
