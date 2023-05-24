@@ -1,5 +1,5 @@
 public class AnonymousInnerClassUsingAbstractClass1 {
-    //Program to implement anonymous inner class example 2
+    //Program to Implement anonymous inner class example 2
     public static void main(String[] args) {
         Car c=new Car(){
             @Override
