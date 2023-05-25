@@ -1,5 +1,5 @@
 public class AnonymousInnerClassUsingInterface {
-    //Program to Implement Anonymous Inner class using interface
+    //Program to Implement Anonymous Inner Class using interface
     public static void main(String[] args) {
         Flipkart f=new Flipkart() {
             @Override
