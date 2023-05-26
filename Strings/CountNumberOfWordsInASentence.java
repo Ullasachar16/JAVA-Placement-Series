@@ -11,7 +11,7 @@ public class CountNumberOfWordsInASentence {
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a sentence:");
+        System.out.println("Enter a Sentence:");
         String sentence=sc.nextLine();
         System.out.println("Your sentence has "+countWords(sentence)+ " words");
         sc.close();
