@@ -10,7 +10,7 @@ public class FindingCombinedLengthOfStrings {
         int size= sc.nextInt();
         String array[]=new String[size];
         int totalLength=0;
-        System.out.println("Enter array elements:");
+        System.out.println("Enter Array elements:");
         for(int i=0;i<size;i++){
             array[i]= sc.next();
             totalLength=totalLength+array[i].length();
