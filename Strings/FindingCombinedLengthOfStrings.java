@@ -6,7 +6,7 @@ public class FindingCombinedLengthOfStrings {
     //Program to Find the Combined Length of Strings Inputted by the User
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter size:");
+        System.out.println("Enter Size:");
         int size= sc.nextInt();
         String array[]=new String[size];
         int totalLength=0;
