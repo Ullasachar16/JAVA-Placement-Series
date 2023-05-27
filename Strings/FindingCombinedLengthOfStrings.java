@@ -3,7 +3,7 @@ package Strings;
 import java.util.Scanner;
 
 public class FindingCombinedLengthOfStrings {
-    //Program to Find the Combined Length of Strings Inputted by the user
+    //Program to Find the Combined Length of Strings Inputted by the User
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter size:");
