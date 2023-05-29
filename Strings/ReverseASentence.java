@@ -14,7 +14,7 @@ public class ReverseASentence {
 
         String words[] = str.split(" ");
 
-        //Adding the Words stored in the array to the last
+        //Adding the Words Stored in the array to the last
         System.out.println("Reverse Sentence:");
         for(int i= words.length-1;i>=0;i--){
             System.out.print(words[i]+" ");
