@@ -3,7 +3,7 @@ package Strings;
 import java.util.Scanner;
 
 public class ReplacingElementsInString {
-    //Program to Replace Specific Elements in a String inputted by the user
+    //Program to Replace Specific Elements in a String Inputted by the user
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter String:");
