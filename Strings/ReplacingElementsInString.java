@@ -17,6 +17,6 @@ public class ReplacingElementsInString {
                 result=result+str.charAt(i);
             }
         }
-        System.out.println("result string:"+result);
+        System.out.println("Result string:"+result);
     }
 }
