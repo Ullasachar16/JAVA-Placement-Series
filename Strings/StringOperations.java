@@ -10,7 +10,7 @@ public class StringOperations {
         System.out.println(fullName);
         //tony@stark
         //Length
-        System.out.println("length:"+fullName.length());
+        System.out.println("Length:"+fullName.length());
         //charAt
         for(int i=0;i<fullName.length();i++){
             System.out.print(fullName.charAt(i));
