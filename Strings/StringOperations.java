@@ -4,7 +4,7 @@ public class StringOperations {
     public static void main(String[] args) {
         //Program to Execute String Operations
         //Concatenation
-        String firstName="tony";
+        String firstName="Tony";
         String lastName="stark";
         String fullName=firstName+"@"+lastName;
         System.out.println(fullName);
