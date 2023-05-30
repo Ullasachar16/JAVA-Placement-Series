@@ -8,7 +8,7 @@ public class StringOperations {
         String lastName="Stark";
         String fullName=firstName+"@"+lastName;
         System.out.println(fullName);
-        //Tony@stark
+        //Tony@Stark
         //Length
         System.out.println("Length:"+fullName.length());
         //charAt
