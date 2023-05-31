@@ -18,7 +18,7 @@ public class StringSortingInAlphabeticalOrder {
         names=new String[size];
 
         for(int i=0;i<size;i++){
-            System.out.println("Enter "+(i+1)+ " name:");
+            System.out.println("Enter "+(i+1)+ " Name:");
             names[i]= br.readLine();
         }
         //Sort the Array using the Sort Method of the Arrays Class
