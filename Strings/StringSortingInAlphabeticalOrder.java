@@ -12,7 +12,7 @@ public class StringSortingInAlphabeticalOrder {
 
         //Create a Java String Array
         String[] names=null;
-        System.out.println("How Many Names u want to sort:");
+        System.out.println("How Many Names You Want to Sort:");
         int size=Integer.parseInt(br.readLine());
 
         names=new String[size];
