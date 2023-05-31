@@ -18,7 +18,7 @@ public class StringOperations {
         System.out.println();
         //Compare
         String name1="Tony";
-        String name2="tony";
+        String name2="Tony";
         if(name1.compareTo(name2)==0){
             System.out.println("Strings are Equal");
         }else {
