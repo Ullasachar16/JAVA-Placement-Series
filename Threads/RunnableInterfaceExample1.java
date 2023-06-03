@@ -1,7 +1,7 @@
 package Threads;
 
 public class RunnableInterfaceExample1 implements Runnable{
-    //Program to Implement Runnable Interface another example
+    //Program to Implement Runnable Interface Another example
     @Override
     public void run(){
         for(int i=1;i<=30;i++){
