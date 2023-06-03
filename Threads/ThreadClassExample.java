@@ -36,7 +36,7 @@ class Solution{
         System.out.println(s.getPriority());
         s.start();
         ThreadClassExample tce=new ThreadClassExample();
-        tce.setName("1st thread");
+        tce.setName("1st Thread");
         tce.setPriority(4);
         System.out.println(tce.getName());
         tce.start();
