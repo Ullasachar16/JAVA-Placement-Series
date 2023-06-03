@@ -20,7 +20,7 @@ class Test implements Runnable{
 class Runnerr{
     public static void main(String[] args) {
         RunnableInterfaceExample1 r=new RunnableInterfaceExample1();
-        Thread t1=new Thread(r,"Odd numbers till 30");
+        Thread t1=new Thread(r,"Odd Numbers till 30");
         System.out.println(t1.getName());
         t1.setPriority(10);
         t1.start();
