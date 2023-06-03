@@ -14,7 +14,7 @@ public class RunnableInterfaceExample1 implements Runnable{
 class Test implements Runnable{
     @Override
     public void run(){
-        System.out.println("Test is being conducted");
+        System.out.println("Test is Being conducted");
     }
 }
 class Runnerr{
