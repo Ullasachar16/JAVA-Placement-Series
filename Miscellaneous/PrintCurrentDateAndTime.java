@@ -4,7 +4,7 @@ import java.util.Calendar;
 import java.util.GregorianCalendar;
 
 public class PrintCurrentDateAndTime {
-    //Program to get and print the current time and date of system
+    //Program to Get and print the current time and date of system
     public static void main(String[] args) {
         int day,month,year;
         int second,minute,hour;
