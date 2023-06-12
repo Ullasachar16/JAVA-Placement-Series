@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class Pendulum extends JPanel implements Runnable {
-    //Program to implement pendulum with the help of JPanel and Runnable interface
+    //Program to Implement pendulum with the help of JPanel and Runnable interface
     private double angle = Math.PI/2;
     private int length;
     public Pendulum(int length){
