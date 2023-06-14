@@ -9,7 +9,7 @@ public class RemoveZero {
         char z;
         String n,k="",str;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter a number");
+        System.out.println("Enter a Number");
         str = sc.next();
 
         x = str.length();
