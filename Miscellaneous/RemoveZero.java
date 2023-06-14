@@ -21,6 +21,6 @@ public class RemoveZero {
             }else
                 k+=z;
         }
-        System.out.println("Numbers Without zero:"+k);
+        System.out.println("Numbers Without Zero:"+k);
     }
 }
