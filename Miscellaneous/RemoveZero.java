@@ -3,7 +3,7 @@ package Miscellaneous;
 import java.util.Scanner;
 
 public class RemoveZero {
-    //Program to Remove Zeroes that are provided in the input
+    //Program to Remove Zeroes that are Provided in the input
     public static void main(String[] args) {
         int a,x,b;
         char z;
