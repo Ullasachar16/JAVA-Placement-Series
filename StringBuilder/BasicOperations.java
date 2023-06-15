@@ -17,7 +17,7 @@ public class BasicOperations {
         sb.insert(2,'n');
         System.out.println(sb);
 
-        //delete
+        //Delete
         sb.delete(2,4);
         System.out.println(sb);
 
