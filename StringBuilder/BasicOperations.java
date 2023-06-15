@@ -1,7 +1,7 @@
 package StringBuilder;
 
 public class BasicOperations {
-    //Program to Implement Basic Operations of String Builder class
+    //Program to Implement Basic Operations of String Builder Class
     public static void main(String[] args) {
         StringBuilder sb=new StringBuilder("Tony");
         System.out.println(sb);
