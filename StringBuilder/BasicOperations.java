@@ -21,7 +21,7 @@ public class BasicOperations {
         sb.delete(2,4);
         System.out.println(sb);
 
-        //append
+        //Append
         sb.append("e");
         sb.append("r");
         System.out.println(sb);
