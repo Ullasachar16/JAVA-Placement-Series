@@ -13,7 +13,7 @@ public class BasicOperations {
         sb.setCharAt(0,'p');
         System.out.println(sb);
 
-        //insert
+        //Insert
         sb.insert(2,'n');
         System.out.println(sb);
 
