@@ -9,7 +9,7 @@ public class Basic1 {
         System.out.println("Enter Array Size:");
         int size=sc.nextInt();
         int numbers[]=new int[size];
-        System.out.println("Enter Array elements:");
+        System.out.println("Enter Array Elements:");
         for(int i=0;i<size;i++){
             numbers[i]= sc.nextInt();
         }
