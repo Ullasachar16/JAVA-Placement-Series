@@ -9,7 +9,7 @@ public class CheckArraySortedOrNot {
         System.out.println("Enter Array Size:");
         int size=sc.nextInt();
         int ele[]=new int[size];
-        System.out.println("Enter Array elements:");
+        System.out.println("Enter Array Elements:");
         for(int i=0;i<size;i++){
             ele[i]= sc.nextInt();
         }
