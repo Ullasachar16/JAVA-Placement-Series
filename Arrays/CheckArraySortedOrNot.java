@@ -20,7 +20,7 @@ public class CheckArraySortedOrNot {
             }
         }
         if(isAscending){
-            System.out.println("Array is sorted in ascending order");
+            System.out.println("Array is Sorted in ascending order");
         }else{
             System.out.println("Array is not sorted in ascending order");
         }
