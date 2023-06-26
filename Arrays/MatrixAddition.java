@@ -11,7 +11,7 @@ public class MatrixAddition {
         scan=new Scanner(System.in);
         System.out.println("Matrix Addition");
         //First Matrix Creation
-        System.out.println("Enter number of rows and columns");
+        System.out.println("Enter Number of rows and columns");
         row=Integer.parseInt(scan.nextLine());
         column=Integer.parseInt(scan.nextLine());
         matrix1=new int[row][column];
