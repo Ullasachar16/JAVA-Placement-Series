@@ -3,7 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class MaxAndMinNumberInArray {
-    //Program to find Max and Min Number in array
+    //Program to find Max and Min Number in Array
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter array size:");
