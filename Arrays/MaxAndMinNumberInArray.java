@@ -24,8 +24,8 @@ public class MaxAndMinNumberInArray {
                 max=ele[i];
             }
         }
-        System.out.println("MAX element is:"+max);
-        System.out.println("MIN element is:"+min);
+        System.out.println("MAX Element is:"+max);
+        System.out.println("MIN Element is:"+min);
 
     }
 }
