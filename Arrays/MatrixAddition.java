@@ -24,7 +24,7 @@ public class MatrixAddition {
             }
         }
         //Second Matrix Creation
-        System.out.println("Enter the data for second matrix");
+        System.out.println("Enter the Data for second matrix");
         for(int i=0;i<row;i++){
             for(int j=0;j<column;j++){
                 matrix2[i][j]=scan.nextInt();
