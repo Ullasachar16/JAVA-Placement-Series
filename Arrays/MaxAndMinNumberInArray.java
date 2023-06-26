@@ -6,10 +6,10 @@ public class MaxAndMinNumberInArray {
     //Program to find Max and Min Number in Array
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter array size:");
+        System.out.println("Enter Array Size:");
         int size= sc.nextInt();
         int ele[]=new int[size];
-        System.out.println("Enter array elements:");
+        System.out.println("Enter Array Elements:");
         for(int i=0;i<size;i++){
             ele[i]= sc.nextInt();
         }
