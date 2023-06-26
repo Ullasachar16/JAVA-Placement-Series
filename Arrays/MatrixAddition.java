@@ -17,7 +17,7 @@ public class MatrixAddition {
         matrix1=new int[row][column];
         matrix2=new int[row][column];
         sum=new int[row][column];
-        System.out.println("Enter the data for first matrix");
+        System.out.println("Enter the Data for first matrix");
         for(int i=0;i<row;i++){
             for(int j=0;j<column;j++){
                 matrix1[i][j]=scan.nextInt();
