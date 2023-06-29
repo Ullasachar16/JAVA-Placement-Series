@@ -11,7 +11,7 @@ class Matrix_Create{
     void create(){
         scan =new Scanner(System.in);
         System.out.println("Matrix Creation");
-        System.out.println("Enter no of rows");
+        System.out.println("Enter No of rows");
         row=Integer.parseInt(scan.nextLine());
         System.out.println("Enter no of columns");
         column = Integer.parseInt(scan.nextLine());
