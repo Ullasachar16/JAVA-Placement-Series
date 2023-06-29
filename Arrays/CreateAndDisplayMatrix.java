@@ -17,7 +17,7 @@ class Matrix_Create{
         column = Integer.parseInt(scan.nextLine());
 
         matrix=new int[row][column];
-        System.out.println("Enter the data");
+        System.out.println("Enter the Data");
         for(int i=0;i<row;i++){
             for(int j=0;j<column;j++){
                 matrix[i][j]=scan.nextInt();
