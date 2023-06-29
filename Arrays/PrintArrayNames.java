@@ -6,7 +6,7 @@ public class PrintArrayNames {
     //Program to print array names inputted by the user
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter array size:");
+        System.out.println("Enter Array size:");
         int size= sc.nextInt();
         String names[]=new String[size];
         System.out.println("Enter names:");
