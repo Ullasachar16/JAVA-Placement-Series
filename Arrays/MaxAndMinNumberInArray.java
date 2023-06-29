@@ -15,7 +15,7 @@ public class MaxAndMinNumberInArray {
         }
         int max=Integer.MIN_VALUE;
         int min=Integer.MAX_VALUE;
-        System.out.println("Min and Max Elements in array are:");
+        System.out.println("Min and Max Elements in Array are:");
         for(int i=0;i< ele.length;i++){
             if(ele[i]<min){
                 min=ele[i];
