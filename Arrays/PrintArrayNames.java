@@ -9,7 +9,7 @@ public class PrintArrayNames {
         System.out.println("Enter Array Size:");
         int size= sc.nextInt();
         String names[]=new String[size];
-        System.out.println("Enter names:");
+        System.out.println("Enter Names:");
         for(int i=0;i<size;i++){
             names[i]= sc.next();
         }
