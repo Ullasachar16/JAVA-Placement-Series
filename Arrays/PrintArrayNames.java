@@ -15,7 +15,7 @@ public class PrintArrayNames {
         }
         System.out.println("Names are:");
         for(int i=0;i< names.length;i++){
-            System.out.println("name "+(i+1) +" is: "+names[i]);
+            System.out.println("Name "+(i+1) +" is: "+names[i]);
         }
     }
 }
