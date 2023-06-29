@@ -13,7 +13,7 @@ class Matrix_Create{
         System.out.println("Matrix Creation");
         System.out.println("Enter No of Rows");
         row=Integer.parseInt(scan.nextLine());
-        System.out.println("Enter no of columns");
+        System.out.println("Enter No of columns");
         column = Integer.parseInt(scan.nextLine());
 
         matrix=new int[row][column];
