@@ -13,7 +13,7 @@ public class SearchElementInArray {
         for(int i=0;i<size;i++){
             element[i]=sc.nextInt();
         }
-        System.out.println("Enter element to be searched:");
+        System.out.println("Enter Element to be Searched:");
         int x=sc.nextInt();
         for(int i=0;i< element.length;i++){
             if(element[i]==x){
