@@ -6,7 +6,7 @@ public class SearchElementInArray {
     //Program to Find or Search an Element inputted by the User in the Form of Array
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter array size:");
+        System.out.println("Enter Array Size:");
         int size=sc.nextInt();
         int element[]=new int[size];
         System.out.println("Enter array element:");
