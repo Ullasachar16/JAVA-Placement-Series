@@ -3,7 +3,7 @@ package Arrays;
 import java.util.Scanner;
 
 public class SearchElementInArray {
-    //Program to Find or Search an Element inputted by the user in the form of array
+    //Program to Find or Search an Element inputted by the User in the form of array
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter array size:");
