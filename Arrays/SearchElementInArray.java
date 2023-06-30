@@ -17,7 +17,7 @@ public class SearchElementInArray {
         int x=sc.nextInt();
         for(int i=0;i< element.length;i++){
             if(element[i]==x){
-                System.out.println("x found at:"+i);
+                System.out.println("X found at:"+i);
             }
         }
     }
