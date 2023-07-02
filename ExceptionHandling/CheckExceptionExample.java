@@ -22,5 +22,5 @@ public class CheckExceptionExample {
         }
     }
 }
-//FileNotFoundException -> Checked Exception(compiler known exception
-// and it force user handle it immediately)
+//FileNotFoundException -> Checked Exception(Compiler known Exception
+// and it Force User Handle it Immediately)
