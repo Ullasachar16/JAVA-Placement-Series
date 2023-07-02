@@ -18,6 +18,6 @@ public class ArmstrongNumber {
         if(n==sum)
             System.out.println("Entered Number is an Armstrong Number");
         else
-            System.out.println("Entered Number is not an armstrong number");
+            System.out.println("Entered Number is not an Armstrong number");
     }
 }
