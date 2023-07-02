@@ -16,7 +16,7 @@ public class ArmstrongNumber {
             temp=temp/10;
         }
         if(n==sum)
-            System.out.println("Entered Number is an Armstrong number");
+            System.out.println("Entered Number is an Armstrong Number");
         else
             System.out.println("Entered number is not an armstrong number");
     }
