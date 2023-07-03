@@ -14,7 +14,7 @@ public class DemoArithmeticException {
             System.out.println(a / b);
         }
         catch (ArithmeticException e){
-            System.out.println("do not divide by zero");
+            System.out.println("Do not divide by zero");
         }
         sc.close();
     }
