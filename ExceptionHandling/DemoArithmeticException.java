@@ -6,7 +6,7 @@ public class DemoArithmeticException {
     //Implementing Arithmetic Exception
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a:");
+        System.out.println("Enter A:");
         int a=sc.nextInt();
         System.out.println("Enter b:");
         int b=sc.nextInt();
