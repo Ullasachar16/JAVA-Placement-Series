@@ -3,7 +3,7 @@ package ExceptionHandling;
 import java.util.Scanner;
 
 public class DemoArithmeticException {
-    //Implementing Arithmetic exception
+    //Implementing Arithmetic Exception
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter a:");
