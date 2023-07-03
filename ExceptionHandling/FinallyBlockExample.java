@@ -7,7 +7,7 @@ public class FinallyBlockExample {
             System.out.println(10 / 0);
         }
         catch (ClassCastException e){
-            System.out.println("invalid ");
+            System.out.println("Invalid ");
         }
         finally {
             System.out.println("Inside finally block");
