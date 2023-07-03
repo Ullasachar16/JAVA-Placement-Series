@@ -10,7 +10,7 @@ public class FinallyBlockExample {
             System.out.println("Invalid ");
         }
         finally {
-            System.out.println("Inside finally block");
+            System.out.println("Inside Finally block");
         }
     }
 }
