@@ -16,7 +16,7 @@ public class RunnerUsingSuperClassException {
             System.out.println("Invalid Denominator ");
         }
         catch (Exception e){
-            System.out.println("Super Class exception handler");
+            System.out.println("Super Class Exception Handler");
         }
     }
 }
