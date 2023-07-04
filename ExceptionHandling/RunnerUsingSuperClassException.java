@@ -7,7 +7,7 @@ public class RunnerUsingSuperClassException {
             System.out.println(10 / 0);
         }
         catch (ArrayIndexOutOfBoundsException e){
-            System.out.println("invalid index");
+            System.out.println("Invalid index");
         }
         catch (NullPointerException e){
             System.out.println("invalid");
