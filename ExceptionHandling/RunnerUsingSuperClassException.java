@@ -7,10 +7,10 @@ public class RunnerUsingSuperClassException {
             System.out.println(10 / 0);
         }
         catch (ArrayIndexOutOfBoundsException e){
-            System.out.println("Invalid index");
+            System.out.println("Invalid Index");
         }
         catch (NullPointerException e){
-            System.out.println("invalid");
+            System.out.println("Invalid");
         }
         catch (ArithmeticException e){
             System.out.println("invalid denominator ");
