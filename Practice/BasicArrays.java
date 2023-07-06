@@ -24,7 +24,7 @@ public class BasicArrays {
     }
 
     public static double getAverage(int[] array){
-        //To Get Average of numbers
+        //To Get Average of Numbers
         int sum=0;
         for(int i=0;i<array.length;i++){
             sum+=array[i];
