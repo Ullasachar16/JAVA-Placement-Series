@@ -9,7 +9,7 @@ public class BasicArrays {
         //Main function
         int[] arr=getIntegers(5);
         for(int i=0;i<arr.length;i++){
-            System.out.println("Element "+i+" , Typed value was "+arr[i]);
+            System.out.println("Element "+i+" , Typed Value was "+arr[i]);
         }
         System.out.println("The Average is "+getAverage(arr));
     }
