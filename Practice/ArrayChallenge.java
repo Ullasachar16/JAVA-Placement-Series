@@ -13,7 +13,7 @@ public class ArrayChallenge {
 
     }
     public static int[] getIntegers(int capacity){
-        System.out.println("Enter "+capacity+ " integer values");
+        System.out.println("Enter "+capacity+ " Integer values");
         int[] array=new int[capacity];
         for(int i=0;i<array.length;i++){
             array[i]=sc.nextInt();
