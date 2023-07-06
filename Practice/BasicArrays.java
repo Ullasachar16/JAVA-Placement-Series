@@ -11,7 +11,7 @@ public class BasicArrays {
         for(int i=0;i<arr.length;i++){
             System.out.println("Element "+i+" , typed value was "+arr[i]);
         }
-        System.out.println("The average is "+getAverage(arr));
+        System.out.println("The Average is "+getAverage(arr));
     }
     public static int[] getIntegers(int number){
         //To get integers from array
