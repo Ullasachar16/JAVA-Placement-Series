@@ -15,7 +15,7 @@ public class BasicArrays {
     }
     public static int[] getIntegers(int number){
         //To get integers from array
-        System.out.println("Enter "+number+ " integer value");
+        System.out.println("Enter "+number+ " Integer value");
         int[] values=new int[number];
         for(int i=0;i<values.length;i++){
             values[i]=sc.nextInt();
