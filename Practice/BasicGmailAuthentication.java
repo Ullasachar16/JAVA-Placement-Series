@@ -3,7 +3,7 @@ package Practice;
 import java.util.Scanner;
 
 public class BasicGmailAuthentication {
-    //Program to implement Basic Gmail Authentication
+    //Program to Implement Basic Gmail Authentication
     public static void main(String[] args) {
         String username="john";
         String password="johndoe";
