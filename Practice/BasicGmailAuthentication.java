@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class BasicGmailAuthentication {
     //Program to Implement Basic Gmail Authentication
     public static void main(String[] args) {
-        String username="john";
+        String username="John";
         String password="johndoe";
         if(username=="john"){
             if(password=="johndoe"){
