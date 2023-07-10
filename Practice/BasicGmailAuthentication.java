@@ -11,7 +11,7 @@ public class BasicGmailAuthentication {
             if(password=="johndoe"){
                 System.out.println("Login Successful");
             }else {
-                System.out.println("Invalid password");
+                System.out.println("Invalid Password");
             }
         }else{
             System.out.println("Invalid Username or Login unsuccessful");
