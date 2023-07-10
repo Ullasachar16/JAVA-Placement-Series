@@ -7,7 +7,7 @@ public class BasicGmailAuthentication {
     public static void main(String[] args) {
         String username="John";
         String password="johndoe";
-        if(username=="john"){
+        if(username=="John"){
             if(password=="johndoe"){
                 System.out.println("Login successful");
             }else {
