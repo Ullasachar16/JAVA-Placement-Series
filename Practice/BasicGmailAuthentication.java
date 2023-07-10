@@ -9,7 +9,7 @@ public class BasicGmailAuthentication {
         String password="johndoe";
         if(username=="John"){
             if(password=="johndoe"){
-                System.out.println("Login successful");
+                System.out.println("Login Successful");
             }else {
                 System.out.println("Invalid password");
             }
