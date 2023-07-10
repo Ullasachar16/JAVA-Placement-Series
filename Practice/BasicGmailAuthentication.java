@@ -14,7 +14,7 @@ public class BasicGmailAuthentication {
                 System.out.println("Invalid Password");
             }
         }else{
-            System.out.println("Invalid Username or Login unsuccessful");
+            System.out.println("Invalid Username or Login Unsuccessful");
         }
     }
 }
