@@ -17,7 +17,7 @@ public class Prerequisites1 {
         System.out.println(ans);
         //Assignment Question
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Value for a :");
+        System.out.println("Enter Value for A :");
         int a1=sc.nextInt();
         System.out.println("Enter Value for b:");
         int b1=sc.nextInt();
