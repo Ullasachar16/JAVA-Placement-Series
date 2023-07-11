@@ -19,7 +19,7 @@ public class Prerequisites1 {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter Value for A :");
         int a1=sc.nextInt();
-        System.out.println("Enter Value for b:");
+        System.out.println("Enter Value for B:");
         int b1=sc.nextInt();
         int sum=a1+b1;
         System.out.println("Sum:"+sum);
