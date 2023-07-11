@@ -16,7 +16,7 @@ public class CheckExceptionExample {
             }
         }
         try {
-            FileReader f = new FileReader("guldu.txt");
+            FileReader f = new FileReader("Guldu.txt");
         }catch (FileNotFoundException e){
             System.out.println(e.getMessage());
         }
