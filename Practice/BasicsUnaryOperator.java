@@ -11,7 +11,7 @@ public class BasicsUnaryOperator {
         //Pre Increment
         int a=1;
         int b=++a + ++a;
-        System.out.println("a:"+a+" b:"+b);
+        System.out.println("A:"+a+" B:"+b);
 
         //Post Decrement
         int p=1;
