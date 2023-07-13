@@ -21,6 +21,6 @@ public class BasicsUnaryOperator {
         //Pre Decrement
         int i=1;
         int j=--i + --i;
-        System.out.println("i:"+i+" j:"+j);
+        System.out.println("I:"+i+" J:"+j);
     }
 }
