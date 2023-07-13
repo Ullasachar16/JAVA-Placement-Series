@@ -16,7 +16,7 @@ public class BasicsUnaryOperator {
         //Post Decrement
         int p=1;
         int q=p-- + p--;
-        System.out.println("p:"+p+" q:"+q);
+        System.out.println("P:"+p+" Q:"+q);
 
         //Pre Decrement
         int i=1;
