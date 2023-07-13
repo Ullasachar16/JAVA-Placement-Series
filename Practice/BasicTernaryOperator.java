@@ -6,6 +6,6 @@ public class BasicTernaryOperator {
         int a=80;
         int b=40;
         int min=a<b?a:b;
-        System.out.println("min of "+a+ " and " +b+" is: "+min);
+        System.out.println("Min of "+a+ " and " +b+" is: "+min);
     }
 }
