@@ -6,7 +6,7 @@ public class BasicsUnaryOperator {
         //Post Increment
         int x=1;
         int y=x++ + x++;
-        System.out.println("x:"+x+" y:"+y);
+        System.out.println("X:"+x+" Y:"+y);
 
         //Pre Increment
         int a=1;
