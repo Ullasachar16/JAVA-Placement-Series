@@ -1,7 +1,7 @@
 package Practice;
 
 public class BasicsUnaryOperator {
-    //Program to implement Unary Operator
+    //Program to Implement Unary Operator
     public static void main(String[] args) {
         //Post increment
         int x=1;
