@@ -17,15 +17,15 @@ public class Prerequisites1 {
         System.out.println(ans);
         //Assignment Question
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter value for a :");
+        System.out.println("Enter Value for A :");
         int a1=sc.nextInt();
-        System.out.println("Enter value for b:");
+        System.out.println("Enter Value for B:");
         int b1=sc.nextInt();
         int sum=a1+b1;
         System.out.println("Sum:"+sum);
         //Input
         Scanner s1=new Scanner(System.in);
-        System.out.println("Enter a name:");
+        System.out.println("Enter A Name:");
         String name=s1.nextLine();
         System.out.println("Name is:"+name);
     }

@@ -16,11 +16,11 @@ public class CheckExceptionExample {
             }
         }
         try {
-            FileReader f = new FileReader("guldu.txt");
+            FileReader f = new FileReader("Guldu.txt");
         }catch (FileNotFoundException e){
             System.out.println(e.getMessage());
         }
     }
 }
 //FileNotFoundException -> Checked Exception(Compiler known Exception
-// and it Force User Handle it Immediately)
+// And it Force User Handle it Immediately)
