@@ -3,7 +3,7 @@ package Practice;
 public class BasicsUnaryOperator {
     //Program to Implement Unary Operator
     public static void main(String[] args) {
-        //Post increment
+        //Post Increment
         int x=1;
         int y=x++ + x++;
         System.out.println("x:"+x+" y:"+y);
