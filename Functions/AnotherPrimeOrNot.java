@@ -3,7 +3,7 @@ package Functions;
 import java.util.Scanner;
 
 public class AnotherPrimeOrNot {
-    //Program to Check the no is prime or not
+    //Program to Check the No is prime or not
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter a number");
