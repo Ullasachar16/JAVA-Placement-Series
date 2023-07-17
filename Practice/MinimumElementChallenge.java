@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MinimumElementChallenge {
     //Program to find Minimum Element in an array
-    //To find Minimum Element in an array
+    //To find Minimum Element in an Array
     private static Scanner sc=new Scanner(System.in);
     private static int[] readIntegers(int count){
         int[] array=new int[count];
