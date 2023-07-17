@@ -9,7 +9,7 @@ public class MinimumElementChallenge {
     private static int[] readIntegers(int count){
         int[] array=new int[count];
         for(int i=0;i<array.length;i++){
-            System.out.println("Enter a number:");
+            System.out.println("Enter a Number:");
             int number=sc.nextInt();
             sc.nextLine();
             array[i]=number;
