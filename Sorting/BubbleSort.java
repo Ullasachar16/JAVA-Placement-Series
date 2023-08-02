@@ -23,6 +23,5 @@ public class BubbleSort {
             }
         }
         printArray(arr);
-
     }
 }
