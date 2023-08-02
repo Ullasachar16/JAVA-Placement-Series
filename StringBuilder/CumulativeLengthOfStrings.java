@@ -15,7 +15,7 @@ public class CumulativeLengthOfStrings {
             array[i]=sb.append(sc.next());
             totLength = array[i].length();
         }
-        //returning total input character
+        //Returning total input character
         System.out.println("total length: "+totLength);
     }
 }
