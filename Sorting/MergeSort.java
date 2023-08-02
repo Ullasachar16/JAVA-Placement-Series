@@ -1,7 +1,7 @@
 package Sorting;
 
 public class MergeSort {
-    //Program to implement Merge Sort Technique
+    //Program to Implement Merge Sort Technique
     //Merge Sort
     public static void conquer(int arr[],int si,int mid,int ei){
         //n log n
