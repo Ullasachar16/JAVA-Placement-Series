@@ -1,7 +1,7 @@
 package Sorting;
 
 public class QuickSort {
-    //Program to implement Quick Sort Technique
+    //Program to Implement Quick Sort Technique
     //Quick Sort
     public static int partition(int arr[],int low,int high){
         int pivot=arr[high];
