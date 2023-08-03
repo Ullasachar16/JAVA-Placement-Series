@@ -7,7 +7,7 @@ public class CumulativeLengthOfStrings {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("");
         Scanner sc = new Scanner(System.in);
-        System.out.println("enter your string value: ");
+        System.out.println("Enter your string value: ");
         int size=sc.nextInt();
         StringBuilder array[]=new StringBuilder[size];
         int totLength=0;
