@@ -23,6 +23,6 @@ class Soluto{
         StudentPractice s1=new StudentPractice();
         s1.setAge(35);
         s1.setName("Tom");
-        System.out.println("Id:"+s1.age+"\nname:"+s1.name);
+        System.out.println("Id:"+s1.age+"\nName:"+s1.name);
     }
 }
