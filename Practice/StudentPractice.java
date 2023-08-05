@@ -1,7 +1,7 @@
 package Practice;
 
 public class StudentPractice {
-    //Program to implement Constructor Overloading
+    //Program to Implement Constructor Overloading
     int age;
     String name;
     public void setAge(int age) {
