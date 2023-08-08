@@ -1,7 +1,7 @@
 package OperatorsAndBitManipulation;
 
 public class AssignmentOperator {
-    //Program to Use the Assignment operator
+    //Program to Use the Assignment Operator
     public static void main(String[] args) {
         //binary operators
         //addition
