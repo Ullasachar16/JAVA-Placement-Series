@@ -4,7 +4,7 @@ public class AssignmentOperator {
     //Program to Use the Assignment Operator
     public static void main(String[] args) {
         //Binary Operators
-        //addition
+        //Addition
         int a=10,b=5;
         System.out.println(a+b);
         //subtraction
