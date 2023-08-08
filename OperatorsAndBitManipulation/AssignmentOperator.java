@@ -3,7 +3,7 @@ package OperatorsAndBitManipulation;
 public class AssignmentOperator {
     //Program to Use the Assignment Operator
     public static void main(String[] args) {
-        //Binary operators
+        //Binary Operators
         //addition
         int a=10,b=5;
         System.out.println(a+b);
