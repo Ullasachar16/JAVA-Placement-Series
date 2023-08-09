@@ -17,7 +17,7 @@ public class AssignmentOperator {
         System.out.println(a%b);
 
         //Unary Operators
-        //post increment
+        //Post Increment
         b=++a;
         System.out.println(a);
         System.out.println(b);
