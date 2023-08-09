@@ -22,7 +22,7 @@ public class AssignmentOperator {
         System.out.println(a);
         System.out.println(b);
 
-        //pre increment
+        //Pre Increment
         a=10;
         b=5;
         b=a++;
