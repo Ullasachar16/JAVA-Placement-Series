@@ -7,7 +7,7 @@ public class AssignmentOperator {
         //Addition
         int a=10,b=5;
         System.out.println(a+b);
-        //subtraction
+        //Subtraction
         System.out.println(a-b);
         //multiply
         System.out.println(a*b);
