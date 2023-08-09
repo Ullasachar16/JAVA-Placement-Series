@@ -29,7 +29,7 @@ public class AssignmentOperator {
         System.out.println(a);
         System.out.println(b);
 
-        //pre-decrement
+        //Pre Decrement
         a=10;
         b=5;
         b=a--;
