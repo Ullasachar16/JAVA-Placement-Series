@@ -11,9 +11,9 @@ public class AssignmentOperator {
         System.out.println(a-b);
         //Multiply
         System.out.println(a*b);
-        //divide
+        //Divide
         System.out.println(a/b);
-        //mod
+        //Mod
         System.out.println(a%b);
 
         //unary operators
