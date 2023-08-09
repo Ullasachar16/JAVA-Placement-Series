@@ -36,7 +36,7 @@ public class AssignmentOperator {
         System.out.println(a);
         System.out.println(b);
 
-        //post-decrement
+        //Post Decrement
         a=10;
         b=5;
         b=--a;
