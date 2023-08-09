@@ -9,7 +9,7 @@ public class AssignmentOperator {
         System.out.println(a+b);
         //Subtraction
         System.out.println(a-b);
-        //multiply
+        //Multiply
         System.out.println(a*b);
         //divide
         System.out.println(a/b);
