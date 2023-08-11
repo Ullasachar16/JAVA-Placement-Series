@@ -16,7 +16,7 @@ public class BitwiseOperator {
         //Binary 1's Complement
         System.out.println(~a);
 
-        //Binary left shift
+        //Binary Left Shift
         a=0110;
         b=0101;
         System.out.println(2<<1);
