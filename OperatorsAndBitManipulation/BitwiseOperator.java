@@ -10,7 +10,7 @@ public class BitwiseOperator {
         //Binary OR
         System.out.println(a|b);
 
-        //binary XOR
+        //Binary XOR
         System.out.println(a^b);
 
         //binary 1's Complement
