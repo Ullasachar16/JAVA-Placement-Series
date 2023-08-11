@@ -1,7 +1,7 @@
 package OperatorsAndBitManipulation;
 
 public class BitwiseOperator {
-    //program to implement bitwise operator
+    //Program to Implement Bitwise Operator
     public static void main(String[] args) {
         //binary AND
         int a=5,b=4;
