@@ -13,7 +13,7 @@ public class BitwiseOperator {
         //Binary XOR
         System.out.println(a^b);
 
-        //binary 1's Complement
+        //Binary 1's Complement
         System.out.println(~a);
 
         //binary left shift
