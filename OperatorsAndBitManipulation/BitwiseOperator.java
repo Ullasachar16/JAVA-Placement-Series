@@ -3,7 +3,7 @@ package OperatorsAndBitManipulation;
 public class BitwiseOperator {
     //Program to Implement Bitwise Operator
     public static void main(String[] args) {
-        //binary AND
+        //Binary AND
         int a=5,b=4;
         System.out.println(a&b);
 
