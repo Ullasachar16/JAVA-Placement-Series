@@ -21,7 +21,7 @@ public class BitwiseOperator {
         b=0101;
         System.out.println(2<<1);
 
-        //binary right shift
+        //Binary Right Shift
         System.out.println(2>>1);
 
     }
