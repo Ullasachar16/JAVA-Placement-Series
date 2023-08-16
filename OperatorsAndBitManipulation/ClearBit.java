@@ -1,7 +1,7 @@
 package OperatorsAndBitManipulation;
 
 public class ClearBit {
-    //Program to Show clear bit
+    //Program to Show Implementation clear bit
     public static void main(String[] args) {
         //Clear Bit
         int n = 5;
