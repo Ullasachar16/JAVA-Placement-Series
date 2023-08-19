@@ -16,7 +16,7 @@ public class CountNumberOfOnesInBinaryRepresentationOfANumber {
     }
     public static void decimalToBinary(int n){
         int[] binaryNum = new int[1000];
-        // Counter for Binary array
+        // Counter for Binary Array
         int i = 0;
         while (n > 0) {
             // storing remainder in binary array
