@@ -3,7 +3,7 @@ package OperatorsAndBitManipulation;
 import java.util.Scanner;
 
 public class CountNumberOfOnesInBinaryRepresentationOfANumber {
-    //Program to Count Number of Ones in binary representation of a number
+    //Program to Count Number of Ones in Binary representation of a number
     public static int countBits(int number) {
         if (number == 0) {
             return number;
