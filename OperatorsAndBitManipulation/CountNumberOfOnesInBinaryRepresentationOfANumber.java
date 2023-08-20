@@ -29,7 +29,7 @@ public class CountNumberOfOnesInBinaryRepresentationOfANumber {
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter decimal number to convert into binary:");
+        System.out.println("Enter Decimal number to convert into binary:");
         int n= sc.nextInt();
         decimalToBinary(n);
         System.out.println();
