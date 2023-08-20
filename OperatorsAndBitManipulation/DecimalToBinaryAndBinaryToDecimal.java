@@ -21,7 +21,7 @@ public class DecimalToBinaryAndBinaryToDecimal {
         int num = n1;
         int dec_value = 0;
         // Initializing Base
-        // value to 1, i.e 2^0
+        // Value to 1, i.e 2^0
         int base = 1;
         int temp = num;
         while (temp > 0) {
