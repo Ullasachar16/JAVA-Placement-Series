@@ -9,7 +9,7 @@ public class DecimalToBinaryAndBinaryToDecimal {
         // Counter for Binary Array
         int i = 0;
         while (n > 0) {
-            // Storing remainder in binary array
+            // Storing Remainder in binary array
             binaryNum[i] = n % 2;
             n = n / 2;
             i++;
