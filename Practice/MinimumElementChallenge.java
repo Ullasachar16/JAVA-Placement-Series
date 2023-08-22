@@ -3,13 +3,13 @@ package Practice;
 import java.util.Scanner;
 
 public class MinimumElementChallenge {
-    //Program to find Minimum Element in an array
-    //To find Minimum Element in an array
+    //Program to Find Minimum Element in an Array
+    //To Find Minimum Element in an Array
     private static Scanner sc=new Scanner(System.in);
     private static int[] readIntegers(int count){
         int[] array=new int[count];
         for(int i=0;i<array.length;i++){
-            System.out.println("Enter a number:");
+            System.out.println("Enter a Number:");
             int number=sc.nextInt();
             sc.nextLine();
             array[i]=number;
@@ -27,7 +27,7 @@ public class MinimumElementChallenge {
         return min;
     }
     public static void main(String[] args) {
-        System.out.println("Enter count:");
+        System.out.println("Enter Count:");
         int count=sc.nextInt();
         sc.nextLine();
 

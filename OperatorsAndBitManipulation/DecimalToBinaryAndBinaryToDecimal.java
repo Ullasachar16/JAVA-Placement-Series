@@ -20,8 +20,8 @@ public class DecimalToBinaryAndBinaryToDecimal {
     public static int binaryToDecimal(int n1){
         int num = n1;
         int dec_value = 0;
-        // Initializing base
-        // value to 1, i.e 2^0
+        // Initializing Base
+        // Value to 1, i.e 2^0
         int base = 1;
         int temp = num;
         while (temp > 0) {

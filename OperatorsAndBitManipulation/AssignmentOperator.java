@@ -1,42 +1,42 @@
 package OperatorsAndBitManipulation;
 
 public class AssignmentOperator {
-    //program to use the assignment operator
+    //Program to Use the Assignment Operator
     public static void main(String[] args) {
-        //binary operators
-        //addition
+        //Binary Operators
+        //Addition
         int a=10,b=5;
         System.out.println(a+b);
-        //subtraction
+        //Subtraction
         System.out.println(a-b);
-        //multiply
+        //Multiply
         System.out.println(a*b);
-        //divide
+        //Divide
         System.out.println(a/b);
-        //mod
+        //Mod
         System.out.println(a%b);
 
-        //unary operators
-        //post increment
+        //Unary Operators
+        //Post Increment
         b=++a;
         System.out.println(a);
         System.out.println(b);
 
-        //pre increment
+        //Pre Increment
         a=10;
         b=5;
         b=a++;
         System.out.println(a);
         System.out.println(b);
 
-        //pre-decrement
+        //Pre Decrement
         a=10;
         b=5;
         b=a--;
         System.out.println(a);
         System.out.println(b);
 
-        //post-decrement
+        //Post Decrement
         a=10;
         b=5;
         b=--a;

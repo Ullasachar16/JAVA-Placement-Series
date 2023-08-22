@@ -1,9 +1,9 @@
 package StringBuilder;
 
 public class Example {
-    //Example program of string builder to allocate delete reverse and other factors
+    //Example Program of String Builder to Allocate Delete Reverse and Other Factors
     public static void main(String[] args) {
-        StringBuilder sb=new StringBuilder("java");
+        StringBuilder sb=new StringBuilder("Java");
         //how original string is changed
         sb.append(" is best");
         System.out.println(sb);

@@ -1,27 +1,27 @@
 package OperatorsAndBitManipulation;
 
 public class BitwiseOperator {
-    //program to implement bitwise operator
+    //Program to Implement Bitwise Operator
     public static void main(String[] args) {
-        //binary AND
+        //Binary AND
         int a=5,b=4;
         System.out.println(a&b);
 
-        //binary OR
+        //Binary OR
         System.out.println(a|b);
 
-        //binary XOR
+        //Binary XOR
         System.out.println(a^b);
 
-        //binary 1's Complement
+        //Binary 1's Complement
         System.out.println(~a);
 
-        //binary left shift
+        //Binary Left Shift
         a=0110;
         b=0101;
         System.out.println(2<<1);
 
-        //binary right shift
+        //Binary Right Shift
         System.out.println(2>>1);
 
     }

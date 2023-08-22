@@ -3,7 +3,7 @@ package OperatorsAndBitManipulation;
 import java.util.Scanner;
 
 public class CountNumberOfOnesInBinaryRepresentationOfANumber {
-    //program to count number of ones in binary representation of a number
+    //Program to Count Number of Ones in Binary Representation of a Number
     public static int countBits(int number) {
         if (number == 0) {
             return number;
@@ -16,10 +16,10 @@ public class CountNumberOfOnesInBinaryRepresentationOfANumber {
     }
     public static void decimalToBinary(int n){
         int[] binaryNum = new int[1000];
-        // counter for binary array
+        // Counter for Binary Array
         int i = 0;
         while (n > 0) {
-            // storing remainder in binary array
+            // Storing Remainder in Binary Array
             binaryNum[i] = n % 2;
             n = n / 2;
             i++;
@@ -29,7 +29,7 @@ public class CountNumberOfOnesInBinaryRepresentationOfANumber {
     }
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter decimal number to convert into binary:");
+        System.out.println("Enter Decimal Number to Convert into Binary:");
         int n= sc.nextInt();
         decimalToBinary(n);
         System.out.println();

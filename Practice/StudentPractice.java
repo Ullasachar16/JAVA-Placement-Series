@@ -1,7 +1,7 @@
 package Practice;
 
 public class StudentPractice {
-    //Program to implement Constructor Overloading
+    //Program to Implement Constructor Overloading
     int age;
     String name;
     public void setAge(int age) {
@@ -18,11 +18,11 @@ public class StudentPractice {
     }
 }
 class Soluto{
-    //Main class for Constructor Overloading
+    //Main Class for Constructor Overloading
     public static void main(String[] args) {
         StudentPractice s1=new StudentPractice();
         s1.setAge(35);
         s1.setName("Tom");
-        System.out.println("id:"+s1.age+"\nname:"+s1.name);
+        System.out.println("Id:"+s1.age+"\nName:"+s1.name);
     }
 }
