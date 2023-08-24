@@ -3,7 +3,7 @@ package OperatorsAndBitManipulation;
 import java.util.Scanner;
 
 public class DecimalToBinaryAndBinaryToDecimal {
-    //Program to Convert Decimal to binary and binary to decimal
+    //Program to Convert Decimal to Binary and binary to decimal
     public static void decimalToBinary(int n){
         int[] binaryNum = new int[1000];
         // Counter for Binary Array
