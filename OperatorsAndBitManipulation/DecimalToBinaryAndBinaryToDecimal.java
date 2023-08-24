@@ -39,7 +39,7 @@ public class DecimalToBinaryAndBinaryToDecimal {
         int n= sc.nextInt();
         decimalToBinary(n);
         System.out.println();
-        System.out.println("Enter binary number to convert into decimal number:");
+        System.out.println("Enter Binary Number to convert into decimal number:");
         int n1= sc.nextInt();
         System.out.println(binaryToDecimal(n1));
 
