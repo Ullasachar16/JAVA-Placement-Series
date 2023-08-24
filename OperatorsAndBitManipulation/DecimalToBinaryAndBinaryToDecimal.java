@@ -35,7 +35,7 @@ public class DecimalToBinaryAndBinaryToDecimal {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Decimal Number to Convert Into Binary:");
+        System.out.println("Enter Decimal Number to Convert Into Binary Number:");
         int n= sc.nextInt();
         decimalToBinary(n);
         System.out.println();
