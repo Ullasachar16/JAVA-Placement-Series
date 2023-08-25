@@ -1,7 +1,7 @@
 package OperatorsAndBitManipulation;
 
 public class GetBit {
-    //Program to Show the Implementation of Getbit
+    //Program to Show the Implementation of GetBit
     public static void main(String[] args) {
         //Get Bit
         int n=5;
