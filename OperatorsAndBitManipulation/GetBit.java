@@ -10,7 +10,7 @@ public class GetBit {
         if((bitMask&n)==0){
             System.out.println("Bit was Zero");
         }else {
-            System.out.println("bit was one");
+            System.out.println("Bit was one");
         }
     }
 }
