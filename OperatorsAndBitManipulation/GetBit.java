@@ -8,7 +8,7 @@ public class GetBit {
         int pos=2;
         int bitMask=1<<pos;
         if((bitMask&n)==0){
-            System.out.println("bit was zero");
+            System.out.println("Bit was zero");
         }else {
             System.out.println("bit was one");
         }
