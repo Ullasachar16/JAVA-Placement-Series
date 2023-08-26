@@ -1,7 +1,7 @@
 package OperatorsAndBitManipulation;
 
 public class RelationalOperator {
-    //Program to Implement relational operator
+    //Program to Implement Relational operator
     public static void main(String[] args) {
         //equal to
         int a=10,b=5;
