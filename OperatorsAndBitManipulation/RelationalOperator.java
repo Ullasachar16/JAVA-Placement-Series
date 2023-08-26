@@ -7,7 +7,7 @@ public class RelationalOperator {
         int a=10,b=5;
         System.out.println(a==b);
 
-        //Not equal to
+        //Not Equal to
         System.out.println(a!=b);
 
         //greater
