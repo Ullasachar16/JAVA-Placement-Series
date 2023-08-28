@@ -13,7 +13,7 @@ public class RelationalOperator {
         //Greater
         System.out.println(a>b);
 
-        //smaller
+        //Smaller
         System.out.println(a<b);
 
         //greater than equal to
