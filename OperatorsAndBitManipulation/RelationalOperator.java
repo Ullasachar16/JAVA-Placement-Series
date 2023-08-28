@@ -19,7 +19,7 @@ public class RelationalOperator {
         //Greater than Equal to
         System.out.println(a>=b);
 
-        //Smaller than equal to
+        //Smaller than Equal to
         System.out.println(a<=b);
 
 
