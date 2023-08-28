@@ -10,7 +10,7 @@ public class RelationalOperator {
         //Not Equal to
         System.out.println(a!=b);
 
-        //greater
+        //Greater
         System.out.println(a>b);
 
         //smaller
