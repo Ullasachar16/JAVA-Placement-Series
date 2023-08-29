@@ -1,7 +1,7 @@
 package OperatorsAndBitManipulation;
 
 public class SetBit {
-    //Program to Implement Setbit
+    //Program to Implement Set bit
     public static void main(String[] args) {
         //Set Bit
         int n=5;
