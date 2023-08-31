@@ -1,7 +1,7 @@
 package OperatorsAndBitManipulation;
 
 public class ToCheckANumberIsPowerOfTwo {
-    //Program to Check Number is Power of Two or not
+    //Program to Check Number is Power of Two or Not
     static boolean isPowerOfTwo(int x) {
         if (x == 0)
             return false;
