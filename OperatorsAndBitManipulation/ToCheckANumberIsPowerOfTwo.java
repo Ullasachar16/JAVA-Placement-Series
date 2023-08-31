@@ -12,7 +12,7 @@ public class ToCheckANumberIsPowerOfTwo {
         }
         return true;
     }
-    // Driver method
+    // Driver Method
     public static void main(String[] args)
     {
         System.out.println(isPowerOfTwo(32) ? "Yes" : "No");
