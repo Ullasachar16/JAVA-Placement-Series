@@ -3,7 +3,7 @@ package OperatorsAndBitManipulation;
 import java.util.Scanner;
 
 public class ToggleBitPosition {
-    //Program to Toggle Bit position
+    //Program to Toggle Bit Position
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter bit position:");
