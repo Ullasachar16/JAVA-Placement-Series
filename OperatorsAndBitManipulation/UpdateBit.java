@@ -3,7 +3,7 @@ package OperatorsAndBitManipulation;
 import java.util.Scanner;
 
 public class UpdateBit {
-    //Program to update bit
+    //Program to Update bit
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter operation 1 or 0:");
