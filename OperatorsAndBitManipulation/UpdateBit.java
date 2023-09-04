@@ -10,7 +10,7 @@ public class UpdateBit {
         int oper= sc.nextInt();
         int n=5;  //0101 -> 0111 ->dec 7
         int pos=1;
-        //int oper=1; //update bit to 1 else update bit to 0
+        //int oper=1; //Update bit to 1 else update bit to 0
         int bitMask=1<<pos;
 
         if(oper==1){
