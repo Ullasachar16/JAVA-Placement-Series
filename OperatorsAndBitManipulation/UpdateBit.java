@@ -6,7 +6,7 @@ public class UpdateBit {
     //Program to Update Bit
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter operation 1 or 0:");
+        System.out.println("Enter Operation 1 or 0:");
         int oper= sc.nextInt();
         int n=5;  //0101 -> 0111 ->dec 7
         int pos=1;
