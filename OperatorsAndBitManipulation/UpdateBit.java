@@ -18,7 +18,7 @@ public class UpdateBit {
             int newNumber=bitMask | n;
             System.out.println(newNumber);
         }else{
-            //clear
+            //Clear
             int newBitMask=~(bitMask);
             int newNumber=newBitMask & n;
             System.out.println(newNumber);
