@@ -2,7 +2,7 @@ package Patterns;
 
 public class Butterfly {
     public static void main(String[] args) {
-        //Program to Print Butterfly pattern
+        //Program to Print Butterfly Pattern
         //Print butterfly pattern using stars
         int n=4;
         //upper part
