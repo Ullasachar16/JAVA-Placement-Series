@@ -3,7 +3,7 @@ package Patterns;
 public class Butterfly {
     public static void main(String[] args) {
         //Program to Print Butterfly Pattern
-        //Print Butterfly pattern using stars
+        //Print Butterfly Pattern using stars
         int n=4;
         //upper part
         for(int i=1;i<=n;i++){
