@@ -29,7 +29,7 @@ public class Butterfly {
         }
         //Lower Half
         for(int i=n;i>=1;i--){
-            //1st part
+            //1st Part
             for(int j=1;j<=i;j++) {
                 System.out.print("* ");
             }
