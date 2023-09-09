@@ -7,7 +7,7 @@ public class Butterfly {
         int n=4;
         //Upper Part
         for(int i=1;i<=n;i++){
-            //1st part
+            //1st Part
             for(int j=1;j<=i;j++) {
                 System.out.print("* ");
             }
