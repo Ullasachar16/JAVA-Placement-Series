@@ -6,7 +6,7 @@ public class Diamond {
         //Print Diamond Pattern using Stars
         int n=4;
         //Upper Half
-        for(int i=1;i<=n;i++){ //Outer loop
+        for(int i=1;i<=n;i++){ //Outer Loop
             //spaces
             for(int j=1;j<=n-i;j++){
                 System.out.print("  ");
