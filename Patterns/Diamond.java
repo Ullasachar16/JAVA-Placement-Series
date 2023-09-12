@@ -7,7 +7,7 @@ public class Diamond {
         int n=4;
         //Upper Half
         for(int i=1;i<=n;i++){ //Outer Loop
-            //spaces
+            //Spaces
             for(int j=1;j<=n-i;j++){
                 System.out.print("  ");
             }
