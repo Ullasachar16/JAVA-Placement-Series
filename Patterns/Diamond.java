@@ -18,7 +18,7 @@ public class Diamond {
             System.out.println();
         }
         //Lower Half
-        for(int i=n;i>=1;i--){ //outer loop
+        for(int i=n;i>=1;i--){ //Outer Loop
             //Spaces
             for(int j=1;j<=n-i;j++){
                 System.out.print("  ");
