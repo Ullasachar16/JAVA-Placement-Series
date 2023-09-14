@@ -3,7 +3,7 @@ package Patterns;
 public class FloydsTriangle {
     //Program to Print Floyd's Triangle
     public static void main(String[] args) {
-        //Print Floyd's triangle pattern
+        //Print Floyd's Triangle pattern
         int n=5;
         int number=1;
         for(int i=1;i<=n;i++){
