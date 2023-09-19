@@ -1,6 +1,6 @@
 package Patterns;
 public class HollowRectangle {
-    //Program to Print Hollow Rectangle pattern
+    //Program to Print Hollow Rectangle Pattern
     public static void main(String[] args) {
         //Print Hollow Rectangle pattern
         int n=4;
