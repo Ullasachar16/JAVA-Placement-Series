@@ -5,7 +5,7 @@ public class HollowRectangle {
         //Print Hollow Rectangle Pattern
         int n=4;
         int m=5;
-        //Outer loop
+        //Outer Loop
         for(int i=1;i<=n;i++){
             //Inner loop
             for(int j=1;j<=m;j++) {
