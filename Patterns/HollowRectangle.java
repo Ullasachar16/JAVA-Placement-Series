@@ -2,7 +2,7 @@ package Patterns;
 public class HollowRectangle {
     //Program to Print Hollow Rectangle Pattern
     public static void main(String[] args) {
-        //Print Hollow Rectangle pattern
+        //Print Hollow Rectangle Pattern
         int n=4;
         int m=5;
         //Outer loop
