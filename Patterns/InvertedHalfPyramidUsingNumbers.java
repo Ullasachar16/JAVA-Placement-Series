@@ -3,7 +3,7 @@ package Patterns;
 public class InvertedHalfPyramidUsingNumbers {
     //Another program for Printing Inverted Half Pyramid using Numbers
     public static void main(String[] args) {
-         /* Print Inverted Half Pyramid pattern using Numbers
+         /* Print Inverted Half Pyramid Pattern using Numbers
                     1 2 3 4
                     1 2 3
                     1 2
