@@ -1,7 +1,7 @@
 package Patterns;
 
 public class MirroredHalfPyramidUsingStars {
-    //Program to print Mirrored Half Pyramid pattern using stars
+    //Program to Print Mirrored Half Pyramid pattern using stars
     public static void main(String[] args) {
         /* Print Half Pyramid rotated by 180 degree like this
                     *
