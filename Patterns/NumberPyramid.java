@@ -3,7 +3,7 @@ package Patterns;
 public class NumberPyramid {
     //Program to Print Number Pyramid Pattern
     public static void main(String[] args) {
-        //Print Number Pyramid Triangle pattern
+        //Print Number Pyramid Triangle Pattern
         int n=5;
         for(int i=1;i<=n;i++){
             //Spaces
