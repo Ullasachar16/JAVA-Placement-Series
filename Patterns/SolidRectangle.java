@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SolidRectangle {
     //Program to Print Solid Rectangle Pattern
     public static void main(String[] args) {
-        //Printing Solid Rectangle pattern
+        //Printing Solid Rectangle Pattern
         Scanner sc=new Scanner(System.in);
         System.out.println("enter no of rows");
         int n=sc.nextInt();
