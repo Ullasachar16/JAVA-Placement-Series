@@ -3,7 +3,7 @@ package Patterns;
 import java.util.Scanner;
 
 public class SolidRectangle {
-    //Program to print Solid Rectangle pattern
+    //Program to Print Solid Rectangle pattern
     public static void main(String[] args) {
         //Printing solid rectangle pattern
         Scanner sc=new Scanner(System.in);
