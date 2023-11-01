@@ -13,7 +13,7 @@ public class SolidRectangle {
         int m=sc.nextInt();
         //Outer Loop for Rows
         for(int i=1;i<=n;i++){
-            //Inner loop for Columns
+            //Inner Loop for Columns
             for(int j=1;j<=m;j++){
                 System.out.print("* ");
             }
