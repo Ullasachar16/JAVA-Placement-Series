@@ -8,7 +8,7 @@ public class WithdrawMoneyExample {
         while(act_bal>=2000){
             System.out.println("Withdraw Amount:"+withdraw);
             act_bal=act_bal-withdraw;
-            System.out.println("Account balance:"+act_bal);
+            System.out.println("Account Balance:"+act_bal);
         }
 
     }
