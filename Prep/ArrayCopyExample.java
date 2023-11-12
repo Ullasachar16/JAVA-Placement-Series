@@ -1,7 +1,7 @@
 package Prep;
 
 public class ArrayCopyExample {
-    //Program to copy array
+    //Program to Copy array
     public static void main(String[] args) {
         char[] copyFrom={'d','e','c','c','a','n','c','h','a','r','g','e','r','s'};
         char[] copyTo=new char[15];
