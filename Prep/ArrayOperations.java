@@ -19,6 +19,6 @@ public class ArrayOperations {
                 max=myList[i];
             }
         }
-        System.out.println("max:"+max);
+        System.out.println("Max:"+max);
     }
 }
