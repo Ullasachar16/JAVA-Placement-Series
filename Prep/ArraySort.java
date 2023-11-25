@@ -10,7 +10,7 @@ public class ArraySort {
         for(int i=0;i< arr.length;i++){
             System.out.print(arr[i]+" ");
         }
-        System.out.println("\nafter sorting");
+        System.out.println("\nAfter sorting");
         Arrays.sort(arr);
         for(int i=0;i< arr.length;i++){
             System.out.print(arr[i]+" ");
