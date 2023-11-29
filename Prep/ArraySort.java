@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class ArraySort {
     //Program to Sort the array
     public static void main(String[] args) {
-        String arr[]={"Java","SQL","C","C++","Dart","Web","Android","go","lang"};
+        String arr[]={"Java","SQL","C","C++","Dart","Web","Android","Go","lang"};
         System.out.println("Before Sorting");
         for(int i=0;i< arr.length;i++){
             System.out.print(arr[i]+" ");
