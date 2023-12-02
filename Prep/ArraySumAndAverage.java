@@ -1,7 +1,7 @@
 package Prep;
 
 public class ArraySumAndAverage {
-    //Program to Find the Sum and Average of Elements inside array
+    //Program to Find the Sum and Average of Elements Inside array
     public static void main(String[] args) {
         int a[]={1,4,7,9,13,15,17};
         int sum=0;
