@@ -8,7 +8,7 @@ public class ArraySumAndAverage {
         for(int i=0;i< a.length;i++){
             sum+=a[i];
         }
-        System.out.println("sum:"+sum);
+        System.out.println("Sum:"+sum);
         System.out.println("average:"+(sum/a.length));
     }
 }
