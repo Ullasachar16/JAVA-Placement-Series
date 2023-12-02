@@ -9,6 +9,6 @@ public class ArraySumAndAverage {
             sum+=a[i];
         }
         System.out.println("Sum:"+sum);
-        System.out.println("average:"+(sum/a.length));
+        System.out.println("Average:"+(sum/a.length));
     }
 }
