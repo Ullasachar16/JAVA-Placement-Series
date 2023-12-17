@@ -12,7 +12,7 @@ public class FindingClosestValueOfANumberInAnArray {
         System.out.println("Enter Size of Array:");
         int size=sc.nextInt();
         a=new int[size];
-        System.out.println("Enter numbers for array:");
+        System.out.println("Enter Numbers for array:");
         for(int i=0;i< a.length;i++){
             a[i]=sc.nextInt();
         }
