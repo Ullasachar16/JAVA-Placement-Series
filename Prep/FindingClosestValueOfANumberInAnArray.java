@@ -9,7 +9,7 @@ public class FindingClosestValueOfANumberInAnArray {
         int find;
         int closest=0;
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter Size of array:");
+        System.out.println("Enter Size of Array:");
         int size=sc.nextInt();
         a=new int[size];
         System.out.println("Enter numbers for array:");
