@@ -31,6 +31,6 @@ public class FindingClosestValueOfANumberInAnArray {
                 dist=dist1;
             }
         }
-        System.out.println("Closest value is:"+closest);
+        System.out.println("Closest Value is:"+closest);
     }
 }
