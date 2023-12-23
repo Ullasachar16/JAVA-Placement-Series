@@ -21,7 +21,7 @@ public class FindingClosestValueOfANumberInAnArray {
             System.out.print(a[i]+" ");
         }
         System.out.println();
-        System.out.print("Enter Number to Find Closest value:");
+        System.out.print("Enter Number to Find Closest Value:");
         find=sc.nextInt();
         int dist=Math.abs(closest-find);
         for(int i:a){
