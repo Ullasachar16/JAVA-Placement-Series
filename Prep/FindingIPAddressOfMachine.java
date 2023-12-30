@@ -4,7 +4,7 @@ import java.net.InetAddress;
 import java.net.UnknownHostException;
 
 public class FindingIPAddressOfMachine {
-    //Program to Find the IP Address of a machine
+    //Program to Find the IP Address of a Machine
     public static void main(String[] args) {
         try{
             InetAddress ipAddr=InetAddress.getLocalHost();
