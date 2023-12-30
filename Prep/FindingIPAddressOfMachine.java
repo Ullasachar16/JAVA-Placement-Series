@@ -8,7 +8,7 @@ public class FindingIPAddressOfMachine {
     public static void main(String[] args) {
         try{
             InetAddress ipAddr=InetAddress.getLocalHost();
-            System.out.println("\nIP address of the machine:\n"+ipAddr.getHostAddress());
+            System.out.println("\nIP Address of the machine:\n"+ipAddr.getHostAddress());
         }catch (UnknownHostException ex){
             ex.printStackTrace();
         }
