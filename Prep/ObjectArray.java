@@ -15,7 +15,7 @@ class Employee2 {
             name=br.readLine();
             System.out.println("Enter Emp Id:");
             emp_id= Integer.parseInt(br.readLine());
-            System.out.println("Enter salary:");
+            System.out.println("Enter Salary:");
             salary=Integer.parseInt(br.readLine());
         }catch (Exception e){
             System.out.println("\n"+e);
