@@ -13,7 +13,7 @@ class Employee2 {
         try{
             System.out.print("Enter Name:\n");
             name=br.readLine();
-            System.out.println("Enter Emp id:");
+            System.out.println("Enter Emp Id:");
             emp_id= Integer.parseInt(br.readLine());
             System.out.println("Enter salary:");
             salary=Integer.parseInt(br.readLine());
