@@ -11,7 +11,7 @@ public class NeonNumber {
         int num;
         int square;
         int sum=0;
-        System.out.println("Enter Any number:");
+        System.out.println("Enter Any Number:");
         num=Integer.parseInt(br.readLine());
         square=num*num;
 
