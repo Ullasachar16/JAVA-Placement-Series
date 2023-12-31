@@ -11,7 +11,7 @@ class Employee2 {
         BufferedReader br=new BufferedReader(new InputStreamReader(System.in));
     public void getData(){
         try{
-            System.out.print("Enter name:\n");
+            System.out.print("Enter Name:\n");
             name=br.readLine();
             System.out.println("Enter emp id:");
             emp_id= Integer.parseInt(br.readLine());
