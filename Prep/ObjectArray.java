@@ -35,7 +35,7 @@ class ObjectArray{
             emp[i]=new Employee2();
         }
         for(i=0;i< emp.length;i++){
-            System.out.println("\nEnter Employee Detail:"+(i+1));
+            System.out.println("\nEnter Employee Details:"+(i+1));
             emp[i].getData();
         }
         for(i=0;i< emp.length;i++){
