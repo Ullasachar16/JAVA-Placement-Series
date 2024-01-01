@@ -39,7 +39,7 @@ class ObjectArray{
             emp[i].getData();
         }
         for(i=0;i< emp.length;i++){
-            System.out.println("\ndetails of employee"+(i+1)+" is:");
+            System.out.println("\nDetails of employee"+(i+1)+" is:");
             emp[i].display();
         }
     }
