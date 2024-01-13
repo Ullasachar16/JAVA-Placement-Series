@@ -8,7 +8,7 @@ public class PrintingAllSubstrings {
         String str,sub;
         int i,c,length;
         Scanner sc=new Scanner(System.in);
-        System.out.println("Enter a String to print its all substrings");
+        System.out.println("Enter a String to Print its all substrings");
         str=sc.nextLine();
         length=str.length();
         System.out.println("Substrings of "+str+" are:");
