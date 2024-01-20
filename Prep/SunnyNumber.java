@@ -13,7 +13,7 @@ public class SunnyNumber {
         n1=n+1;
         x=Math.sqrt(n1);
         if((int)x==x){
-            System.out.println("Number is sunny number");
+            System.out.println("Number is Sunny number");
         }else {
             System.out.println("number is not a sunny number");
         }
