@@ -15,7 +15,7 @@ public class SunnyNumber {
         if((int)x==x){
             System.out.println("Number is Sunny Number");
         }else {
-            System.out.println("Number is Not a Sunny number");
+            System.out.println("Number is Not a Sunny Number");
         }
     }
 }
