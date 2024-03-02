@@ -1,7 +1,7 @@
 package Prep;
 
 public class TwinPrimes {
-    //Program to Print Twin primes until N
+    //Program to Print Twin Primes until N
     public static void main(String[] args) {
         String primeNo="";
         int j=0;
