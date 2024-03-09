@@ -11,7 +11,7 @@ public class TwoDArray {
         System.out.println("Enter # of Cols:");
         int col=sc.nextInt();
         int[][] a=new int[row][col];
-        System.out.println("enter elements:");
+        System.out.println("Enter elements:");
         for(int i=0;i<row;i++){
            for(int j=0;j<col;j++){
                a[i][j]=sc.nextInt();
