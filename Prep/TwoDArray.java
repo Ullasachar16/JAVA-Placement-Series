@@ -8,7 +8,7 @@ public class TwoDArray {
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter # of Rows:");
         int row=sc.nextInt();
-        System.out.println("Enter # of cols:");
+        System.out.println("Enter # of Cols:");
         int col=sc.nextInt();
         int[][] a=new int[row][col];
         System.out.println("enter elements:");
