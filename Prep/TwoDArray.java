@@ -17,7 +17,7 @@ public class TwoDArray {
                a[i][j]=sc.nextInt();
            }
         }
-        System.out.println("Here are those "+(row*col)+ " integers in a "+row+ "x" +col+ "2d-array:");
+        System.out.println("Here are those "+(row*col)+ " Integers in a "+row+ "x" +col+ "2d-array:");
         System.out.println(Arrays.deepToString(a));
     }
 }
