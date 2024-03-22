@@ -8,7 +8,7 @@ public class CheckIfAnArrayIsSorted {
             return true;
         }
         if(arr[index]>=arr[index+1]){
-            //array is unsorted
+            //Array is unsorted
             return false;
         }else {
             return isSorted(arr,index+1);
